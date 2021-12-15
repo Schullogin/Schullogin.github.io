@@ -18,11 +18,33 @@ test:
   except:
     - master
 
-pages:
+.pages-template: &pages_template
+  before_script:
+    - rm -rf $CI_PROJECT_DIR/public
+    - mkdir -p $CI_PROJECT_DIR/public
   script:
     - hugo
   artifacts:
     paths:
       - public
   only:
-    - master
+    - main
+
+pages_merge_request_build:
+  <<: *pages_template
+  environment:
+    name: review-docs/$CI_MERGE_REQUEST_ID
+    url: https://$CI_PAGES_URL/-/$CI_PROJECT_NAME/-/jobs/$CI_JOB_ID/artifacts/public/index.html
+    on_stop: pages_merge_request_stop
+    auto_stop_in: 1 weeks
+  rules:
+    - if: $CI_MERGE_REQUEST_ID
+
+pages_merge_request_stop:
+  script: echo "stop pages review"
+  environment:
+    name: review-docs/$CI_MERGE_REQUEST_ID
+    action: stop
+  rules:
+    - if: $CI_MERGE_REQUEST_ID
+      when: manual
