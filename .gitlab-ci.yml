@@ -27,6 +27,9 @@ test:
   artifacts:
     paths:
       - public
+
+pages:
+  <<: *pages_template
   only:
     - main
 
