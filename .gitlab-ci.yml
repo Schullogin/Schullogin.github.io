@@ -19,11 +19,14 @@ test:
     - master
 
 .pages-template: &pages_template
+  variables:
+    HUGO_URL: $CI_PAGES_URL
   before_script:
     - rm -rf $CI_PROJECT_DIR/public
     - mkdir -p $CI_PROJECT_DIR/public
   script:
-    - hugo
+    - echo "URL $HUGO_URL"
+    - hugo --baseURL $HUGO_URL
   artifacts:
     paths:
       - public
@@ -35,9 +38,11 @@ pages:
 
 pages_merge_request_build:
   <<: *pages_template
+  variables:
+    HUGO_URL: https://$CI_PROJECT_ROOT_NAMESPACE.$CI_PAGES_DOMAIN/-/$CI_PROJECT_NAME/-/jobs/$CI_JOB_ID/artifacts/public/
   environment:
     name: review-docs/$CI_MERGE_REQUEST_ID
-    url: https://$CI_PAGES_URL/-/$CI_PROJECT_NAME/-/jobs/$CI_JOB_ID/artifacts/public/index.html
+    url: $HUGO_URL/index.html
     on_stop: pages_merge_request_stop
     auto_stop_in: 1 weeks
   rules:
