@@ -4,7 +4,7 @@ date: 2021-12-15 14:30:00
 pin: true
 section: issue
 affected:
-- Dateiablage
+  - Dateiablage
 severity: disrupted
 ---
 
