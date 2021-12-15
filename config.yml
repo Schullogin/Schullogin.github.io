@@ -315,11 +315,11 @@ params:
   #    link: https://example.com
 
   customTabs:
-    - name: Schullogin Support
+    - name: Support
       link: https://docs.schullogin.de/10-Allgemein/11-Support/Index.html
-    - name: Schullogin auf Twitter
+    - name: @schullogin
       link: https://twitter.com/schullogin
-    - name: SMK auf Twitter
+    - name: @bildung_Sachsen
       link: https://twitter.com/bildung_Sachsen/
 
 
