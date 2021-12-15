@@ -314,6 +314,16 @@ params:
   #    name: Name
   #    link: https://example.com
 
+  customTabs:
+    - name: Schullogin Support
+      link: https://docs.schullogin.de/10-Allgemein/11-Support/Index.html
+    - name: Schullogin auf Twitter
+      link: https://twitter.com/schullogin
+    - name: SMK auf Twitter
+      link: https://twitter.com/bildung_Sachsen/
+
+
+
   # Disable complex server-side
   # calculations that may impact
   # your build performance
