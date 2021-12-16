@@ -165,24 +165,25 @@ params:
       category: Dienste in Schullogin
     - name: Videokonferenz
       category: Dienste in Schullogin
-    - name: Homepage Schule
+    - name: LernSax
       category: Dienste in Schullogin
     - name: OPAL Schule
       category: Dienste in Schullogin
     - name: Moodle SBS
       category: Dienste in Schullogin
-    - name: EtherPad
-      category: Dienste in Schullogin
-    - name: MeSax - Wissensportal
-      category: Weitere Dienste
     - name: MeSax - Mediathek
       category: Dienste in Schullogin
-    - name: LernSax
+    - name: EtherPad
+      category: Dienste in Schullogin
+    - name: Homepage Schule
       category: Dienste in Schullogin
     - name: Schulportal
       category: Dienste in Schullogin
     - name: MUNDO
       category: Dienste in Schullogin
+
+    - name: MeSax - Wissensportal
+      category: Weitere Dienste
 
   # What date format to use?
   #
