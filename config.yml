@@ -169,16 +169,23 @@ params:
       category: Dienste in Schullogin
     - name: Dateiablage
       category: Dienste in Schullogin
+<<<<<<< HEAD
     - name: Videokonferenzen (BigBlueButton)
+=======
+    - name: Videokonferenz
+>>>>>>> 3ebadeb711bfd9a7375b4894f3e99328d6e7b583
       category: Dienste in Schullogin
-    - name: Homepage Schule
+    - name: LernSax
       category: Dienste in Schullogin
     - name: OPAL Schule
       category: Dienste in Schullogin
     - name: Moodle SBS
       category: Dienste in Schullogin
+    - name: MeSax - Mediathek
+      category: Dienste in Schullogin
     - name: EtherPad
       category: Dienste in Schullogin
+<<<<<<< HEAD
 
     # MeSax / LernSax
     - name: LernSax
@@ -207,12 +214,21 @@ params:
     # Sonstige
     - name: Dynamische Lehrplandatenbank
       category: Sonstige
+=======
+    - name: Homepage Schule
+      category: Dienste in Schullogin
+    - name: Schulportal
+      category: Dienste in Schullogin
+>>>>>>> 3ebadeb711bfd9a7375b4894f3e99328d6e7b583
     - name: MUNDO
       category: Sonstige
     - name: Schulportal
       category: Sonstige
 
 
+
+    - name: MeSax - Wissensportal
+      category: Weitere Dienste
 
   # What date format to use?
   #
@@ -428,7 +444,7 @@ params:
   # the value to the default:
   #
   # Default: UA-00000000-1
-  # googleAnalytics: UA-00000000-1
+  googleAnalytics: UA-00000000-1
 
 # These options affect the core of cState.
 # Please do not change them if you do not

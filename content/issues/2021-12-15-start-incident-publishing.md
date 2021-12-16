@@ -10,11 +10,16 @@ affected:
   - Support
   - Nachrichten
   - Dateiablage
+<<<<<<< HEAD
   - Videokonferenzen (BigBlueButton)
+=======
+  - Videokonferenz
+>>>>>>> 3ebadeb711bfd9a7375b4894f3e99328d6e7b583
   - Homepage Schule
   - OPAL Schule
   - Moodle SBS
   - EtherPad
+<<<<<<< HEAD
   - LernSax
   - LernSax - Edudip
   - LernSax - BigBlueButton
@@ -26,6 +31,12 @@ affected:
   - BSCW
   - BSCL
   - Dynamische Lehrplandatenbank
+=======
+  - MeSax - Wissensportal
+  - MeSax - Mediathek
+  - LernSax
+  - Schulportal
+>>>>>>> 3ebadeb711bfd9a7375b4894f3e99328d6e7b583
   - MUNDO
   - Schulportal
 section: issue
