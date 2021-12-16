@@ -163,7 +163,7 @@ params:
       category: Dienste in Schullogin
     - name: Dateiablage
       category: Dienste in Schullogin
-    - name: Videokonferenzen
+    - name: Videokonferenz
       category: Dienste in Schullogin
     - name: Homepage Schule
       category: Dienste in Schullogin

@@ -10,7 +10,7 @@ affected:
   - Support
   - Nachrichten
   - Dateiablage
-  - Videokonferenzen
+  - Videokonferenz
   - Homepage Schule
   - OPAL Schule
   - Moodle SBS
