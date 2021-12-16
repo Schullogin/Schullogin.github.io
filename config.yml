@@ -145,7 +145,10 @@ params:
   categories:
     - name: Schullogin
     - name: Dienste in Schullogin
-    - name: Weitere Dienste
+    - name: MeSax / LernSax
+    - name: Sächsicher Bildungsserver
+    - name: Sonstige
+      closed: true
 
   # These are your systems. Change them to
   # change the amount of components.
@@ -155,15 +158,18 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
+    # Schullogin
     - name: Anmeldung
       category: Schullogin
     - name: Support
       category: Schullogin
+
+    # Dienste in Schullogin
     - name: Nachrichten
       category: Dienste in Schullogin
     - name: Dateiablage
       category: Dienste in Schullogin
-    - name: Videokonferenzen
+    - name: Videokonferenzen (BigBlueButton)
       category: Dienste in Schullogin
     - name: Homepage Schule
       category: Dienste in Schullogin
@@ -173,16 +179,40 @@ params:
       category: Dienste in Schullogin
     - name: EtherPad
       category: Dienste in Schullogin
-    - name: MeSax Wissensportal
-      category: Weitere Dienste
+
+    # MeSax / LernSax
+    - name: LernSax
+      category: MeSax / LernSax
+    - name: LernSax - Edudip
+      category: MeSax / LernSax
+    - name: LernSax - BigBlueButton
+      category: MeSax / LernSax
     - name: MeSax Mediathek
-      category: Dienste in Schullogin
-    - name: MeSax LernSax
-      category: Dienste in Schullogin
-    - name: Schulportal
-      category: Dienste in Schullogin
+      category: MeSax / LernSax
+    - name: MeSax Wissensportal
+      category: MeSax / LernSax
+
+    # Sächsicher Bildungsserver
+    - name: SchulCMS
+      category: Sächsicher Bildungsserver
+    - name: Redaktionssystem
+      category: Sächsicher Bildungsserver
+    - name: Materialdatenbank
+      category: Sächsicher Bildungsserver
+    - name: BSCW
+      category: Sächsicher Bildungsserver
+    - name: BSCL
+      category: Sächsicher Bildungsserver
+
+    # Sonstige
+    - name: Dynamische Lehrplandatenbank
+      category: Sonstige
     - name: MUNDO
-      category: Dienste in Schullogin
+      category: Sonstige
+    - name: Schulportal
+      category: Sonstige
+
+
 
   # What date format to use?
   #

@@ -10,16 +10,24 @@ affected:
   - Support
   - Nachrichten
   - Dateiablage
-  - Videokonferenzen
+  - Videokonferenzen (BigBlueButton)
   - Homepage Schule
   - OPAL Schule
   - Moodle SBS
   - EtherPad
-  - MeSax Wissensportal
+  - LernSax
+  - LernSax - Edudip
+  - LernSax - BigBlueButton
   - MeSax Mediathek
-  - MeSax LernSax
-  - Schulportal
+  - MeSax Wissensportal
+  - SchulCMS
+  - Redaktionssystem
+  - Materialdatenbank
+  - BSCW
+  - BSCL
+  - Dynamische Lehrplandatenbank
   - MUNDO
+  - Schulportal
 section: issue
 ---
 
