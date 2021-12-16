@@ -173,11 +173,11 @@ params:
       category: Dienste in Schullogin
     - name: EtherPad
       category: Dienste in Schullogin
-    - name: MeSax Wissensportal
+    - name: MeSax - Wissensportal
       category: Weitere Dienste
-    - name: MeSax Mediathek
+    - name: MeSax - Mediathek
       category: Dienste in Schullogin
-    - name: MeSax LernSax
+    - name: LernSax
       category: Dienste in Schullogin
     - name: Schulportal
       category: Dienste in Schullogin

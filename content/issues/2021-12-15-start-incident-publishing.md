@@ -15,9 +15,9 @@ affected:
   - OPAL Schule
   - Moodle SBS
   - EtherPad
-  - MeSax Wissensportal
-  - MeSax Mediathek
-  - MeSax LernSax
+  - MeSax - Wissensportal
+  - MeSax - Mediathek
+  - LernSax
   - Schulportal
   - MUNDO
 section: issue
