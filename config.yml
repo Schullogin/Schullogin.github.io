@@ -169,11 +169,7 @@ params:
       category: Dienste in Schullogin
     - name: Dateiablage
       category: Dienste in Schullogin
-<<<<<<< HEAD
     - name: Videokonferenzen (BigBlueButton)
-=======
-    - name: Videokonferenz
->>>>>>> 3ebadeb711bfd9a7375b4894f3e99328d6e7b583
       category: Dienste in Schullogin
     - name: LernSax
       category: Dienste in Schullogin
@@ -185,7 +181,6 @@ params:
       category: Dienste in Schullogin
     - name: EtherPad
       category: Dienste in Schullogin
-<<<<<<< HEAD
 
     # MeSax / LernSax
     - name: LernSax
@@ -214,12 +209,6 @@ params:
     # Sonstige
     - name: Dynamische Lehrplandatenbank
       category: Sonstige
-=======
-    - name: Homepage Schule
-      category: Dienste in Schullogin
-    - name: Schulportal
-      category: Dienste in Schullogin
->>>>>>> 3ebadeb711bfd9a7375b4894f3e99328d6e7b583
     - name: MUNDO
       category: Sonstige
     - name: Schulportal
