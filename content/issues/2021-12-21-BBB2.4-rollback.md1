@@ -1,14 +1,14 @@
 ---
-title: BigBlueButton Update am 20.12.2021
+title: BigBlueButton Update am 21.12.2021
 date: 2021-12-20:00:00
 informational: true
+pin: true
 section: issue
 affected:
 - Videokonferenzen
-severity: down
 ---
 
-Am 20.12.2021 werden unsere BigBlueButton Server zwischen 20:00 und 22:00 Uhr auf Version 2.4 aktualisiert.
+Am 21.12.2021 wurden unsere BBB Server wieder auf BBB 2.3 umgestellt, da es Probleme mit der Integration in LernSax gab.
 
 Informationen zu den neuen Features finden Sie unter https://docs.schullogin.de
 
