@@ -338,6 +338,10 @@ params:
   # Default: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
   description: Wir überwachen unsere Dienste durchgehend, im Fall von Störungen werden Informationen dazu hier veröffentlicht
 
+  preface: Hier informiert Schullogin über die Funktionbereitschaft der digitalen Dienste für die Schulen in Sachsen.
+
+  enableCustomHTML: true
+
   # Tabs on homepage
   # Uncomment to enable.
   #
