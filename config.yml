@@ -192,17 +192,17 @@ params:
     - name: MeSax Wissensportal
       category: MeSax / LernSax
 
-    # Sächsicher Bildungsserver
+    # Sächsischer Bildungsserver
     - name: SchulCMS
-      category: Sächsicher Bildungsserver
+      category: Sächsischer Bildungsserver
     - name: Redaktionssystem
-      category: Sächsicher Bildungsserver
+      category: Sächsischer Bildungsserver
     - name: Materialdatenbank
-      category: Sächsicher Bildungsserver
+      category: Sächsischer Bildungsserver
     - name: BSCW
-      category: Sächsicher Bildungsserver
+      category: Sächsischer Bildungsserver
     - name: BSCL
-      category: Sächsicher Bildungsserver
+      category: Sächsischer Bildungsserver
 
     # Sonstige
     - name: Dynamische Lehrplandatenbank
