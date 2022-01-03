@@ -146,7 +146,7 @@ params:
     - name: Schullogin
     - name: Dienste in Schullogin
     - name: MeSax / LernSax
-    - name: Sächsicher Bildungsserver
+    - name: Sächsischer Bildungsserver
     - name: Sonstige
       closed: true
 
