@@ -354,12 +354,6 @@ params:
   customTabs:
     - name: Support
       link: https://docs.schullogin.de/10-Allgemein/11-Support/Index.html
-    - name: "@schullogin"
-      link: https://twitter.com/schullogin
-    - name: "@bildung_Sachsen"
-      link: https://twitter.com/bildung_Sachsen/
-
-
 
   # Disable complex server-side
   # calculations that may impact
