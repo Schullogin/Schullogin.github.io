@@ -185,8 +185,6 @@ params:
     # MeSax / LernSax
     - name: LernSax
       category: MeSax / LernSax
-    - name: LernSax - Edudip
-      category: MeSax / LernSax
     - name: LernSax - BigBlueButton
       category: MeSax / LernSax
     - name: MeSax Mediathek
