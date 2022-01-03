@@ -1,11 +1,11 @@
 ---
-title: BigBlueButton Update am 21.12.2021
+title: BigBlueButton Rollback am 21.12.2021
 date: 2021-12-21 00:00:00
 informational: true
-pin: true
 section: issue
 affected:
 - Videokonferenzen
+severity: down
 ---
 
 Am 21.12.2021 wurden unsere BBB Server wieder auf BBB 2.3 umgestellt, da es Probleme mit der Integration in LernSax gab.
