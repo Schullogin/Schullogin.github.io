@@ -35,7 +35,7 @@ test:
 pages:
   <<: *pages_template
   variables:
-    HUGO_URL: status.schullogin.de
+    HUGO_URL: https://status.schullogin.de
   only:
     - main
     - master
