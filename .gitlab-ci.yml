@@ -39,7 +39,7 @@ pages:
     - master
 
 pagesDeploy:
-  image: docker.kay-strobach.de/docker/php:7.1
+  image: docker.kay-strobach.de/docker/php:7.4
   stage: deploy
   before_script:
     # inject ssh host keys
