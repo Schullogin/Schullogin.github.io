@@ -38,6 +38,29 @@ pages:
     - main
     - master
 
+pagesDeploy:
+  image: docker.kay-strobach.de/docker/php:7.1
+  stage: deploy
+  before_script:
+    # inject ssh host keys
+    - 'which ssh-agent || ( apt-get update -y --force-yes && apt-get install openssh-client -y --force-yes )'
+    - 'which git || ( apt-get update -y --force-yes && apt-get install git-core -y --force-yes )'
+    - eval $(ssh-agent -s)
+    - ssh-add <(echo "$SSH_PRIVATE_KEY") || true
+    - mkdir -p ~/.ssh
+    - '[[ -f /.dockerenv ]] && echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config'
+  script:
+    - rsync -hrvz --delete --exclude=_ -e "ssh -i ${HOME}/.ssh/id_rsa" public/ "${RSYNCSTRING_DOCUMENTATION}/"
+  tags:
+    - docker
+  only:
+    refs:
+      - main
+    variables:
+      - $RSYNCSTRING
+  needs:
+    - pages-public
+
 pages_merge_request_build:
   <<: *pages_template
   variables:
