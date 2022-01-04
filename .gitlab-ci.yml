@@ -59,7 +59,7 @@ pagesDeploy:
     variables:
       - $RSYNCSTRING
   needs:
-    - pages-public
+    - pages
 
 pages_merge_request_build:
   <<: *pages_template
