@@ -50,7 +50,7 @@ pagesDeploy:
     - mkdir -p ~/.ssh
     - '[[ -f /.dockerenv ]] && echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config'
   script:
-    - rsync -hrvz --delete --exclude=_ -e "ssh -i ${HOME}/.ssh/id_rsa" public/ "${RSYNCSTRING_DOCUMENTATION}/"
+    - rsync -hrvz --delete --exclude=_ -e "ssh -i ${HOME}/.ssh/id_rsa" public/ "${RSYNCSTRING}/"
   tags:
     - docker
   only:
