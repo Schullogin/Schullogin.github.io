@@ -9,4 +9,4 @@ affected:
 severity: disrupted
 ---
 
-Derzeit wirft die Dateiablage teilweise Fehler beim Speichern von Dateien, wir suchen nach der Fehlerursache.
+Derzeit gibt es in der Dateiablage teilweise Fehler beim Speichern oder Hochladen von Dateien, wir suchen nach der Fehlerursache.
