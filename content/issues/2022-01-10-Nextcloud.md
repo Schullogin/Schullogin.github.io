@@ -1,7 +1,9 @@
 ---
 title: Dateiablage - Probleme beim Speichern und Laden von Dateien - Update vom 11.01.2022
 date: 2022-01-10 09:00:00
-resolved: false
+resolvedWhen: 2022-01-18 09:00:00
+resolved: true
+
 pin: true
 section: issue
 affected:
