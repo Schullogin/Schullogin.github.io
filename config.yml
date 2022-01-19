@@ -163,6 +163,8 @@ params:
       category: Schullogin
     - name: Support
       category: Schullogin
+    - name: Schnittstellen
+      category: Schullogin
 
     # Dienste in Schullogin
     - name: Nachrichten
