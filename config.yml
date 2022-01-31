@@ -457,7 +457,6 @@ outputs:
     - json
     - rss
     - svg
-    - 2.svg
   term:
     - html
     - json
@@ -467,11 +466,11 @@ outputFormats:
   svg:
     isPlainText: true
     mediaType: image/svg+xml
-  "2.svg":
-    isPlainText: true
-    mediaType: image/svg+xml
+#  "2.svg":
+#    isPlainText: true
+#    mediaType: image/svg+xml
 
 mediaTypes:
   image/svg+xml:
     suffixes:
-      - 2.svg
+      - svg
