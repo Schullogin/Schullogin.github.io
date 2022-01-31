@@ -1,9 +1,8 @@
 ---
 title: Dateiablage - Down wegen Wartung
 date: 2022-01-31 09:45:00
-#resolvedWhen: 2022-01-18 09:00:00
-resolved: false
-
+resolvedWhen: 2022-01-31 10:31:00
+resolved: true
 pin: true
 section: issue
 affected:
