@@ -368,7 +368,7 @@ params:
   #
   # Default: `false`
   # BOOLEAN; `true`, `false`
-  disableComplexCalculations: false
+  disableComplexCalculations: true
 
   # Incident posts shown
   # in one page
