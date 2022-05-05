@@ -1,9 +1,9 @@
 ---
 title: Wartungsfenster für LernSax
 date: 2022-04-13 22:00:00
-# resolved: false
+resolved: true
 # resolvedWhen: 2022-02-12 23:00:00
-pin: true
+pin: false
 informational: true
 affected:
 - LernSax
