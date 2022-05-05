@@ -31,5 +31,3 @@ Serverdienste für maximal 10 Minuten kommen.
 
 Da die Firewall für sämtliche Dienste des Bildungsservers zuständig ist,
 wird es alle Serverdienste betreffen.
-
-Bitte informieren Sie Ihre Besucher über den Wartungstermin.
