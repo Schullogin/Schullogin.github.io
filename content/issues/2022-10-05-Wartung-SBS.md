@@ -3,7 +3,7 @@ title: Wartungsfenster für SBS
 date: 2022-05-10 10:00:00
 resolved: true
 esolvedWhen: 2022-05-10 11:00:00
-pin: true
+pin: false
 informational: true
 affected:
 - Anmeldung
