@@ -23,8 +23,8 @@ affected:
 section: issue
 ---
 
-Im Zeitraum vom 01.06.2022 bis 10.06.2022 werden umfangreiche Wartungsarbeiten am Netzwerk der TU Dresden durchgeführt.
+Im Zeitraum vom Mittwoch, den 01.06.2022, bis Freitag, den 10.06.2022, werden umfangreiche Wartungsarbeiten am Netzwerk der TU Dresden durchgeführt.
 
-Damit sind **kurzzeitige** Ausfälle der Schullogin-Webseite und anderer angeschlossener Dienste möglich.
+Damit sind **kurzzeitige** Ausfälle der Schullogin-Webseite und angeschlossener Dienste möglich.
 
-Aktuelle Status-Updates wie immer auf https://twitter.com/schullogin
+Aktuelle Status-Updates werden wie immer auf https://twitter.com/schullogin bereitgestellt.
