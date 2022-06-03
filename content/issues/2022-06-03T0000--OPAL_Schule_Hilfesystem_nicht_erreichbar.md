@@ -7,7 +7,7 @@ severity: disrupted
 # informational: true
 # pin: true 
 affected:
-- OPAL
+- OPAL Schule
 section: issue
 ---
 
