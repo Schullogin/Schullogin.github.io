@@ -3,7 +3,7 @@ title: BigBlueButton
 date: 2022-06-09 11:30:00
 section: issue
 affected:
-- Videokonferenzen (BigBlueButton)
+  - Videokonferenzen (BigBlueButton)
 severity: disrupted
 ---
 
