@@ -1,5 +1,5 @@
 ---
-title: BigBlueButton Update am 04.01.2022
+title: BigBlueButton
 date: 2022-06-09 11:30:00
 section: issue
 affected:
