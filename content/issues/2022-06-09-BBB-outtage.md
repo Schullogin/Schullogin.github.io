@@ -1,10 +1,13 @@
 ---
 title: BigBlueButton
 date: 2022-06-09 11:30:00
+resolved: true
+resolvedWhen: 2022-06-09 15:15:00
 section: issue
 affected:
   - Videokonferenzen (BigBlueButton)
 severity: disrupted
+
 ---
 
 Durch die Wartung der Firewall kommt es derzeit zu einer nicht Erreichbarkeit des BBB Vermittlungsservers.
