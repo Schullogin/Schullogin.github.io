@@ -1,9 +1,8 @@
 ---
 title: Wartungsfenster am Sächsischen Bildungsserver
 date: 2022-05-10 10:00:00
-# resolved: false
-# resolvedWhen: 2022-02-12 23:00:00
-pin: true
+resolved: true
+resolvedWhen: 2022-02-12 23:00:00
 informational: true
 affected:
   - Anmeldung
