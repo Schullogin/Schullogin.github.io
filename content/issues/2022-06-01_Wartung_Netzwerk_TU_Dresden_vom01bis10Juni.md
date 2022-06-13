@@ -1,11 +1,10 @@
 ---
 title: "Wartung Netzwerk TU Dresden vom 01. bis 10. Juni"
 date: 2022-06-01T00:00:00
-# resolved: true
-# resolvedWhen: 2022-06-10T23:59:59
+resolved: true
+resolvedWhen: 2022-06-13T00:00:00
 # severity: down
 informational: true
-pin: true 
 affected:
 - Anmeldung
 - Support
