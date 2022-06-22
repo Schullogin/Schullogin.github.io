@@ -22,7 +22,11 @@ jobs:
           # extended: true
 
       - name: Build
-        run: hugo --minify --baseURL "${{ github.repository_owner }}.github.io"
+        run: |
+          hugo --minify --baseURL "${{ github.repository_owner }}.github.io";
+          mkdir -p tools;
+          wget -O tools/index.html https://schullogin.de/p/sbs.singlesignon.backend.forger/statustool/standalone;
+          
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
