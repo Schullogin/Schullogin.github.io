@@ -357,6 +357,9 @@ params:
   customTabs:
     - name: Support
       link: https://docs.schullogin.de/10-Allgemein/11-Support/Index.html
+    - name: Status Tool
+      link: /tools/index.html
+
 
   # Disable complex server-side
   # calculations that may impact
