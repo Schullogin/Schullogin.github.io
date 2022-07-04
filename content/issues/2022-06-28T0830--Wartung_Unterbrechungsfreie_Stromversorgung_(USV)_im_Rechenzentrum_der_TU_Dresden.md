@@ -1,11 +1,11 @@
 ---
 title: "Wartung der unterbrechungsfreien Stromversorgung im Rechenzentrum der TU Dresden"
 date: 2022-06-28T08:30:00
-# resolved: true
-# resolvedWhen: 2022-06-28T08:30:00
+resolved: true
+resolvedWhen: 2022-06-28T15:00:00
 # severity: down
 informational: true
-pin: true 
+# pin: true 
 affected:
 - Anmeldung
 - Support

@@ -2,11 +2,11 @@
 ---
 title: "Softwareupdates an allen dezentralen Firewalls des ZIH"
 date: 2022-06-27T07:00:00
-# resolved: true
-# resolvedWhen: 2022-06-27T07:00:00
+resolved: true
+resolvedWhen: 2022-06-27T09:00:00
 # severity: down
 informational: true
-pin: true 
+# pin: true 
 affected:
 - Anmeldung
 - Support
