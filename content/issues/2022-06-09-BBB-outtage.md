@@ -1,5 +1,5 @@
 ---
-title: BigBlueButton
+title: Schullogin BigBlueButton - Wartung
 date: 2022-06-09 11:30:00
 resolved: true
 resolvedWhen: 2022-06-09 15:15:00

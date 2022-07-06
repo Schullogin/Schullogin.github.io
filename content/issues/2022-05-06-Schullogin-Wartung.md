@@ -1,5 +1,5 @@
 ---
-title: Kurzfristige Schullogin Wartung
+title: Schullogin - Kurzfristige Wartung
 date: 2022-05-05 14:30:00 
 resolved: true
 resolvedWhen: 2022-05-05 14:45:00

@@ -1,5 +1,5 @@
 ---
-title: "OPAL Schule: Hilfesystem vorläufig nicht erreichbar"
+title: "OPAL Schule - Hilfesystem vorläufig nicht erreichbar"
 date: 2022-06-03T00:00:00
 resolved: true
 resolvedWhen: 2022-06-05T08:30:00

@@ -1,5 +1,5 @@
 ---
-title: BBB Down
+title: BigBlueButton von Schullogin - Down
 date: 2022-01-03 07:00:00 
 resolved: true
 resolvedWhen: 2022-01-03 08:30:00 

@@ -1,5 +1,5 @@
 ---
-title: Wartungsfenster für LernSax
+title: LernSax - Wartungsfenster
 date: 2022-04-13 22:00:00
 resolved: true
 resolvedWhen: 2022-04-14 02:00:00

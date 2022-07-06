@@ -1,5 +1,5 @@
 ---
-title: Wartungsfenster für SBS
+title: SBS - Wartungsfenster
 date: 2022-05-10 10:00:00
 resolved: true
 resolvedWhen: 2022-05-10 11:00:00
