@@ -205,6 +205,8 @@ params:
       category: Sächsischer Bildungsserver
     - name: BSCL
       category: Sächsischer Bildungsserver
+    - name: FTP-Schulhomepages
+      category: Sächsischer Bildungsserver
 
     # Sonstige
     - name: Dynamische Lehrplandatenbank

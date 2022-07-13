@@ -28,6 +28,7 @@ affected:
   - Dynamische Lehrplandatenbank
   - MUNDO
   - Schulportal
+  - FTP-Schulhomepages
 section: issue
 ---
 
