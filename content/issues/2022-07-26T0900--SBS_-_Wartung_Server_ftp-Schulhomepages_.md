@@ -1,11 +1,11 @@
 ---
 title: "SBS - Wartung Server ftp-Schulhomepages"
 date: 2022-07-26T09:00:00
-# resolved: true
-# resolvedWhen: 2022-07-26T16:00:00
+resolved: true
+resolvedWhen: 2022-07-26T16:00:00
 # severity: down
 informational: true
-pin: true 
+# pin: true 
 affected:
 - FTP-Schulhomepages
 section: issue

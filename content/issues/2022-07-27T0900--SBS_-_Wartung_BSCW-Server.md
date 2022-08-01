@@ -1,11 +1,11 @@
 ---
 title: "SBS - Wartung BSCW-Server"
 date: 2022-07-27T09:00:00
-# resolved: true
-# resolvedWhen: 2022-07-27T16:00:00
+resolved: true
+resolvedWhen: 2022-07-27T16:00:00
 # severity: down
 informational: true
-pin: true 
+# pin: true 
 affected:
 - BSCW
 section: issue

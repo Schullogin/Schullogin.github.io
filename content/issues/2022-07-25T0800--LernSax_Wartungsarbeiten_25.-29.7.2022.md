@@ -1,11 +1,11 @@
 ---
 title: "LernSax Wartungsarbeiten 25.-29.7.2022"
 date: 2022-07-25T08:00:00
-# resolved: true
-# resolvedWhen: 2022-07-29T18:00:00
+resolved: true
+resolvedWhen: 2022-07-29T18:00:00
 # severity: down
 informational: true
-pin: true 
+# pin: true
 affected:
 - LernSaxSchullogin
 - LernSax
