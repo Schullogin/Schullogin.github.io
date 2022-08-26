@@ -1,5 +1,5 @@
 ---
-title: "Störung LernSax, Stand 26.08.2022 10:30"
+title: "Störung LernSax, Stand 26.08.2022 15:00"
 date: 2022-08-25T08:00:00
 resolved: false
 # resolvedWhen: 2022-08-25T07:00:00
