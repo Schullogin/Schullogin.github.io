@@ -1,11 +1,11 @@
 ---
 title: "Störung LernSax, Stand 26.08.2022 15:00"
 date: 2022-08-25T08:00:00
-resolved: false
-# resolvedWhen: 2022-08-25T07:00:00
+resolved: true
+resolvedWhen: 2022-08-26T16:00:00
 severity: down
 # informational: true
-pin: true 
+# pin: true 
 affected:
 - LernSaxSchullogin
 - LernSax
@@ -22,6 +22,10 @@ Weitere Infos folgen sobald diese vorliegen, die neuesten Informationen stehen o
 ## Aktualisierungen und Informationen aus dem LernSax Team
 
 Durch eine massive Störung bei unserem Hosting-Dienstleister ist der Login auf lernsax.de zur Zeit nicht möglich. Es wird bereits mit Hochdruck an einer Lösung gearbeitet.
+
+### Update 26.08.2022 16:15 Uhr:
+
+Seit einigen Minuten ist das Login an LernSax wieder möglich.
 
 ### Update 26.08.2022 15:00 Uhr:
 
