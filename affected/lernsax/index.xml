@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><link rel="alternate" type="text/html" href="https://Schullogin.github.io"/><title>LernSax on Verfügbarkeit digitaler Dienste für Schule in Sachsen</title><link>https://Schullogin.github.io/affected/lernsax/</link><description>Vorfallshistorie</description><generator>github.com/cstate</generator><language>de</language><lastBuildDate>2022-08-25T08:00:00+00:00</lastBuildDate><updated>2022-08-25T08:00:00+00:00</updated><atom:link href="https://Schullogin.github.io/affected/lernsax/index.xml" rel="self" type="application/rss+xml"/><item><title>Störung LernSax, Stand 25.08.2022 11:24</title><link>https://Schullogin.github.io/issues/2022-08-25t0800--lernsax_nicht_verfuegbar/</link><pubDate>Thu, 25 Aug 2022 08:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2022-08-25t0800--lernsax_nicht_verfuegbar/</guid><category/><description>Weitere Infos folgen sobald diese vorliegen, die neuesten Informationen stehen oben.
-Aktualisierungen und Informationen aus dem LernSax Team Durch eine massive Störung bei unserem Hosting-Dienstleister ist der Login auf lernsax.de zur Zeit nicht möglich. Es wird bereits mit Hochdruck an einer Lösung gearbeitet.
-Update 25.08.2022 11:24 Uhr: Nach einem Crash in einem Teilsystems werden Sicherungen aus den Backups eingespielt. Sobald dieses vollständig abgeschlossen ist, werden die Systeme wieder komplett hochgefahren.</description><content type="html">&lt;p>Weitere Infos folgen sobald diese vorliegen, die neuesten Informationen stehen oben.&lt;/p>
+Hinweise für SuS, LK, Eltern und Schulen Der LernSax Support ist über die Störung informiert, eine Meldung dazu ihrerseits ist nicht nötig. Informationen zum aktuellen Schuljahr finden sich bei vielen Schulen auf den Schulhomepages und ggf. auf den anderen etablierten Kanälen. Bitte nutzen Sie diese solange LernSax nicht erreichbar ist. Aktualisierungen und Informationen aus dem LernSax Team Durch eine massive Störung bei unserem Hosting-Dienstleister ist der Login auf lernsax.</description><content type="html">&lt;p>Weitere Infos folgen sobald diese vorliegen, die neuesten Informationen stehen oben.&lt;/p>
+&lt;h2 id="hinweise-für-sus-lk-eltern-und-schulen">Hinweise für SuS, LK, Eltern und Schulen&lt;/h2>
+&lt;ul>
+&lt;li>Der LernSax Support ist über die Störung informiert, eine Meldung dazu ihrerseits ist nicht nötig.&lt;/li>
+&lt;li>Informationen zum aktuellen Schuljahr finden sich bei vielen Schulen auf den Schulhomepages und ggf. auf den anderen etablierten Kanälen. Bitte nutzen Sie diese solange LernSax nicht erreichbar ist.&lt;/li>
+&lt;/ul>
 &lt;h2 id="aktualisierungen-und-informationen-aus-dem-lernsax-team">Aktualisierungen und Informationen aus dem LernSax Team&lt;/h2>
 &lt;p>Durch eine massive Störung bei unserem Hosting-Dienstleister ist der Login auf lernsax.de zur Zeit nicht möglich. Es wird bereits mit Hochdruck an einer Lösung gearbeitet.&lt;/p>
+&lt;h3 id="update-26082022-1030-uhr">Update 26.08.2022 10:30 Uhr:&lt;/h3>
+&lt;p>Laut aktuellem Plan wird LernSax im laufe des Nachmittags, ggf. späten Nachmittags, wieder zur Verfügung stehen.&lt;/p>
+&lt;h3 id="update-26082022-1000-uhr">Update 26.08.2022 10:00 Uhr:&lt;/h3>
+&lt;p>Im Rechenzentrum unseres Dienstleisters traten massive Störungen im Bereich der Hard- und
+Software auf, die leider auch unseren Dienst LernSax betreffen.
+Das Unternehmen spielt aktuell die Daten sowie die zwischenzeitlich aufgelaufenen E-Mails
+wieder ein.
+Aufgrund des hohen Datenvolumens und der notwendigen Testung dauert der Prozess an.&lt;/p>
 &lt;h3 id="update-25082022-1124-uhr">Update 25.08.2022 11:24 Uhr:&lt;/h3>
 &lt;p>Nach einem Crash in einem Teilsystems werden Sicherungen aus den Backups eingespielt. Sobald dieses vollständig abgeschlossen ist, werden die Systeme wieder komplett hochgefahren.&lt;/p>
 &lt;h3 id="update-25082022-0800-uhr">Update 25.08.2022 08:00 Uhr:&lt;/h3>
