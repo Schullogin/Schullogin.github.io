@@ -1,5 +1,5 @@
 ---
-title: "Störung LernSax, Stand 26.08.2022 17:00"
+title: "Störung LernSax, Stand 26.08.2022 18:00"
 date: 2022-08-25T08:00:00
 resolved: false
 # resolvedWhen: 2022-08-26T16:00:00
@@ -23,7 +23,25 @@ Weitere Infos folgen sobald diese vorliegen, die neuesten Informationen stehen o
 
 Durch eine massive Störung bei unserem Hosting-Dienstleister ist der Login auf lernsax.de zur Zeit nicht möglich. Es wird bereits mit Hochdruck an einer Lösung gearbeitet.
 
-**Hinweis:** Am Wochenende wird der Status nicht regelmäßig aktualisiert. Wir tragen unregelmäßig Informationen nach.
+**Hinweis:**  Am Wochenende wird der Status nicht regelmäßig aktualisiert. Wir tragen aber unregelmäßig Informationen nach.
+
+### Update 26.08.2022 18:00 Uhr:
+
+Heute wurden **zwei Lösungsstrategiene parallel** angegangen.
+Diese wurde mit externen **Experten von Red Hat** abgestimmt, damit die Wiederherstellung möglichst schnell passiert.
+
+Zuerst wurden die vom Ausfall betroffenen Teile der Infrastruktur wieder hergestellt und geprüft, ob dies ausreichend ist.
+Heute nachmittag sah es nach einem Erfolg aus. Leider wurde nach kurzem Testbetrieb festgestellt, dass das System trotzdem nicht korrekt funktioniert.
+
+Damit wurde auf die zweite parallel bereits angegangene Strategie gewechselt, diese ist jedoch zeitaufwendiger und dauert noch an.
+Es wird nun die komplette Infrastruktur auf sauberen Systemen mit den Backup Daten wieder hergestellt.
+Die Wiederherstellung kann die ganze Nacht von Freitag auf Samstag dauern.
+Danach folgen Umfangreiche Prüfungen des Systems.
+
+Es ist also damit zu rechnen, dass LernSax unter Umständen das ganze Wochenende gewartet wird.
+Falls das System eher bereitsteht wird es eine Information dazu geben.
+
+Laut aktuellem Stand, ist nicht von einem Verlust von zwischenzeitlich eingegangenen Mails zu rechnen, diese werden schrittweise nach der stabilen Bereitstellung des Systems ausgeliefert.
 
 ### Update 26.08.2022 17:00 Uhr:
 
