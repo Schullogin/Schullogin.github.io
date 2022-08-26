@@ -23,6 +23,8 @@ Weitere Infos folgen sobald diese vorliegen, die neuesten Informationen stehen o
 
 Durch eine massive Störung bei unserem Hosting-Dienstleister ist der Login auf lernsax.de zur Zeit nicht möglich. Es wird bereits mit Hochdruck an einer Lösung gearbeitet.
 
+**Hinweis:** Am Wochenende wird der Status nicht regelmäßig aktualisiert. Wir tragen unregelmäßig Informationen nach.
+
 ### Update 26.08.2022 17:00 Uhr:
 
 Es liegt eine weitere Störung vor, ein Login ist nicht möglich.
