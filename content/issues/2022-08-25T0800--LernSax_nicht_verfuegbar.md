@@ -36,7 +36,7 @@ Heute nachmittag sah es nach einem Erfolg aus. Leider wurde nach kurzem Testbetr
 Damit wurde auf die zweite parallel bereits angegangene Strategie gewechselt, diese ist jedoch zeitaufwendiger und dauert noch an.
 Es wird nun die komplette Infrastruktur auf sauberen Systemen mit den Backup Daten wieder hergestellt.
 Die Wiederherstellung kann die ganze Nacht von Freitag auf Samstag dauern.
-Danach folgen Umfangreiche Prüfungen des Systems.
+Danach folgen umfangreiche Prüfungen des Systems.
 
 Es ist also damit zu rechnen, dass LernSax unter Umständen das ganze Wochenende gewartet wird.
 Falls das System eher bereitsteht wird es eine Information dazu geben.
