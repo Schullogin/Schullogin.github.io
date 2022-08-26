@@ -2,7 +2,7 @@
 title: "Störung LernSax, Stand 26.08.2022 10:30"
 date: 2022-08-25T08:00:00
 resolved: false
-# resolvedWhen: 2022-08-25T08:00:00
+# resolvedWhen: 2022-08-25T07:00:00
 severity: down
 # informational: true
 pin: true 
@@ -39,6 +39,6 @@ Aufgrund des hohen Datenvolumens und der notwendigen Testung dauert der Prozess 
 
 Nach einem Crash in einem Teilsystems werden Sicherungen aus den Backups eingespielt. Sobald dieses vollständig abgeschlossen ist, werden die Systeme wieder komplett hochgefahren.
 
-### Update 25.08.2022 08:00 Uhr:
+### Update 25.08.2022 07:00 Uhr:
 
 LernSax ist nicht verfügbar.
