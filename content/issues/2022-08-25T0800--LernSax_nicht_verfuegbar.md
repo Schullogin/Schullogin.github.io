@@ -23,6 +23,18 @@ Weitere Infos folgen sobald diese vorliegen, die neuesten Informationen stehen o
 
 Durch eine massive Störung bei unserem Hosting-Dienstleister ist der Login auf lernsax.de zur Zeit nicht möglich. Es wird bereits mit Hochdruck an einer Lösung gearbeitet.
 
+### Update 26.08.2022 15:00 Uhr:
+
+Die gerade laufenden Konsistenzchecks sind leider nach einer massiven Störung notwendig und dauern länger als geplant.
+ 
+Das System ist angefahren. Vom Ablauf geht es jetzt wie folgt weiter:
+ 
+1. Es läuft ein Check über das System.
+2. Nach diesem Durchlauf werden zwischenzeitlich aufgelaufene E-Mails übernommen.
+3. Danach wird das Login für die Nutzer wieder freigegeben. Damit ist Lernsax dann wieder per Browser, Apps und Mailclients voll nutzbar.
+ 
+Das nächste Statusupdate erfolgt, sobald der Login wieder freigegeben ist.
+
 ### Update 26.08.2022 10:30 Uhr:
 
 Laut aktuellem Plan wird LernSax im laufe des Nachmittags, ggf. späten Nachmittags, wieder zur Verfügung stehen.
