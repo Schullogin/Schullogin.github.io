@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><link rel="alternate" type="text/html" href="https://Schullogin.github.io"/><title>LernSax on Verfügbarkeit digitaler Dienste für Schule in Sachsen</title><link>https://Schullogin.github.io/affected/lernsax/</link><description>Vorfallshistorie</description><generator>github.com/cstate</generator><language>de</language><lastBuildDate>2022-08-25T08:00:00+00:00</lastBuildDate><updated>2022-08-25T08:00:00+00:00</updated><atom:link href="https://Schullogin.github.io/affected/lernsax/index.xml" rel="self" type="application/rss+xml"/><item><title>Störung LernSax, Stand 26.08.2022 17:00</title><link>https://Schullogin.github.io/issues/2022-08-25t0800--lernsax_nicht_verfuegbar/</link><pubDate>Thu, 25 Aug 2022 08:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2022-08-25t0800--lernsax_nicht_verfuegbar/</guid><category/><description>Weitere Infos folgen sobald diese vorliegen, die neuesten Informationen stehen oben.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><link rel="alternate" type="text/html" href="https://Schullogin.github.io"/><title>LernSax on Verfügbarkeit digitaler Dienste für Schule in Sachsen</title><link>https://Schullogin.github.io/affected/lernsax/</link><description>Vorfallshistorie</description><generator>github.com/cstate</generator><language>de</language><lastBuildDate>2022-08-25T08:00:00+00:00</lastBuildDate><updated>2022-08-25T08:00:00+00:00</updated><atom:link href="https://Schullogin.github.io/affected/lernsax/index.xml" rel="self" type="application/rss+xml"/><item><title>Störung LernSax, Stand 26.08.2022 18:00</title><link>https://Schullogin.github.io/issues/2022-08-25t0800--lernsax_nicht_verfuegbar/</link><pubDate>Thu, 25 Aug 2022 08:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2022-08-25t0800--lernsax_nicht_verfuegbar/</guid><category/><description>Weitere Infos folgen sobald diese vorliegen, die neuesten Informationen stehen oben.
 Hinweise für SuS, LK, Eltern und Schulen Der LernSax Support ist über die Störung informiert, eine Meldung dazu ihrerseits ist nicht nötig. Informationen zum aktuellen Schuljahr finden sich bei vielen Schulen auf den Schulhomepages und ggf. auf den anderen etablierten Kanälen. Bitte nutzen Sie diese solange LernSax nicht erreichbar ist. Aktualisierungen und Informationen aus dem LernSax Team Durch eine massive Störung bei unserem Hosting-Dienstleister ist der Login auf lernsax.</description><content type="html">&lt;p>Weitere Infos folgen sobald diese vorliegen, die neuesten Informationen stehen oben.&lt;/p>
 &lt;h2 id="hinweise-für-sus-lk-eltern-und-schulen">Hinweise für SuS, LK, Eltern und Schulen&lt;/h2>
 &lt;ul>
@@ -7,7 +7,19 @@ Hinweise für SuS, LK, Eltern und Schulen Der LernSax Support ist über die Stö
 &lt;/ul>
 &lt;h2 id="aktualisierungen-und-informationen-aus-dem-lernsax-team">Aktualisierungen und Informationen aus dem LernSax Team&lt;/h2>
 &lt;p>Durch eine massive Störung bei unserem Hosting-Dienstleister ist der Login auf lernsax.de zur Zeit nicht möglich. Es wird bereits mit Hochdruck an einer Lösung gearbeitet.&lt;/p>
-&lt;p>&lt;strong>Hinweis:&lt;/strong> Am Wochenende wird der Status nicht regelmäßig aktualisiert. Wir tragen unregelmäßig Informationen nach.&lt;/p>
+&lt;p>&lt;strong>Hinweis:&lt;/strong> Am Wochenende wird der Status nicht regelmäßig aktualisiert. Wir tragen aber unregelmäßig Informationen nach.&lt;/p>
+&lt;h3 id="update-26082022-1800-uhr">Update 26.08.2022 18:00 Uhr:&lt;/h3>
+&lt;p>Heute wurden &lt;strong>zwei Lösungsstrategiene parallel&lt;/strong> angegangen.
+Diese wurde mit externen &lt;strong>Experten von Red Hat&lt;/strong> abgestimmt, damit die Wiederherstellung möglichst schnell passiert.&lt;/p>
+&lt;p>Zuerst wurden die vom Ausfall betroffenen Teile der Infrastruktur wieder hergestellt und geprüft, ob dies ausreichend ist.
+Heute nachmittag sah es nach einem Erfolg aus. Leider wurde nach kurzem Testbetrieb festgestellt, dass das System trotzdem nicht korrekt funktioniert.&lt;/p>
+&lt;p>Damit wurde auf die zweite parallel bereits angegangene Strategie gewechselt, diese ist jedoch zeitaufwendiger und dauert noch an.
+Es wird nun die komplette Infrastruktur auf sauberen Systemen mit den Backup Daten wieder hergestellt.
+Die Wiederherstellung kann die ganze Nacht von Freitag auf Samstag dauern.
+Danach folgen Umfangreiche Prüfungen des Systems.&lt;/p>
+&lt;p>Es ist also damit zu rechnen, dass LernSax unter Umständen das ganze Wochenende gewartet wird.
+Falls das System eher bereitsteht wird es eine Information dazu geben.&lt;/p>
+&lt;p>Laut aktuellem Stand, ist nicht von einem Verlust von zwischenzeitlich eingegangenen Mails zu rechnen, diese werden schrittweise nach der stabilen Bereitstellung des Systems ausgeliefert.&lt;/p>
 &lt;h3 id="update-26082022-1700-uhr">Update 26.08.2022 17:00 Uhr:&lt;/h3>
 &lt;p>Es liegt eine weitere Störung vor, ein Login ist nicht möglich.&lt;/p>
 &lt;h3 id="update-26082022-1615-uhr">Update 26.08.2022 16:15 Uhr:&lt;/h3>
