@@ -1,11 +1,11 @@
 ---
-title: "Störung LernSax, Stand 27.08.2022 08:00"
+title: "Störung LernSax, Stand 27.08.2022 10:00"
 date: 2022-08-25T08:00:00
-resolved: false
-# resolvedWhen: 2022-08-26T16:00:00
+resolved: true
+resolvedWhen: 2022-08-27T05:00:00
 severity: down
 # informational: true
-pin: true 
+# pin: true 
 affected:
 - LernSaxSchullogin
 - LernSax
@@ -25,7 +25,11 @@ Durch eine massive Störung bei unserem Hosting-Dienstleister ist der Login auf 
 
 **Hinweis:**  Am Wochenende wird der Status nicht regelmäßig aktualisiert. Wir tragen aber unregelmäßig Informationen nach.
 
-### Update 27.08.2022 08:00 Uhr:
+### Update 27.08.2022 10:00 Uhr:
+
+Die Tests waren erfolgreich, das System funktioniert wieder fehlerfrei. Es wird mit der Aufarbeitung des Vorfalls begonnen.
+
+### Update 27.08.2022 05:00 Uhr:
 
 Testbetrieb
 
