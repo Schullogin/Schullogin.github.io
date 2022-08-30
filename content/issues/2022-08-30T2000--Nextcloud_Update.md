@@ -3,7 +3,7 @@ title: "Nextcloud Update"
 date: 2022-08-30T20:00:00
 # resolved: true
 # resolvedWhen: 2022-08-30T20:00:00
-# severity: down
+severity: down
 informational: true
 pin: true 
 affected:
