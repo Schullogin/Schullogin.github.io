@@ -1,5 +1,5 @@
 ---
-title: "Nextcloud - nur lesen - 01.09.2022 11:00 wahrscheinlich gelöst"
+title: "Nextcloud - 01.09.2022 11:00 gelöst"
 date: 2022-08-31T07:58:00
 resolved: true
 resolvedWhen: 2022-09-01T08:00:00
