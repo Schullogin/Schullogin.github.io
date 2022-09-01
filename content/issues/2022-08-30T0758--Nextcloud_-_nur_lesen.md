@@ -5,7 +5,7 @@ resolved: false
 # resolvedWhen: 2022-08-31T07:58:00
 severity: disrupted
 # informational: true
-# pin: true 
+pin: true 
 affected:
 - Dateiablage
 section: issue
