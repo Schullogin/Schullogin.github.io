@@ -17,6 +17,8 @@ Wir haben vereinzelte Meldungen zu Schreibproblemen in der Nextcloud erhalten.
 
 Das Problem konnte nicht mehr reproduziert werden und gilt damit als gelöst.
 
+Falls es bei Ihnen noch auftritt leeren Sie bitte den Browsercache und starten Sie den Upload erneut.
+
 ## Update 01.09.2022 08:00
 
 Wir haben eine Änderung am System vorgenommen und prüfen, ob diese wieder zur erwarteten Funktionalität führt.
