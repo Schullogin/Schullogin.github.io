@@ -1,8 +1,8 @@
 ---
 title: "Nextcloud - nur lesen - 01.09.2022 08:00 wahrscheinlich gelöst"
-date: 2022-08-30T07:58:00
+date: 2022-08-31T07:58:00
 # resolved: true
-# resolvedWhen: 2022-08-30T07:58:00
+# resolvedWhen: 2022-08-31T07:58:00
 severity: disrupted
 # informational: true
 # pin: true 
