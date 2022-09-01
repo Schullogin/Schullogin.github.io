@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><link rel="alternate" type="text/html" href="https://Schullogin.github.io"/><title>Dateiablage on Verfügbarkeit digitaler Dienste für Schule in Sachsen</title><link>https://Schullogin.github.io/affected/dateiablage/</link><description>Vorfallshistorie</description><generator>github.com/cstate</generator><language>de</language><lastBuildDate>2022-08-31T07:58:00+00:00</lastBuildDate><updated>2022-08-31T07:58:00+00:00</updated><atom:link href="https://Schullogin.github.io/affected/dateiablage/index.xml" rel="self" type="application/rss+xml"/><item><title>[Gelöst] Nextcloud - 01.09.2022 11:00 gelöst</title><link>https://Schullogin.github.io/issues/2022-08-30t0758--nextcloud_-_nur_lesen/</link><pubDate>Wed, 31 Aug 2022 07:58:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2022-08-30t0758--nextcloud_-_nur_lesen/</guid><category>2022-09-01T08:00:00</category><description>Wir haben vereinzelte Meldungen zu Schreibproblemen in der Nextcloud erhalten.
 Update 01.09.2022 11:00 Das Problem konnte nicht mehr reproduziert werden und gilt damit als gelöst.
-Falls es bei Ihnen noch auftritt, leeren Sie bitte den Browsercache und starten Sie den Upload erneut.
-Update 01.09.2022 08:00 Wir haben eine Änderung am System vorgenommen und prüfen, ob diese wieder zur erwarteten Funktionalität führt.
-Update 30.08.2022 Erste Hinweise auf Probleme beim Speichern in der Nextcloud erreichen uns, sind aber noch nicht stabil reproduzierbar.</description><content type="html">&lt;p>Wir haben vereinzelte Meldungen zu Schreibproblemen in der Nextcloud erhalten.&lt;/p>
+Falls es bei Ihnen noch auftritt:
+Leeren Sie bitte den Zwischenspeicher Ihres Web-Browsers (Cache), eine Anleitung dazu finden sie u.a. hier: IONOS - eine Anleitung wie man den Cache leert (externe Seite) browser-cache-leeren.de (externe Seite) wir ergänzen demnächst noch eine Anleitung dazu auf docs.schullogin.de und starten Sie den Upload erneut Update 01.</description><content type="html">&lt;p>Wir haben vereinzelte Meldungen zu Schreibproblemen in der Nextcloud erhalten.&lt;/p>
 &lt;h2 id="update-01092022-1100">Update 01.09.2022 11:00&lt;/h2>
 &lt;p>Das Problem konnte nicht mehr reproduziert werden und gilt damit als gelöst.&lt;/p>
-&lt;p>&lt;strong>Falls es bei Ihnen noch auftritt, leeren Sie bitte den Browsercache und starten Sie den Upload erneut.&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Falls es bei Ihnen noch auftritt&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>Leeren Sie bitte den Zwischenspeicher Ihres Web-Browsers (Cache), eine Anleitung dazu finden sie u.a. hier:
+&lt;ul>
+&lt;li>&lt;a href="https://www.ionos.de/digitalguide/server/konfiguration/so-leeren-sie-ihren-cache/">IONOS - eine Anleitung wie man den Cache leert (externe Seite)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://browser-cache-leeren.de/windows.html">browser-cache-leeren.de (externe Seite)&lt;/a>&lt;/li>
+&lt;li>wir ergänzen demnächst noch eine Anleitung dazu auf docs.schullogin.de&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>und starten Sie den Upload erneut&lt;/li>
+&lt;/ul>
 &lt;h2 id="update-01092022-0800">Update 01.09.2022 08:00&lt;/h2>
 &lt;p>Wir haben eine Änderung am System vorgenommen und prüfen, ob diese wieder zur erwarteten Funktionalität führt.&lt;/p>
 &lt;h2 id="update-30082022">Update 30.08.2022&lt;/h2>
