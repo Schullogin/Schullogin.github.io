@@ -17,8 +17,8 @@ affected:
 - SchulCMS
 - Redaktionssystem
 - Materialdatenbank
-- BSCW
-- BSCL
+- Cooperative Working BSCW
+- Cooperative Learning BSCL
 section: issue
 ---
 

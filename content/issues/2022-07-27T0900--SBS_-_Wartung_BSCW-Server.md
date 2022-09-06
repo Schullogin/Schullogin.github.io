@@ -7,7 +7,7 @@ resolvedWhen: 2022-07-27T16:00:00
 informational: true
 # pin: true 
 affected:
-- BSCW
+- Cooperative Working BSCW
 section: issue
 ---
 

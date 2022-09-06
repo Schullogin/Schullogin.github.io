@@ -16,14 +16,14 @@ affected:
 - Videokonferenzen (BigBlueButton)
 - LernSaxSchullogin
 - OPAL Schule
-- Moodle SBS
+- E-Learning SBS-moodle
 - MeSax - Mediathek
 - EtherPad
 - SchulCMS
 - Redaktionssystem
 - Materialdatenbank
-- BSCW
-- BSCL
+- Cooperative Working BSCW
+- Cooperative Learning BSCL
 section: issue
 ---
 

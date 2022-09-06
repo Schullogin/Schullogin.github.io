@@ -11,13 +11,13 @@ affected:
 - Nachrichten
 - Dateiablage
 - Videokonferenzen (BigBlueButton)
-- Moodle SBS
+- E-Learning SBS-moodle
 - EtherPad
 - SchulCMS
 - Redaktionssystem
 - Materialdatenbank
-- BSCW
-- BSCL
+- Cooperative Working BSCW
+- Cooperative Learning BSCL
 section: issue
 ---
 

@@ -13,22 +13,33 @@ affected:
   - Videokonferenzen (BigBlueButton)
   - Homepage Schule
   - OPAL Schule
-  - Moodle SBS
+  - E-Learning SBS-moodle
   - EtherPad
   - LernSax
   - LernSax - Edudip
   - LernSax - BigBlueButton
   - MeSax Mediathek
   - MeSax Wissensportal
-  - SchulCMS
   - Redaktionssystem
+  - SchulCMS
+  - E-Learning SBS-moodle
+  - E-Mail-Übungsumgebung Minimehl
+  - Cooperative Working BSCW
+  - Cooperative Learning BSCL
+  - FTP-Schulhomepages
+  - Schul-wiki
   - Materialdatenbank
-  - BSCW
-  - BSCL
+  - Geographisches Informationssystem WebGIS
+  - Online Umfragetool
+  - Eventplaner
+  - Außerschulische Lernorte
+  - Mailinglisten
+  - Ticketsystem
   - Dynamische Lehrplandatenbank
   - MUNDO
   - Schulportal
-  - FTP-Schulhomepages
+
+
 section: issue
 ---
 

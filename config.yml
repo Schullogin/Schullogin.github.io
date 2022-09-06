@@ -161,65 +161,109 @@ params:
     # Schullogin
     - name: Anmeldung
       category: Schullogin
+      link: https://schullogin.de/
     - name: Support
       category: Schullogin
+      link: mailto:support@schullogin.de
     - name: Schnittstellen
       category: Schullogin
+      link: https://schullogin.de/
 
     # Dienste in Schullogin
     - name: Nachrichten
       category: Dienste in Schullogin
+      link: https://schullogin.de/p/sbs.singlesignon/application/startapplication?applicationName=emailrainloop
     - name: Dateiablage
       category: Dienste in Schullogin
+      link: https://schullogin.de/p/sbs.singlesignon/application/startapplication?applicationName=nextcloud
     - name: Videokonferenzen (BigBlueButton)
       category: Dienste in Schullogin
+      link: https://schullogin.de/p/sbs.singlesignon/application/startapplication?applicationName=bigbluebutton
     - name: LernSax
       category: Dienste in Schullogin
+      link: https://schullogin.de/p/sbs.singlesignon/application/startapplication?applicationName=LernSaxOauth
     - name: OPAL Schule
       category: Dienste in Schullogin
-    - name: Moodle SBS
-      category: Dienste in Schullogin
+      link: https://schullogin.de/p/sbs.singlesignon/application/startapplication?applicationName=SchulOpal
     - name: MeSax - Mediathek
       category: Dienste in Schullogin
+      link: https://schullogin.de/p/sbs.singlesignon/application/startapplication?applicationName=mesaxmediathek
     - name: EtherPad
       category: Dienste in Schullogin
+      link: https://schullogin.de/p/sbs.singlesignon/application/startapplication?applicationName=etherpad
 
     # MeSax / LernSax
     - name: LernSax
       category: MeSax / LernSax
+      link: https://www.lernsax.de/
     - name: LernSax - BigBlueButton
       category: MeSax / LernSax
+      link: https://www.lernsax.de/
     - name: MeSax Mediathek
       category: MeSax / LernSax
+      link: https://sachsen.edupool.de
     - name: MeSax Wissensportal
       category: MeSax / LernSax
+      link: https://www.lernsax.de/wws/9.php#/wws/wissensportal.php
 
     # Sächsischer Bildungsserver
-    - name: SchulCMS
-      category: Sächsischer Bildungsserver
     - name: Redaktionssystem
       category: Sächsischer Bildungsserver
-    - name: Materialdatenbank
+      link: https://www3.sachsen.schule
+    - name: SchulCMS
       category: Sächsischer Bildungsserver
-    - name: BSCW
+      link: https://cms.sachsen.schule
+    - name: E-Learning SBS-moodle
       category: Sächsischer Bildungsserver
-    - name: BSCL
+      link: https://elearn.sachsen.schule
+    - name: E-Mail-Übungsumgebung Minimehl
       category: Sächsischer Bildungsserver
+      link: https://minimehl.sachsen.schule
+    - name: Cooperative Working BSCW
+      category: Sächsischer Bildungsserver
+      link: https://bscw.sachsen.schule
+    - name: Cooperative Learning BSCL
+      category: Sächsischer Bildungsserver
+      link: https://bscl.sachsen.schule
     - name: FTP-Schulhomepages
       category: Sächsischer Bildungsserver
+      link: https://www.sachsen.schule
+    - name: Schul-wiki
+      category: Sächsischer Bildungsserver
+      link: https://wiki.sachsen.schule
+    - name: Materialdatenbank
+      category: Sächsischer Bildungsserver
+      link: https://matdb.sachsen.schule
+    - name: Geographisches Informationssystem WebGIS
+      category: Sächsischer Bildungsserver
+      link: https://webgis.sachsen.schule
+    - name: Online Umfragetool
+      category: Sächsischer Bildungsserver
+      link: https://umfrage.sachsen.schule
+    - name: Eventplaner
+      category: Sächsischer Bildungsserver
+      link: https://events.sachsen.schule
+    - name: Außerschulische Lernorte
+      category: Sächsischer Bildungsserver
+      link: https://lernorte.sachsen.schule
+    - name: Mailinglisten
+      category: Sächsischer Bildungsserver
+      link: https://liste.sachsen.schule
+    - name: Ticketsystem
+      category: Sächsischer Bildungsserver
+      link: https://ticket.sachsen.schule
+
 
     # Sonstige
     - name: Dynamische Lehrplandatenbank
       category: Sonstige
+      link: https://www.schulportal.sachsen.de/lplandb/
     - name: MUNDO
       category: Sonstige
+      link: https://mundo.schule/
     - name: Schulportal
       category: Sonstige
-
-
-
-    - name: MeSax - Wissensportal
-      category: Weitere Dienste
+      link: https://www.schulportal.sachsen.de/
 
   # What date format to use?
   #

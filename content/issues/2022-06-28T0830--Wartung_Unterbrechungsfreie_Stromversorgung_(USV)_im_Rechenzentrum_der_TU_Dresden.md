@@ -15,7 +15,7 @@ affected:
 - Videokonferenzen (BigBlueButton)
 - LernSaxSchullogin
 - OPAL Schule
-- Moodle SBS
+- E-Learning SBS-moodle
 - MeSax - Mediathek
 - EtherPad
 - SchulCMS
