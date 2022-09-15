@@ -8,7 +8,7 @@ severity: down
 # pin: true 
 affected:
 - LernSaxSchullogin
-- LernSax
+- lernsax
 section: issue
 ---
 

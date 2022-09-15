@@ -8,7 +8,7 @@ informational: true
 # pin: true
 affected:
 - LernSaxSchullogin
-- LernSax
+- lernsax
 - LernSax - BigBlueButton
 section: issue
 ---
