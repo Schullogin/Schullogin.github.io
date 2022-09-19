@@ -25,7 +25,7 @@ jobs:
         run: |
           hugo --minify --baseURL "https://${{ github.repository_owner }}.github.io";
           mkdir -p tools;
-          wget -O tools/index.html https://schullogin.de/p/sbs.singlesignon.backend.forger/statustool/standalone || true;
+          wget -O tools/index.html https://schullogin.de/p/sbs.singlesignon.backend.forger/statustool/standalone --timeout=10 --tries=2 || true;
           
 
       - name: Deploy

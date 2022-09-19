@@ -30,7 +30,7 @@ test:
     - echo "URL $HUGO_URL"
     - hugo --baseURL $HUGO_URL
     - cd $CI_PROJECT_DIR/public/tools
-    - wget -O index.html https://schullogin.de/p/sbs.singlesignon.backend.forger/statustool/standalone --timeout=10 --tries=2
+    - wget -O index.html https://schullogin.de/p/sbs.singlesignon.backend.forger/statustool/standalone --timeout=10 --tries=2 || true
   artifacts:
     paths:
       - public
