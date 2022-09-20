@@ -3,7 +3,7 @@ title: "Geplante Wartung Wartung im ZIH, mit Auswirkungen auf Dienste auf dem SB
 date: 2022-09-21T19:10:00
 resolved: false
 # resolvedWhen: 2022-09-08T20:00:00
-severity: down
+# severity: down
 informational: true
 pin: true 
 affected:
