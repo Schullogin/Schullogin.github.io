@@ -1,6 +1,6 @@
 ---
 title: "Geplante Wartung Wartung im ZIH, mit Auswirkungen auf Dienste auf dem SBS"
-date: 2022-09-19T19:10:00
+date: 2022-09-21T19:10:00
 resolved: false
 # resolvedWhen: 2022-09-08T20:00:00
 severity: down
