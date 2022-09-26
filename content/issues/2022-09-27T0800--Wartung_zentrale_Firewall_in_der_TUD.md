@@ -1,6 +1,5 @@
-
 ---
-title: "Wartung zentrale Firewall in der TUD"
+title: "Wartung zentrale Firewall in der TUD (27.09.2022)"
 date: 2022-09-27T08:00:00
 # resolved: true
 # resolvedWhen: 2022-09-27T08:00:00
