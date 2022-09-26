@@ -1,6 +1,5 @@
-
 ---
-title: "Wartung USV in der TUD"
+title: "Wartung USV in der TUD (27.09.2022)"
 date: 2022-09-26T09:30:00
 # resolved: true
 # resolvedWhen: 2022-09-26T09:30:00
