@@ -14,7 +14,9 @@ section: issue
 ## 20:30
 
 Falls derzeit Zertifikatsfehler auftreten, kann später ein Neustart helfen.
-Derzeit sind einige werden einige Server immer mal neugestartet, sodass Zwischenseiten mit Hinweisen erscheinen
+Derzeit sind einige werden einige Server immer mal neugestartet, sodass Zwischenseiten mit Hinweisen erscheinen.
+
+Wir starten jetzt die Master DB Server durch, dabei wird es zu einem kurzen Ausfall kommen.
 
 ## 20:00
 
