@@ -1,14 +1,17 @@
 ---
 title: "Wartung SchulCMS"
 date: 2022-10-11T09:40:00
-resolved: true
+resolved: false
 resolvedWhen: 2022-10-11T16:40:00
 # severity: down
+pin: true
 informational: true
 affected:
 - SchulCMS
 section: issue
 ---
+
+Beim Update gab es einige Probleme, die im Laufe des Tages vom 12.10.2022 noch korrigiert, werden.
 
 Derzeit findet eine Wartung des SchulCMS statt. Während der Wartung ist eine Anmeldung am System nicht möglich. Es wird zu kurzen Ausfällen kommen.
 
