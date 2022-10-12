@@ -13,4 +13,4 @@ section: issue
 
 Wir aktualisieren unseren BBB Vermittlungsserver.
 
-Dazu ist es nötig, dass dieser a 19.10.2022 für einige Zeit ab 16:00 Uhr nicht erreichbar ist.
+Dazu ist es nötig, dass dieser am 19.10.2022 für einige Zeit ab 16:00 Uhr nicht erreichbar ist.
