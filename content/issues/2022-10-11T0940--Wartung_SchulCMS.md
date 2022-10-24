@@ -1,10 +1,10 @@
 ---
 title: "Wartung SchulCMS"
 date: 2022-10-11T09:40:00
-resolved: false
+resolved: true
 resolvedWhen: 2022-10-11T16:40:00
 # severity: down
-pin: true
+# pin: true
 informational: true
 affected:
 - SchulCMS
