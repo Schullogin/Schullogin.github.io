@@ -1,11 +1,11 @@
 ---
 title: "Wartung Backbone-Router an der TUD (09.11.2022)"
 date: 2023-11-09T15:00:00
-# resolved: true
-# resolvedWhen: 2023-11-09T21:00:00
+resolved: true
+resolvedWhen: 2023-11-09T21:00:00
 # severity: down
 informational: true
-pin: true 
+# pin: true 
 affected:
 - Anmeldung
 - Support
@@ -36,7 +36,11 @@ affected:
 section: issue
 ---
 
-Angekündigte Wartung:
+# Update 10.11.2011
+
+Im Zuge der Arbeiten an den Routern sind Probleme nach Aufnahme des Maintenance-Modus aufgetreten, die zu Netzausfällen geführt haben. Das Update wurde daraufhin abgebrochen und muss zu einem späteren Zeitpunkt nach Analyse der Probleme nachgeholt werden.
+
+# Angekündigte Wartung:
 
 - von ca. 15:00 bis 21:00 Uhr Softwareupdates der Backbone-Router
 - die Updates sollten unterbrechungsfrei stattfinden, aufgrund unvorhersehbarer Ereignisse **kann** es aber zu einem mehrstündigen Ausfall der betroffenen Netze kommen
