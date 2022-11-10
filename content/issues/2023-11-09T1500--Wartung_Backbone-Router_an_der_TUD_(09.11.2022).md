@@ -1,8 +1,8 @@
 ---
 title: "Wartung Backbone-Router an der TUD (09.11.2022)"
-date: 2023-11-09T15:00:00
+date: 2022-11-09T15:00:00
 resolved: true
-resolvedWhen: 2023-11-09T21:00:00
+resolvedWhen: 2022-11-09T21:00:00
 # severity: down
 informational: true
 # pin: true 
