@@ -2,11 +2,11 @@
 ---
 title: "Wartung Backbone-Router an der TUD (15.11.2022)"
 date: 2022-11-15T10:00:00
-# resolved: true
-# resolvedWhen: 2022-11-15T11:00:00
+resolved: true
+resolvedWhen: 2022-11-15T11:00:00
 # severity: down
 informational: true
-pin: true 
+# pin: true 
 affected:
 - Anmeldung
 - Support
