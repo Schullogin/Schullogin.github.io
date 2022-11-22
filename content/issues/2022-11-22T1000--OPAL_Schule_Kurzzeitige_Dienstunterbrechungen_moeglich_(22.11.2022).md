@@ -1,7 +1,7 @@
 ---
 title: "OPAL Schule: Kurzzeitige Dienstunterbrechungen möglich (22.11.2022)"
 date: 2022-11-22T10:00:00
-# resolved: true
+resolved: false
 # resolvedWhen: 2022-11-22T16:00:00
 severity: disrupted
 # informational: true
