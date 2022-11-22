@@ -4,7 +4,7 @@ date: 2022-11-22T10:00:00
 resolved: false
 # resolvedWhen: 2022-11-22T16:00:00
 severity: disrupted
-# informational: true
+informational: true
 pin: true 
 affected:
 - OPAL Schule
