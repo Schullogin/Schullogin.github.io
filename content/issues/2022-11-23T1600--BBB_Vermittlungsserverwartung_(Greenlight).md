@@ -1,10 +1,10 @@
 ---
 title: "Wartung BBB Vermittlungsserver (Greenlight) 23.11.2022"
 date: 2022-11-23T16:00:00
-# resolved: true
+resolved: false
 # resolvedWhen: 2022-11-23T16:00:00
-# severity: down
-informational: true
+severity: disrupted
+# informational: true
 pin: true 
 affected:
 - Videokonferenzen (BigBlueButton)
