@@ -1,5 +1,5 @@
 ---
-title: "BBB Vermittlungsserverwartung (Greenlight)"
+title: "Wartung BBB Vermittlungsserver (Greenlight) 23.11.2022"
 date: 2022-11-23T16:00:00
 # resolved: true
 # resolvedWhen: 2022-11-23T16:00:00
