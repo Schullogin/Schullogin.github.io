@@ -1,11 +1,11 @@
 ---
 title: "Wartung TUD: Sicherheitsupdates dezentrale Firewalls (29.11.2022)"
 date: 2022-11-29T16:00:00
-# resolved: true
-# resolvedWhen: 2022-11-29T16:00:00
+resolved: true
+resolvedWhen: 2022-11-29T18:00:00
 # severity: down
 informational: true
-pin: true 
+# pin: true 
 affected:
 - Anmeldung
 - Support

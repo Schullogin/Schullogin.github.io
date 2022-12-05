@@ -1,11 +1,11 @@
 ---
 title: "Wartung Hardware Bildungsserver (01.12.2022)"
 date: 2022-12-01T10:00:00
-# resolved: true
-# resolvedWhen: 2022-12-01T10:00:00
+resolved: true
+resolvedWhen: 2022-12-01T12:00:00
 # severity: down
 informational: true
-pin: true 
+# pin: true 
 affected:
 - Anmeldung
 - Support
