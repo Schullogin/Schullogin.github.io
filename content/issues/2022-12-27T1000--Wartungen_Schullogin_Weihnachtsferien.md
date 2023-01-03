@@ -1,11 +1,11 @@
 ---
 title: "Wartungen Schullogin Weihnachtsferien"
 date: 2022-12-27T10:00:00
-# resolved: true
-# resolvedWhen: 2022-12-30T15:00:00
+resolved: true
+resolvedWhen: 2022-12-30T15:00:00
 # severity: down
 informational: true
-pin: true 
+# pin: true 
 affected:
 - Anmeldung
 - Schnittstellen
