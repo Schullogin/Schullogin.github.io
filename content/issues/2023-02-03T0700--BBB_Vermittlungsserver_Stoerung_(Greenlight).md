@@ -2,11 +2,11 @@
 ---
 title: "BBB Vermittlungsserver Störung (Greenlight)"
 date: 2023-02-03T07:00:00
-# resolved: true
+resolved: false
 # resolvedWhen: 2023-02-03T07:00:00
 severity: down
 # informational: true
-# pin: true 
+pin: true 
 affected:
 - Videokonferenzen (BigBlueButton)
 section: issue
