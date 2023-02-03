@@ -19,4 +19,4 @@ Wir analysieren das Problem und publizieren nach der Lösung eine Information.
 
 ### Update 03.02.2023 10:20 Uhr:
 
-Das Problem ist behoben, das System funktioniert wieder fehlerfrei.
+Das Problem ist behoben, das System funktioniert wieder fehlerfrei. Ursache war ein fehlerhaftes Update. Es gab keinen erkennbaren Datenverlust.
