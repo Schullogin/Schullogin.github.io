@@ -2,11 +2,11 @@
 ---
 title: "Geplante LernSax Wartung am 14.02.2023"
 date: 2023-02-14T00:00:00
-# resolved: true
-# resolvedWhen: 2023-02-14T00:00:00
+resolved: true
+resolvedWhen: 2023-02-14T23:59:59
 # severity: down
 informational: true
-pin: true 
+pin: false 
 affected:
 - LernSax
 - LernSax - BigBlueButton
