@@ -109,7 +109,7 @@ baseURL: http://localhost:63342/cstate/public/
 #
 # We recommend to keep this at `true`.
 # BOOLEAN; `true`, `false`
-enableGitInfo: false
+enableGitInfo: true
 
 
 ############################################################
