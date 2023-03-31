@@ -1,11 +1,11 @@
 ---
 title: "Wartung Backbone-Router an der TUD (30.03.2023)"
 date: 2023-03-30T17:00:00
-# resolved: true
-# resolvedWhen: 2023-03-30T23:00:00
+resolved: true
+resolvedWhen: 2023-03-30T23:00:00
 # severity: down
 informational: true
-pin: true 
+pin: false 
 affected:
 - Anmeldung
 - Support
