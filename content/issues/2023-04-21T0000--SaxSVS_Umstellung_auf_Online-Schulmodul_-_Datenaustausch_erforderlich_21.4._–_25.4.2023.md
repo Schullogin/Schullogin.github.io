@@ -12,7 +12,7 @@ affected:
 section: issue
 ---
 
-SaxSVS wird am 27.04. auf das browserbasierte Online-Schulmodell umgestellt.
+SaxSVS wird am 27.04. auf das browserbasierte Online-Schulmodul umgestellt.
 
 Hierfür ist im Zeitraum 21.4. – 25.4.2023 ein letzter Datenaustausch erforderlich, um nach der Umstellung einen aktuellen Datenstand zu haben.
 
