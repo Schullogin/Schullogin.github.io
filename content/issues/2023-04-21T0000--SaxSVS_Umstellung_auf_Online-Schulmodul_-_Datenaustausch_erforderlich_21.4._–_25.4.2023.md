@@ -1,11 +1,11 @@
 ---
 title: "SaxSVS: Umstellung auf Online-Schulmodul - Datenaustausch erforderlich 21.4. – 25.4.2023"
 date: 2023-04-21T00:00:00
-# resolved: true
-# resolvedWhen: 2023-04-21T00:00:00
+resolved: true
+resolvedWhen: 2023-04-27T00:00:00
 # severity: down
 informational: true
-pin: true 
+pin: false 
 affected:
 - Anmeldung
 - Schnittstellen
