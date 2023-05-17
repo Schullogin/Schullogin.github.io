@@ -3,8 +3,8 @@ title: "Wartung Videokonferenz-Vermittlungsserver (BBB - Greenlight) 17.05.2023"
 date: 2023-05-17T19:00:00
 resolved: false
 # resolvedWhen: 2023-05-17T19:20:00
-# severity: disrupted
-informational: true
+severity: down
+# informational: true
 pin: true 
 affected:
 - Videokonferenzen (BigBlueButton)
