@@ -5,7 +5,7 @@ resolved: true
 resolvedWhen: 2023-05-17T20:20:00
 severity: down
 # informational: true
-# pin: true 
+pin: false 
 affected:
 - Videokonferenzen (BigBlueButton)
 section: issue
