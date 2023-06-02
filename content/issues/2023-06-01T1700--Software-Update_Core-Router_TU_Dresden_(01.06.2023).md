@@ -1,11 +1,11 @@
 ---
 title: "Software-Update Core-Router TU Dresden (01.06.2023)"
 date: 2023-06-01T17:00:00
-# resolved: true
-# resolvedWhen: 2023-06-01T24:00:00
+resolved: true
+resolvedWhen: 2023-06-01T24:00:00
 # severity: down
 informational: true
-pin: true 
+pin: false 
 affected:
 - Anmeldung
 - Support
