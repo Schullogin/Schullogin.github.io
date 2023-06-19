@@ -5,7 +5,7 @@ date: 2023-06-19T06:15:00
 # resolvedWhen: 2023-06-19T06:15:00
 severity: down
 # informational: true
-# pin: true 
+pin: true 
 affected:
 - E-Learning SBS-moodle
 section: issue
