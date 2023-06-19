@@ -7,7 +7,7 @@ date: 2023-07-11T07:00:00
 informational: true
 pin: true 
 affected:
-- E-Learning SBS-moodle
+# - E-Learning SBS-moodle
 section: issue
 ---
 
