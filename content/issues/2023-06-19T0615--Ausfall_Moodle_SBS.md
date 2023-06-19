@@ -1,7 +1,7 @@
 ---
 title: "Ausfall Moodle SBS"
 date: 2023-06-19T06:15:00
-# resolved: true
+resolved: false
 # resolvedWhen: 2023-06-19T06:15:00
 severity: down
 # informational: true
