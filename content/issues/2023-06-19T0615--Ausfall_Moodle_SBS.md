@@ -1,11 +1,11 @@
 ---
 title: "Ausfall Moodle SBS"
 date: 2023-06-19T06:15:00
-resolved: false
-# resolvedWhen: 2023-06-19T06:15:00
+resolved: true
+resolvedWhen: 2023-06-19T12:35:00
 severity: down
 # informational: true
-pin: true 
+# pin: true 
 affected:
 - E-Learning SBS-moodle
 section: issue
@@ -24,3 +24,8 @@ Nächste Schritte:
 
 
 Vielen Dank für Ihr Verständnis.
+
+
+## Update 12:35 Uhr
+
+Die Störung wurde behoben.
