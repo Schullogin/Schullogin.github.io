@@ -3,7 +3,7 @@ title: "Wartung Bildungsserver: FTP-Schulhomepages  (10.07.2023)"
 date: 2023-07-10T07:00:00
 # resolved: true
 # resolvedWhen: 2023-07-10T16:00:00
-severity: down
+# severity: down
 # informational: true
 pin: true 
 affected:

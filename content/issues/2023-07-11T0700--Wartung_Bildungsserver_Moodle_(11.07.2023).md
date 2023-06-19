@@ -3,7 +3,7 @@ title: "Wartung Bildungsserver: Moodle (11.07.2023)"
 date: 2023-07-11T07:00:00
 # resolved: true
 # resolvedWhen: 2023-07-11T16:00:00
-severity: down
+# severity: down
 # informational: true
 pin: true 
 affected:
