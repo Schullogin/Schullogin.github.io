@@ -5,7 +5,7 @@ resolved: false
 # resolvedWhen: 2023-06-30T08:00:00
 # severity: down
 informational: true
-pin: true 
+pin: false
 affected:
 - Redaktionssystem
 section: issue
