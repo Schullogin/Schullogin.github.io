@@ -1,11 +1,11 @@
 ---
 title: "Videokonferenzdienst: Update BigBlueButton auf Version 2.6 (10.07.2023) "
 date: 2023-07-10T15:00:00
-# resolved: true
-# resolvedWhen: 2023-07-10T15:00:00
+resolved: true
+resolvedWhen: 2023-07-10T15:30:00
 # severity: down
 informational: true
-pin: true 
+# pin: true 
 affected:
 - Videokonferenzen (BigBlueButton)
 - LernSax - BigBlueButton
