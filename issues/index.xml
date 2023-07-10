@@ -2,7 +2,18 @@
 wird aufgrund eines Updates am Dienstag, den 11.07.2023 von 7.00 – 16.00 Uhr nicht erreichbar sein.
 Auf diesem Server muss das Betriebssystem ausgetauscht werden.</description><content type="html">&lt;p>&lt;code>moodle&lt;/code>, der Server für E-Learning&lt;/p>
 &lt;p>wird aufgrund eines Updates &lt;strong>am Dienstag, den 11.07.2023 von 7.00 – 16.00 Uhr nicht erreichbar&lt;/strong> sein.&lt;/p>
-&lt;p>Auf diesem Server muss das Betriebssystem ausgetauscht werden.&lt;/p></content></item><item><title>Wartung Bildungsserver: FTP-Schulhomepages (10.07.2023)</title><link>https://Schullogin.github.io/issues/2023-07-10t0700--wartung_bildungsserver_ftp-schulhomepages_10.07.2023-copy/</link><pubDate>Mon, 10 Jul 2023 07:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2023-07-10t0700--wartung_bildungsserver_ftp-schulhomepages_10.07.2023-copy/</guid><category/><description>marvin, der Server für selbst erstellte Homepages von Schulen (betrifft nicht den Homepagebaukasten)
+&lt;p>Auf diesem Server muss das Betriebssystem ausgetauscht werden.&lt;/p></content></item><item><title>Videokonferenzdienst: Update BigBlueButton auf Version 2.6 (10.07.2023)</title><link>https://Schullogin.github.io/issues/-2023-07-10t1500--videokonferenzdienst_update_bigbluebutton_auf_version_2.6_10.07.2023/</link><pubDate>Mon, 10 Jul 2023 15:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/-2023-07-10t1500--videokonferenzdienst_update_bigbluebutton_auf_version_2.6_10.07.2023/</guid><category/><description>Heute um ca. 15:00 Uhr wird für die Videokonferenz-Software BigBlueButton das Update auf die Version 2.6 installiert.
+Dabei kann es zu kurzen Ausfällen kommen. Eventuell kann dann ein Neuladen der Seite / Neustarten der Konferenz nötig sein.
+Diese Version bringt viele Verbesserungen und neue Funktionen mit. Ein detaillierter Changelog und Dokumentation ausgewählter Funktionen folgen in Kürze.
+Eine englischsprachige Übersicht findet sich unter https://docs.bigbluebutton.org/new-features/</description><content type="html">&lt;p>Heute um ca. 15:00 Uhr wird für die Videokonferenz-Software BigBlueButton das Update
+auf die Version 2.6 installiert.&lt;/p>
+&lt;p>Dabei kann es zu kurzen Ausfällen kommen. Eventuell kann dann ein Neuladen der
+Seite / Neustarten der Konferenz nötig sein.&lt;/p>
+&lt;p>Diese Version bringt viele Verbesserungen und neue Funktionen mit. Ein detaillierter
+&lt;a href="https://docs.schullogin.de/99-Changelog/Index.html">Changelog&lt;/a> und &lt;a href="https://docs.schullogin.de/20-Werkzeuge/30-BigBlueButton/Index.html">
+Dokumentation&lt;/a>
+ausgewählter Funktionen folgen in Kürze.&lt;/p>
+&lt;p>Eine englischsprachige Übersicht findet sich unter &lt;a href="https://docs.bigbluebutton.org/new-features/">https://docs.bigbluebutton.org/new-features/&lt;/a>&lt;/p></content></item><item><title>Wartung Bildungsserver: FTP-Schulhomepages (10.07.2023)</title><link>https://Schullogin.github.io/issues/2023-07-10t0700--wartung_bildungsserver_ftp-schulhomepages_10.07.2023-copy/</link><pubDate>Mon, 10 Jul 2023 07:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2023-07-10t0700--wartung_bildungsserver_ftp-schulhomepages_10.07.2023-copy/</guid><category/><description>marvin, der Server für selbst erstellte Homepages von Schulen (betrifft nicht den Homepagebaukasten)
 wird aufgrund eines Updates am Montag, den 10.07.2023 von 7.00 – 16.00 Uhr nicht erreichbar sein.
 Auf diesem Server muss das Betriebssystem ausgetauscht werden.
 Gleichzeitig wird PHP von Version 7.4 auf Version 8.2 aktualisiert. Bitte prüfen Sie Ihre Webseiten, ob diese mit PHP 8.2 arbeiten.</description><content type="html">&lt;p>&lt;code>marvin&lt;/code>, der Server für selbst erstellte Homepages von Schulen
