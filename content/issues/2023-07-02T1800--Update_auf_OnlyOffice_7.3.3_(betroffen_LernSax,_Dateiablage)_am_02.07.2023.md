@@ -1,11 +1,11 @@
 ---
 title: "Update auf OnlyOffice 7.3.3 am 02.07.2023"
 date: 2023-07-02T18:00:00
-# resolved: true
-# resolvedWhen: 2023-07-02T18:00:00
+resolved: true
+resolvedWhen: 2023-07-02T23:00:00
 # severity: down
 informational: true
-pin: true 
+# pin: true 
 affected:
 - Dateiablage
 - LernSax
