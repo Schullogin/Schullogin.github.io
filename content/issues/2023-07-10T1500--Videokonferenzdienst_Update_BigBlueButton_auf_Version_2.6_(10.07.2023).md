@@ -17,8 +17,7 @@ section: issue
 Heute um ca. 15:00 Uhr wird für die Videokonferenz-Software BigBlueButton das Update 
 auf die Version 2.6 installiert.
 
-Dabei kann es zu kurzen Ausfällen kommen. Eventuell kann dann ein Neuladen der 
-Seite / Neustarten der Konferenz nötig sein.
+Zum Zeitpunkt des Updates laufende Konferenzen werden nicht unterbrochen, nutzen bis zum Beenden aber noch die alte Version.
 
 Diese Version bringt viele Verbesserungen und neue Funktionen mit. Ein detaillierter 
 [Changelog](https://docs.schullogin.de/99-Changelog/Index.html) und [
