@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><link rel="alternate" type="text/html" href="https://Schullogin.github.io"/><title>LernSax - BigBlueButton on Verfügbarkeit digitaler Dienste für Schulen in Sachsen</title><link>https://Schullogin.github.io/affected/lernsax-bigbluebutton/</link><description>Vorfallshistorie</description><generator>github.com/cstate</generator><language>de</language><lastBuildDate>2023-07-10T15:00:00+00:00</lastBuildDate><updated>2023-07-10T15:00:00+00:00</updated><atom:link href="https://Schullogin.github.io/affected/lernsax-bigbluebutton/index.xml" rel="self" type="application/rss+xml"/><item><title>[Gelöst] Videokonferenzdienst: Update BigBlueButton auf Version 2.6 (10.07.2023)</title><link>https://Schullogin.github.io/issues/2023-07-10t1500--videokonferenzdienst_update_bigbluebutton_auf_version_2.6_10.07.2023/</link><pubDate>Mon, 10 Jul 2023 15:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2023-07-10t1500--videokonferenzdienst_update_bigbluebutton_auf_version_2.6_10.07.2023/</guid><category>2023-07-10T15:30:00</category><description>Heute um ca. 15:00 Uhr wird für die Videokonferenz-Software BigBlueButton das Update auf die Version 2.6 installiert.
-Dabei kann es zu kurzen Ausfällen kommen. Eventuell kann dann ein Neuladen der Seite / Neustarten der Konferenz nötig sein.
+Zum Zeitpunkt des Updates laufende Konferenzen werden nicht unterbrochen, nutzen bis zum Beenden aber noch die alte Version.
 Diese Version bringt viele Verbesserungen und neue Funktionen mit. Ein detaillierter Changelog und Dokumentation ausgewählter Funktionen folgen in Kürze.
 Eine englischsprachige Übersicht findet sich unter https://docs.bigbluebutton.org/new-features/</description><content type="html">&lt;p>Heute um ca. 15:00 Uhr wird für die Videokonferenz-Software BigBlueButton das Update
 auf die Version 2.6 installiert.&lt;/p>
-&lt;p>Dabei kann es zu kurzen Ausfällen kommen. Eventuell kann dann ein Neuladen der
-Seite / Neustarten der Konferenz nötig sein.&lt;/p>
+&lt;p>Zum Zeitpunkt des Updates laufende Konferenzen werden nicht unterbrochen, nutzen bis zum Beenden aber noch die alte Version.&lt;/p>
 &lt;p>Diese Version bringt viele Verbesserungen und neue Funktionen mit. Ein detaillierter
 &lt;a href="https://docs.schullogin.de/99-Changelog/Index.html">Changelog&lt;/a> und &lt;a href="https://docs.schullogin.de/20-Werkzeuge/30-BigBlueButton/Index.html">
 Dokumentation&lt;/a>
