@@ -2,7 +2,7 @@
 title: "Komplettabschaltung SBS/Schullogin am 27.07.2023 von 9.30 bis 16.30 Uhr"
 date: 2023-07-27T09:30:00
 # resolved: true
-# resolvedWhen: 2023-07-27T09:30:00
+# resolvedWhen: 2023-07-27T16:30:00
 # severity: down
 informational: true
 pin: true 
