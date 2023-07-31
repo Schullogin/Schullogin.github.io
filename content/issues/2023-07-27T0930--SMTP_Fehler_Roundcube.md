@@ -3,7 +3,7 @@ title: "Störung der Möglichkeit des Nachrichtenversands durch neuen Mailservic
 date: 2023-07-31T10:00:00
 resolved: false
 # resolvedWhen: 2023-07-27T16:30:00
-severity: disrupted
+severity: notice
 # informational: true
 pin: true 
 affected:
