@@ -4,7 +4,7 @@ date: 2023-07-31T10:00:00
 resolved: false
 # resolvedWhen: 2023-07-27T16:30:00
 severity: disrupted
-informational: true
+# informational: true
 pin: true 
 affected:
 - Nachrichten
