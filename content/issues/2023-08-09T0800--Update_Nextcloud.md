@@ -1,5 +1,5 @@
 ---
-title: "Update Nextcloud"
+title: "Update Nextcloud 09.08.2022 von 08:00 bis 12:00"
 date: 2023-08-09T08:00:00
 resolved: false
 # resolvedWhen: 2023-08-09T08:00:00
@@ -10,5 +10,15 @@ affected:
 - Dateiablage
 section: issue
 ---
+
+## Plan
+
+Fertigstellung bis zum Mittag
+
+## 08:00 
+
+Start
+
+## Details
 
 Update Betriebssystem und Nextcloud
