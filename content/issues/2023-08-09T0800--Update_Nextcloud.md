@@ -15,6 +15,11 @@ section: issue
 
 Fertigstellung bis zum Mittag
 
+## 09:45
+
+* Update läuft länger als geplant, Supportticket beim Hersteller erstellt
+  * https://support.nextcloud.com/#ticket/zoom/49468
+
 ## 08:42
 
 * Abgeschlossen Update auf Nextcloud 26.0.4
