@@ -15,9 +15,14 @@ section: issue
 
 Fertigstellung bis zum Mittag
 
+## 08:30
+
+* Abgeschlossen Betriebssystem Update
+* Start Nextcloud Update
+
 ## 08:00 
 
-Start
+* Start Betriebssystem Update
 
 ## Details
 
