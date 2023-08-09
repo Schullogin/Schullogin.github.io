@@ -1,11 +1,11 @@
 ---
 title: "Update Nextcloud 09.08.2022 von 08:00 bis 13:00"
 date: 2023-08-09T08:00:00
-resolved: false
-# resolvedWhen: 2023-08-09T08:00:00
+resolved: true
+resolvedWhen: 2023-08-09T11:00:00
 severity: down
 # informational: true
-pin: true 
+pin: false 
 affected:
 - Dateiablage
 section: issue
@@ -14,6 +14,10 @@ section: issue
 ## Plan
 
 Fertigstellung bis zum Mittag
+
+## 11:00
+
+* Tests, Update soweit abgeschlossen
 
 ## 10:24
 
