@@ -1,5 +1,5 @@
 ---
-title: "Update Nextcloud 09.08.2022 von 08:00 bis 12:00"
+title: "Update Nextcloud 09.08.2022 von 08:00 bis 13:00"
 date: 2023-08-09T08:00:00
 resolved: false
 # resolvedWhen: 2023-08-09T08:00:00
@@ -14,6 +14,13 @@ section: issue
 ## Plan
 
 Fertigstellung bis zum Mittag
+
+## 10:24
+
+* Update läuft noch, Diagnose wurde erstellt, wahrscheinliches Ende vor 14:00 Uhr.
+  * https://github.com/nextcloud/server/issues/39769
+  * https://github.com/nextcloud/server/issues/39744
+  * 3000 von 13560 Migrationen wurden durchgeführt
 
 ## 09:45
 
