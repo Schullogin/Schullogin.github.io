@@ -1,6 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><link rel="alternate" type="text/html" href="https://Schullogin.github.io"/><title>Issues on Verfügbarkeit digitaler Dienste für Schulen in Sachsen</title><link>https://Schullogin.github.io/issues/</link><description>Vorfallshistorie</description><generator>github.com/cstate</generator><language>de</language><lastBuildDate>2023-08-09T08:00:00+00:00</lastBuildDate><updated>2023-08-09T08:00:00+00:00</updated><atom:link href="https://Schullogin.github.io/issues/index.xml" rel="self" type="application/rss+xml"/><item><title>Update Nextcloud 09.08.2022 von 08:00 bis 12:00</title><link>https://Schullogin.github.io/issues/2023-08-09t0800--update_nextcloud/</link><pubDate>Wed, 09 Aug 2023 08:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2023-08-09t0800--update_nextcloud/</guid><category/><description>Plan Fertigstellung bis zum Mittag
-09:45 Update läuft länger als geplant, Supportticket beim Hersteller erstellt https://support.nextcloud.com/#ticket/zoom/49468 08:42 Abgeschlossen Update auf Nextcloud 26.0.4 Start Update auf Nextcloud 27.0.1 08:30 Abgeschlossen Betriebssystem Update Start Nextcloud Update 08:00 Start Betriebssystem Update Details Update Betriebssystem und Nextcloud</description><content type="html">&lt;h2 id="plan">Plan&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><link rel="alternate" type="text/html" href="https://Schullogin.github.io"/><title>Issues on Verfügbarkeit digitaler Dienste für Schulen in Sachsen</title><link>https://Schullogin.github.io/issues/</link><description>Vorfallshistorie</description><generator>github.com/cstate</generator><language>de</language><lastBuildDate>2023-08-09T08:00:00+00:00</lastBuildDate><updated>2023-08-09T08:00:00+00:00</updated><atom:link href="https://Schullogin.github.io/issues/index.xml" rel="self" type="application/rss+xml"/><item><title>Update Nextcloud 09.08.2022 von 08:00 bis 13:00</title><link>https://Schullogin.github.io/issues/2023-08-09t0800--update_nextcloud/</link><pubDate>Wed, 09 Aug 2023 08:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2023-08-09t0800--update_nextcloud/</guid><category/><description>Plan Fertigstellung bis zum Mittag
+10:24 Update läuft noch, Diagnose wurde erstellt, wahrscheinliches Ende vor 14:00 Uhr. https://github.com/nextcloud/server/issues/39769 https://github.com/nextcloud/server/issues/39744 3000 von 13560 Migrationen wurden durchgeführt 09:45 Update läuft länger als geplant, Supportticket beim Hersteller erstellt https://support.nextcloud.com/#ticket/zoom/49468 08:42 Abgeschlossen Update auf Nextcloud 26.0.4 Start Update auf Nextcloud 27.0.1 08:30 Abgeschlossen Betriebssystem Update Start Nextcloud Update 08:00 Start Betriebssystem Update Details Update Betriebssystem und Nextcloud</description><content type="html">&lt;h2 id="plan">Plan&lt;/h2>
 &lt;p>Fertigstellung bis zum Mittag&lt;/p>
+&lt;h2 id="1024">10:24&lt;/h2>
+&lt;ul>
+&lt;li>Update läuft noch, Diagnose wurde erstellt, wahrscheinliches Ende vor 14:00 Uhr.
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/nextcloud/server/issues/39769">https://github.com/nextcloud/server/issues/39769&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/nextcloud/server/issues/39744">https://github.com/nextcloud/server/issues/39744&lt;/a>&lt;/li>
+&lt;li>3000 von 13560 Migrationen wurden durchgeführt&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
 &lt;h2 id="0945">09:45&lt;/h2>
 &lt;ul>
 &lt;li>Update läuft länger als geplant, Supportticket beim Hersteller erstellt
