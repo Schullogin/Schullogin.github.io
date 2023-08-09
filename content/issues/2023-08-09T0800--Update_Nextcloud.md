@@ -20,7 +20,7 @@ Fertigstellung bis zum Mittag
 * Update läuft noch, Diagnose wurde erstellt, wahrscheinliches Ende vor 14:00 Uhr.
   * https://github.com/nextcloud/server/issues/39769
   * https://github.com/nextcloud/server/issues/39744
-  * 3000 von 13560 Migrationen wurden durchgeführt
+  * 10000 von 13560 Migrationen wurden durchgeführt
 
 ## 09:45
 
