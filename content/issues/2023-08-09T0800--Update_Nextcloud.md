@@ -15,6 +15,11 @@ section: issue
 
 Fertigstellung bis zum Mittag
 
+## 08:42
+
+* Abgeschlossen Update auf Nextcloud 26.0.4
+* Start Update auf Nextcloud 27.0.1
+
 ## 08:30
 
 * Abgeschlossen Betriebssystem Update
