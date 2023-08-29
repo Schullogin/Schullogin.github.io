@@ -1,5 +1,5 @@
 ---
-title: "Update Nextcloud 09.08.2022 von 08:00 bis 13:00"
+title: "Update Nextcloud 09.08.2023 von 08:00 bis 13:00"
 date: 2023-08-09T08:00:00
 resolved: true
 resolvedWhen: 2023-08-09T11:00:00
