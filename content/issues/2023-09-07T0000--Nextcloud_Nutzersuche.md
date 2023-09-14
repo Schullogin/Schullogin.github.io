@@ -15,10 +15,10 @@ Die Nutzersuche in der Dateiablage (Nextcloud) ist derzeit zum Teil gestört. Di
 
 Alternativ kann nach dem Benutzernamen gesucht werden. Als Workaround hat sich das folgende Vorgehen bewährt:
 
-1. In Schullogin die Nutzerübersicht öffnen
-2. Dort den gewünschten Menschen via Vor- und Nachname suchen
-3. Den Benutzernamen kopieren
-4. Den Nutzer in der Nextcloud suchen
+1. In Schullogin die Accountübersicht öffnen
+2. Dort die gewünschte Person via Vor- und Nachname suchen
+3. Den Benutzernamen der Person kopieren
+4. In der Dateiablage die Person mit ihrem Benutzernamen suchen
 
-Wir sind mit der Nextcloud GmbH im Austausch um das Problem zu lösen. Die ersten Versuche waren leider nur teilweise von Erfolg gekrönt.
-Ziel ist es hier die Benutzersuche wieder wie gewohnt bereitstellen zu können.
+Wir sind mit der Nextcloud GmbH im Austausch, um das Problem zu lösen. Die ersten Versuche waren leider nur teilweise von Erfolg gekrönt.
+Ziel ist es, die Benutzersuche wieder wie gewohnt bereitstellen zu können.
