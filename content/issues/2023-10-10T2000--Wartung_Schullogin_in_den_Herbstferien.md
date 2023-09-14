@@ -27,6 +27,6 @@ Die Wartung wird am 10.10.2023 gegen 20:00 Uhr starten und wahrscheinlich bis zu
 Damit ist auch der Zugang zu den nachgeschalteten **Diensten über die Weboberfläche nicht möglich.**
 
 Ausnahmen:
-* Falls Sie die **Dateiablage** (Nextcloud) mit der Client-Software oder per App auf dem Mobilgerät nutzen, so ist dies in der Zeit ohne Einschränkung möglich. Anleiitungen hierzu finden sie in unserer Dokumentation [hier](https://docs.schullogin.de/20-Werkzeuge/20-Dateiablage/11-Nutzung%20Desktop%20Client/Index.html) und [hier](https://docs.schullogin.de/20-Werkzeuge/20-Dateiablage/12-Schnellstart-App/Index.html).
+* Falls Sie die **Dateiablage** (Nextcloud) mit der Client-Software oder per App auf dem Mobilgerät nutzen, so ist dies in der Zeit ohne Einschränkung möglich. Anleitungen hierzu finden sie in unserer Dokumentation [hier](https://docs.schullogin.de/20-Werkzeuge/20-Dateiablage/11-Nutzung%20Desktop%20Client/Index.html) und [hier](https://docs.schullogin.de/20-Werkzeuge/20-Dateiablage/12-Schnellstart-App/Index.html).
 * Der **etherpad**-Dienst ist weiterhin unter [notes.schullogin.de](https://notes.schullogin.de) bzw. den individuellen Links zu ihren Pads erreichbar
 * Wenn Sie **SBS-Moodle** per *direkter Anmeldung* oder per *App* nutzen, so ist dies auch während der Wartung ohne Einschränkungen möglich. 
