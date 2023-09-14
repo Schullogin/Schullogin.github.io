@@ -1,22 +1,31 @@
 ---
-title: "Wartung Schullogin in den Herbstferien"
+title: "Schullogin: Wartung Gesamtsystem in den Herbstferien (10.10.2023, 20:00 Uhr bis ca. 12.10.2023)"
 date: 2023-10-10T20:00:00
 # resolved: true
-# resolvedWhen: 2023-10-10T20:00:00
+# resolvedWhen: 2023-10-12T20:00:00
 # severity: down
 informational: true
 pin: true 
 affected:
 - Anmeldung
 - Schnittstellen
+- Nachrichten
+- Dateiablage
+- Videokonferenzen (BigBlueButton)
+- lernsax_schullogin
+- OPAL Schule
+- mesax_schullogin
 section: issue
 ---
 
 In den Herbstferien werden einige aufwendige Wartungen an Schullogin vorgenommen. Diese sind notwendig um das System auf zukünftige neue Funktionen vorzubereiten.
 
-Die Wartung wird am 10.10.2023 gegen 20:00 Uhr starten und wahrscheinlich bis zum 12.10.2023 dauern. In der Zeit ist eine Anmeldung am System nicht möglich.
+Die Wartung wird am 10.10.2023 gegen 20:00 Uhr starten und wahrscheinlich bis zum 12.10.2023 dauern. 
 
-Da damit das Login zeitweise nicht möglich ist, ist der Zugang zu den Nachgeschalteten Diensten über die Weboberfläche nicht möglich.
+**In dieser Zeit ist eine Anmeldung am System nicht möglich.**
 
-Falls Sie Nextcloud mit dem Client nutzen, so ist dies in der Zeit ohne Einschränkung möglich.
+Damit ist auch der Zugang zu den nachgeschalteten **Diensten über die Weboberfläche nicht möglich.**
 
+Ausnahmen:
+* Falls Sie die **Dateiablage** (Nextcloud) mit der Client-Software oder per App auf dem Mobilgerät nutzen, so ist dies in der Zeit ohne Einschränkung möglich. Anleiitungen hierzu finden sie in unserer Dokumentation [hier](https://docs.schullogin.de/20-Werkzeuge/20-Dateiablage/11-Nutzung%20Desktop%20Client/Index.html) und [hier](https://docs.schullogin.de/20-Werkzeuge/20-Dateiablage/12-Schnellstart-App/Index.html).
+* Der **etherpad**-Dienst ist weiterhin unter [notes.schullogin.de](https://notes.schullogin.de) bzw. den individuellen Links zu ihren Pads erreichbar
