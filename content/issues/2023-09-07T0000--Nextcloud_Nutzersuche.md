@@ -4,7 +4,7 @@ date: 2023-09-07T00:00:00
 resolved: false
 # resolvedWhen: 2023-09-07T00:00:00
 # severity: down
-informational: true
+# informational: true
 pin: true 
 affected:
 - Dateiablage
