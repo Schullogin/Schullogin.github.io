@@ -11,4 +11,4 @@ affected:
 section: issue
 ---
 
-Derzeit kommt es gehäuft zu Verbindungsabbrüchen zwischen Nextcloud und OnlyOffice, die wir aktuell manuell wiederherstellen. Wir sind mit der Nextcloud GmbH im Austausch, um das Problem zu lösen. Über Problemlösungen informieren wir Sie hier.
+Derzeit kommt es gehäuft zu Verbindungsabbrüchen zwischen Nextcloud und OnlyOffice, die wir aktuell manuell wiederherstellen. Wir sind mit der Nextcloud GmbH im Austausch, um das Problem zu lösen. Über Problemlösungen informieren wir Sie hier.about:blank#blocked
