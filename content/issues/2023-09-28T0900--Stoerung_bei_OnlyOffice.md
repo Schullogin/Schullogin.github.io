@@ -1,9 +1,9 @@
 ---
 title: "Störung bei OnlyOffice"
 date: 2023-09-28T09:00:00
-# resolved: true
+resolved: false
 # resolvedWhen: 2023-09-28T09:00:00
-severity: disrupted
+# severity: disrupted
 # informational: true
 pin: true
 affected:
