@@ -35,12 +35,18 @@ Ausnahmen:
 
 ### Stand 11.10.2023 12:37
 
-* Voll-Backup wurde erstellt
-* Debian Update wurde installiert
 * jetzt laufen die Software Updates
-* Merge train läuft ... caching issues with pipeline ,,, rerunning
+* Merge train läuft
 * Redis Config anpassen
-* Tests
-* Preflight tests für das Team
+* Vorabtests
+* Preflight tests mit dem Team
 * Online
 * Letzte Probleme mit dem Mailer noch behoben
+
+### Stand 11.10.2023 08:00
+
+* Debian Update wurde installiert
+
+## Stand 11.10.2023: 00:00
+
+* Voll-Backup wurde erstellt
