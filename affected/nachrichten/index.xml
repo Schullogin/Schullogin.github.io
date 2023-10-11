@@ -20,15 +20,21 @@ Falls Sie die Dateiablage (Nextcloud) mit der Client-Software oder per App auf d
 &lt;h2 id="verlauf">Verlauf&lt;/h2>
 &lt;h3 id="stand-11102023-1237">Stand 11.10.2023 12:37&lt;/h3>
 &lt;ul>
-&lt;li>Voll-Backup wurde erstellt&lt;/li>
-&lt;li>Debian Update wurde installiert&lt;/li>
 &lt;li>jetzt laufen die Software Updates&lt;/li>
-&lt;li>Merge train läuft &amp;hellip; caching issues with pipeline ,,, rerunning&lt;/li>
+&lt;li>Merge train läuft&lt;/li>
 &lt;li>Redis Config anpassen&lt;/li>
-&lt;li>Tests&lt;/li>
-&lt;li>Preflight tests für das Team&lt;/li>
+&lt;li>Vorabtests&lt;/li>
+&lt;li>Preflight tests mit dem Team&lt;/li>
 &lt;li>Online&lt;/li>
 &lt;li>Letzte Probleme mit dem Mailer noch behoben&lt;/li>
+&lt;/ul>
+&lt;h3 id="stand-11102023-0800">Stand 11.10.2023 08:00&lt;/h3>
+&lt;ul>
+&lt;li>Debian Update wurde installiert&lt;/li>
+&lt;/ul>
+&lt;h2 id="stand-11102023-0000">Stand 11.10.2023: 00:00&lt;/h2>
+&lt;ul>
+&lt;li>Voll-Backup wurde erstellt&lt;/li>
 &lt;/ul></content></item><item><title>[Gelöst] Störung der Möglichkeit des Nachrichtenversands durch neuen Mailservice Roundcube</title><link>https://Schullogin.github.io/issues/2023-07-27t0930--nachrichtenfehler_roundcube/</link><pubDate>Mon, 31 Jul 2023 10:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2023-07-27t0930--nachrichtenfehler_roundcube/</guid><category>2023-07-31T11:30:00</category><description>Im Rahmen der Umstellung auf den neuen Mailservice innerhalb von Schullogin ist eine Störung aufgetreten, die sich in einem Fehler beim Versand von Nachrichten beim neuen Mailservice Roundcube niederschlägt.
 Wir analysieren das Problem und werden nach der Lösung eine Information veröffentlichen. Der alte Mailservice ist weiterhin uneingeschränkt nutzbar. Es liegt keine Störung des Mailsystems vor.
 Update 31.07.2023 11:30 Uhr: Das Problem ist behoben, der neue Mailservice Roundcube funktioniert wieder fehlerfrei. Ursache war eine fehlerhafte Konfiguration.</description><content type="html">&lt;p>Im Rahmen der Umstellung auf den neuen Mailservice innerhalb von Schullogin ist eine Störung aufgetreten, die sich in einem Fehler beim Versand von Nachrichten beim neuen Mailservice Roundcube niederschlägt.&lt;/p>
