@@ -1,11 +1,11 @@
 ---
 title: "Wartung Switches Sächsischer Bildungsserver am 12.10.2023"
 date: 2023-10-12T08:00:00
-resolved: false
-# resolvedWhen: 2023-10-12T08:00:00
+resolved: true
+resolvedWhen: 2023-10-12T12:00:00
 # severity: down
-informational: true
-pin: true 
+#informational: true
+pin: false
 affected:
 - Anmeldung
 - Support
