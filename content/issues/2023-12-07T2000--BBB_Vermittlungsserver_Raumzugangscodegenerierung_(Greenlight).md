@@ -1,7 +1,7 @@
 ---
 title: "Raumzugangscodegenerierung für Videokonferenzräume (07.12.2023)"
 date: 2023-12-07T20:00:00
-resolved: false
+# resolved: false
 # resolvedWhen: 2023-10-12T12:00:00
 # severity: down
 informational: true
