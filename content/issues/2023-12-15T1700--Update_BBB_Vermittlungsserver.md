@@ -1,10 +1,10 @@
 ---
 title: "Update auf Greenlight 3.1.0.2 am 15.12.2023"
 date: 2023-12-15T17:00:00
-# resolved: true
+resolved: false
 # resolvedWhen: 2023-12-15T18:00:00
-# severity: down
-informational: true
+severity: down
+# informational: true
 pin: true
 affected:
 - Videokonferenzen (BigBlueButton)
