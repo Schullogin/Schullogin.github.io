@@ -16,3 +16,7 @@ Am Freitag, dem 15.12.2023 updaten wir den Vermittlungsserver ("Greenlight") uns
 Dazu ist es nötig, dass die Raumübersicht ab 17:00 Uhr für maximal 3 Stunden nicht erreichbar ist.
 
 Im Rahmen der Updates werden Raumnamen, die nur aus einem Zeichen bestehen, mit einem Anhang ('bitte Raumnamen ändern') versehen. Diese Raumnamen können nach der Aktualisierung in beliebige Zeichenketten mit mehr als einem Zeichen geändert werden. 
+
+## Update 17:01
+
+Der Vermittlungsserver ("Greenlight") unseres Videokonferenzdienstes BigBlueButton (BBB) wurde planmäßig abgeschaltet. Das Update ist in Arbeit.
