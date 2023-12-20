@@ -2,7 +2,7 @@
 title: "Dateiablage: Nutzersuche eingeschränkt"
 date: 2023-09-07T00:00:00
 resolved: true
-resolvedWhen: 2023-20-12T13:30:00
+resolvedWhen: 2023-12-20T13:30:00
 # severity: down
 # informational: true
 pin: false 
