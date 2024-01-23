@@ -1,4 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><link rel="alternate" type="text/html" href="https://Schullogin.github.io"/><title>Issues on Verfügbarkeit digitaler Dienste für Schulen in Sachsen</title><link>https://Schullogin.github.io/issues/</link><description>Vorfallshistorie</description><generator>github.com/cstate</generator><language>de</language><lastBuildDate>2024-01-25T22:00:00+00:00</lastBuildDate><updated>2024-01-25T22:00:00+00:00</updated><atom:link href="https://Schullogin.github.io/issues/index.xml" rel="self" type="application/rss+xml"/><item><title>Update BBB 2.6.14 auf 2.5.16</title><link>https://Schullogin.github.io/issues/2024-01-25t2200--update_bbb_2.6.14_auf_2.5.16/</link><pubDate>Thu, 25 Jan 2024 22:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2024-01-25t2200--update_bbb_2.6.14_auf_2.5.16/</guid><category/><description>BBB 2.6.14 auf 2.6.16 vornehmen, welches keine Nutzeränderungen mit sich bringen wird.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><link rel="alternate" type="text/html" href="https://Schullogin.github.io"/><title>Issues on Verfügbarkeit digitaler Dienste für Schulen in Sachsen</title><link>https://Schullogin.github.io/issues/</link><description>Vorfallshistorie</description><generator>github.com/cstate</generator><language>de</language><lastBuildDate>2024-02-05T22:00:00+00:00</lastBuildDate><updated>2024-02-05T22:00:00+00:00</updated><atom:link href="https://Schullogin.github.io/issues/index.xml" rel="self" type="application/rss+xml"/><item><title>Update BBB auf Version 2.7 in KW 6/7 geplant</title><link>https://Schullogin.github.io/issues/2024-02-05t2200--update_bbb_auf_version_2.7_in_kw_6_7_geplant/</link><pubDate>Mon, 05 Feb 2024 22:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2024-02-05t2200--update_bbb_auf_version_2.7_in_kw_6_7_geplant/</guid><category/><description>Update auf BBB 2.7.x.
+Es sollte keinen Ausfall geben, da nur nicht benutzte Server schrittweise umgestellt werden.
+Neue Funktionen in BBB 2.7.x:
+https://docs.bigbluebutton.org/new-features/ Wichtigste Neue Funktionen von BigBlueButton 2.7 Verbesserte Benutzerfreundlichkeit Neues Rasterlayout: Verbesserte visuelle Darstellung der Teilnehmer, unabhängig von der Webcam-Nutzung. Deaktivierung der eigenen Webcam-Ansicht: Reduzierung der Ermüdung durch Selbstansicht, mit Erinnerungsfunktion, dass die Webcam aktiv ist. Erhöhtes Engagement Reaktionsleiste: Ermöglicht schnelle Emoji-Reaktionen der Schüler auf den Lehrer. Timer und Stoppuhr: Sichtbar für alle Teilnehmer mit akustischen Benachrichtigungen beim Ablauf.</description><content type="html">&lt;p>Update auf BBB 2.7.x.&lt;/p>
+&lt;p>Es sollte keinen Ausfall geben, da nur nicht benutzte Server schrittweise umgestellt werden.&lt;/p>
+&lt;p>Neue Funktionen in BBB 2.7.x:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.bigbluebutton.org/new-features/">https://docs.bigbluebutton.org/new-features/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="wichtigste-neue-funktionen-von-bigbluebutton-27">Wichtigste Neue Funktionen von BigBlueButton 2.7&lt;/h2>
+&lt;h3 id="verbesserte-benutzerfreundlichkeit">Verbesserte Benutzerfreundlichkeit&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Neues Rasterlayout&lt;/strong>: Verbesserte visuelle Darstellung der Teilnehmer, unabhängig von der Webcam-Nutzung.&lt;/li>
+&lt;li>&lt;strong>Deaktivierung der eigenen Webcam-Ansicht&lt;/strong>: Reduzierung der Ermüdung durch Selbstansicht, mit Erinnerungsfunktion, dass die Webcam aktiv ist.&lt;/li>
+&lt;/ul>
+&lt;h3 id="erhöhtes-engagement">Erhöhtes Engagement&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Reaktionsleiste&lt;/strong>: Ermöglicht schnelle Emoji-Reaktionen der Schüler auf den Lehrer.&lt;/li>
+&lt;li>&lt;strong>Timer und Stoppuhr&lt;/strong>: Sichtbar für alle Teilnehmer mit akustischen Benachrichtigungen beim Ablauf.&lt;/li>
+&lt;/ul>
+&lt;h3 id="leistungssteigerungen">Leistungssteigerungen&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Betrieb auf Ubuntu 20.04&lt;/strong>: Verbesserte Gesamtleistung und Skalierbarkeit.&lt;/li>
+&lt;/ul>
+&lt;h3 id="neue-funktionen-für-hybrides-lernen">Neue Funktionen für hybrides Lernen&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Kamera als Hauptinhalt&lt;/strong>: Nutzung einer Webcam zur Hervorhebung physischer Bereiche wie einer Tafel.&lt;/li>
+&lt;/ul>
+&lt;h3 id="flexible-präsentationsoptionen">Flexible Präsentationsoptionen&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Herunterladen der Originalpräsentation&lt;/strong>: Zusätzlich zur Option, annotierte Präsentationen herunterzuladen.&lt;/li>
+&lt;/ul>
+&lt;h3 id="wake-lock-für-mobile-geräte">Wake-Lock für mobile Geräte&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Bildschirm bleibt eingeschaltet&lt;/strong>: Vermeidung von Unterbrechungen in den Medienverbindungen.&lt;/li>
+&lt;/ul>
+&lt;h3 id="experimentelle-funktionen">Experimentelle Funktionen&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Neuer Kamera- und Bildschirmfreigabe-Recorder&lt;/strong>: Basierend auf dem Pion-Projekt.&lt;/li>
+&lt;li>&lt;strong>Transparent Listen Only-Modus&lt;/strong>: Für eine verbesserte Audioerfahrung.&lt;/li>
+&lt;/ul>
+&lt;h3 id="aktualisierte-komponenten">Aktualisierte Komponenten&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Upgrades für Schlüsselkomponenten&lt;/strong>: Einschließlich Spring, React, NodeJS, Java, Meteor, Grails, GORM und Groovy.&lt;/li>
+&lt;/ul>
+&lt;h3 id="entwicklung-und-beitrag">Entwicklung und Beitrag&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Entwicklumgsumgebung&lt;/strong>: Hinweise zur Einrichtung und Möglichkeiten zur Beteiligung.&lt;/li>
+&lt;/ul></content></item><item><title>Update BBB 2.6.14 auf 2.5.16</title><link>https://Schullogin.github.io/issues/2024-01-25t2200--update_bbb_2.6.14_auf_2.5.16/</link><pubDate>Thu, 25 Jan 2024 22:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2024-01-25t2200--update_bbb_2.6.14_auf_2.5.16/</guid><category/><description>BBB 2.6.14 auf 2.6.16 vornehmen, welches keine Nutzeränderungen mit sich bringen wird.
 Es sollte keinen Ausfall geben, da nur nicht benutzte Server schrittweise umgestellt werden.</description><content type="html">&lt;p>BBB 2.6.14 auf 2.6.16 vornehmen, welches keine Nutzeränderungen mit sich bringen wird.&lt;/p>
 &lt;p>Es sollte keinen Ausfall geben, da nur nicht benutzte Server schrittweise umgestellt werden.&lt;/p></content></item><item><title>Accountsperren aufgrund von auffälligem Verhalten</title><link>https://Schullogin.github.io/issues/2024-01-22t1000--accuntsperren/</link><pubDate>Mon, 22 Jan 2024 10:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2024-01-22t1000--accuntsperren/</guid><category/><description>2024-01-22 Aufgrund von Auffälligkeiten im Sendeverhalten von einigen Schullogin-Accounts wurden diese gesperrt. Falls bei Ihnen Accounts nicht mehr funktionieren, wenden Sie sich bitte an den Schullogin-Support.
 Eine Entsperrung Ihres Schullogin-Accounts kann nur vom Schullogin-Support, nach Freigabe durch die Schulleitung, erfolgen. Die direkte Entsperrung via SaxSVS ist nicht möglich.
