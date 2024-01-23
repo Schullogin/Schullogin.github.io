@@ -1,8 +1,8 @@
 ---
 title: "Informationen zur Skalierung von Schullogin am 08.01.2024"
 date: 2024-01-08T05:30:00
-# resolved: true
-# resolvedWhen: 2024-01-08T05:30:00
+resolved: true
+resolvedWhen: 2024-01-09T05:30:00
 # severity: down
 informational: true
 pin: true 
