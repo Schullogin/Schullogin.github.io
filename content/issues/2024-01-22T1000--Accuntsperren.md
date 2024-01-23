@@ -12,6 +12,11 @@ affected:
 section: issue
 ---
 
+## 2024-01-23
+
+Mailversand ist erwartungsgemäß zurückgegangen.
+Wir informieren demnächst schrittweise die Schulen über die jeweiligen Accountsperren.
+
 ## 2024-01-22
 
 Aufgrund von Auffälligkeiten im Sendeverhalten von einigen Schullogin-Accounts wurden diese gesperrt.
