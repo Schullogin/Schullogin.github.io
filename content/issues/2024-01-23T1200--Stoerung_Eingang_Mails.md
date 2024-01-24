@@ -11,11 +11,11 @@ affected:
 section: issue
 ---
 
-##2024-01-23 22:00
+## 2024-01-23 22:00
 
 Wir monitoren weiter, bis jetzt sieht alles wieder normal aus.
 
-##2024-01-23 18:30
+## 2024-01-23 18:30
 
 Wir konnten das Problem isolieren. Aufgrund der Mitigation vom Freitag wurde der Eingang von E-Mails von außen unterbunden.
 Die Mitigation wurde angepasst, damit sind Mails wieder von außen zustellbar.
