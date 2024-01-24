@@ -48,14 +48,12 @@ https://docs.bigbluebutton.org/new-features/ Wichtigste Neue Funktionen von BigB
 &lt;li>&lt;strong>Entwicklumgsumgebung&lt;/strong>: Hinweise zur Einrichtung und Möglichkeiten zur Beteiligung.&lt;/li>
 &lt;/ul></content></item><item><title>Update BBB 2.6.14 auf 2.6.16</title><link>https://Schullogin.github.io/issues/2024-01-25t2200--update_bbb_2.6.14_auf_2.6.16/</link><pubDate>Thu, 25 Jan 2024 22:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2024-01-25t2200--update_bbb_2.6.14_auf_2.6.16/</guid><category/><description>BBB 2.6.14 auf 2.6.16 vornehmen, welches keine Nutzeränderungen mit sich bringen wird.
 Es sollte keinen Ausfall geben, da nur nicht benutzte Server schrittweise umgestellt werden.</description><content type="html">&lt;p>BBB 2.6.14 auf 2.6.16 vornehmen, welches keine Nutzeränderungen mit sich bringen wird.&lt;/p>
-&lt;p>Es sollte keinen Ausfall geben, da nur nicht benutzte Server schrittweise umgestellt werden.&lt;/p></content></item><item><title>[Gelöst] Störung Eingang Mails</title><link>https://Schullogin.github.io/issues/2024-01-23t1200--stoerung_eingang_mails/</link><pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2024-01-23t1200--stoerung_eingang_mails/</guid><category>2024-01-23T18:30:00</category><description>##2024-01-23 22:00
-Wir monitoren weiter, bis jetzt sieht alles wieder normal aus.
-##2024-01-23 18:30
-Wir konnten das Problem isolieren. Aufgrund der Mitigation vom Freitag wurde der Eingang von E-Mails von außen unterbunden. Die Mitigation wurde angepasst, damit sind Mails wieder von außen zustellbar.
+&lt;p>Es sollte keinen Ausfall geben, da nur nicht benutzte Server schrittweise umgestellt werden.&lt;/p></content></item><item><title>[Gelöst] Störung Eingang Mails</title><link>https://Schullogin.github.io/issues/2024-01-23t1200--stoerung_eingang_mails/</link><pubDate>Tue, 23 Jan 2024 12:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2024-01-23t1200--stoerung_eingang_mails/</guid><category>2024-01-23T18:30:00</category><description>2024-01-23 22:00 Wir monitoren weiter, bis jetzt sieht alles wieder normal aus.
+2024-01-23 18:30 Wir konnten das Problem isolieren. Aufgrund der Mitigation vom Freitag wurde der Eingang von E-Mails von außen unterbunden. Die Mitigation wurde angepasst, damit sind Mails wieder von außen zustellbar.
 Danke an das Team des SBS und des ZIH für die schnelle Hilfestellung.
-2024-01-23 13:21 Interne Mails funktionieren wie gehabt. Die Störung wurde an das ZIH der TUD und den SBS gemeldet, wir hoffen auf eine zügige Lösung.</description><content type="html">&lt;p>##2024-01-23 22:00&lt;/p>
+2024-01-23 13:21 Interne Mails funktionieren wie gehabt. Die Störung wurde an das ZIH der TUD und den SBS gemeldet, wir hoffen auf eine zügige Lösung.</description><content type="html">&lt;h2 id="2024-01-23-2200">2024-01-23 22:00&lt;/h2>
 &lt;p>Wir monitoren weiter, bis jetzt sieht alles wieder normal aus.&lt;/p>
-&lt;p>##2024-01-23 18:30&lt;/p>
+&lt;h2 id="2024-01-23-1830">2024-01-23 18:30&lt;/h2>
 &lt;p>Wir konnten das Problem isolieren. Aufgrund der Mitigation vom Freitag wurde der Eingang von E-Mails von außen unterbunden.
 Die Mitigation wurde angepasst, damit sind Mails wieder von außen zustellbar.&lt;/p>
 &lt;p>Danke an das Team des SBS und des ZIH für die schnelle Hilfestellung.&lt;/p>
