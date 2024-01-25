@@ -1,8 +1,8 @@
 ---
-title: "Störung Eingang Mails - Update 25.01.2024"
+title: "Störung Eingang Mails - Update 25.01.2024 21:00"
 date: 2024-01-23T12:00:00
-resolved: true
-resolvedWhen: 2024-01-25T12:00:00
+resolved: false
+# resolvedWhen: 2024-01-25T12:00:00
 severity: disrupted
 # informational: true
 # pin: true 
@@ -10,6 +10,14 @@ affected:
 - Nachrichten
 section: issue
 ---
+
+## 2024-01-25 21:00
+
+Wir haben auf den gleichen Accounts wieder auffällige Aktivitäten festgestellt.
+Die Angriffe richten sich gezielt gegen Roundcube.
+
+Um unsere Nutzer zu schützen haben wir einige IPs gesperrt und zusätzlich das Mailgateway
+bis morgen früh ausgeschaltet, damit wir das Problem ordentlich analysieren können.
 
 ## 2024-01-25 11:50
 
