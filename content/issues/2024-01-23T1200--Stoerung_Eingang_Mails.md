@@ -32,8 +32,8 @@ Wir monitoren weiter, bis jetzt sieht alles wieder normal aus.
 
 ## 2024-01-23 18:30
 
-Wir konnten das Problem isolieren. Aufgrund der Mitigation vom Freitag wurde der Eingang von E-Mails von außen unterbunden.
-Die Mitigation wurde angepasst, damit sind Mails wieder von außen zustellbar.
+Wir konnten das Problem isolieren. Bei Maßnahmen gegen auffälliges Mailsendeverhalten einiger Accounts (vgl. [Statusmeldung vom 22.01.2024](https://status.schullogin.de/issues/2024-01-22t1000--accuntsperren/)) am Freitag wurde auch der Eingang von E-Mails von außen unterbunden.
+Die Maßnahmen wurden angepasst, damit sind Mails wieder von außen zustellbar.
 
 Danke an das Team des SBS und des ZIH für die schnelle Hilfestellung.
 

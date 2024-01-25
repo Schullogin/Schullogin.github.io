@@ -5,7 +5,7 @@ resolved: true
 resolvedWhen: 2024-01-09T05:30:00
 # severity: down
 informational: true
-pin: true 
+pin: false 
 affected:
 - Anmeldung
 section: issue

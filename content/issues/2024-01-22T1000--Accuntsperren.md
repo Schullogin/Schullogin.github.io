@@ -1,5 +1,5 @@
 ---
-title: "Accountsperren aufgrund von auffälligem Verhalten"
+title: "Schullogin: vereinzelte Accountsperren aufgrund von auffälligem Verhalten"
 date: 2024-01-22T10:00:00
 resolved: false
 # resolvedWhen: 2024-01-22T10:00:00
