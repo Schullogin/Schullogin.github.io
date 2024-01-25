@@ -1,8 +1,8 @@
 ---
 title: "Störung Eingang Mails - Update 25.01.2024"
 date: 2024-01-23T12:00:00
-resolved: false
-# resolvedWhen: 2024-01-23T18:30:00
+resolved: true
+resolvedWhen: 2024-01-25T12:00:00
 severity: disrupted
 # informational: true
 # pin: true 
@@ -10,6 +10,14 @@ affected:
 - Nachrichten
 section: issue
 ---
+
+## 2024-01-25 11:50
+
+Weitere Gegenmaßnahmen sind erfolgreich.
+
+## 2024-01-25 09:30
+
+Weitere Gegenmaßnahmen testweise aktiv.
 
 ## 2024-01-25 08:00
 
