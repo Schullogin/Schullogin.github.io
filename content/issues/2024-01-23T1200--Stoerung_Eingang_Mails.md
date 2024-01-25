@@ -1,5 +1,5 @@
 ---
-title: "Störung Eingang Mails"
+title: "Störung Eingang Mails - Update 25.01.2024"
 date: 2024-01-23T12:00:00
 resolved: false
 # resolvedWhen: 2024-01-23T18:30:00
