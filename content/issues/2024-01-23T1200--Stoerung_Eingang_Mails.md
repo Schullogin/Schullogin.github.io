@@ -1,8 +1,8 @@
 ---
 title: "Störung Eingang Mails"
 date: 2024-01-23T12:00:00
-resolved: true
-resolvedWhen: 2024-01-23T18:30:00
+resolved: false
+# resolvedWhen: 2024-01-23T18:30:00
 severity: disrupted
 # informational: true
 # pin: true 
@@ -10,6 +10,13 @@ affected:
 - Nachrichten
 section: issue
 ---
+
+## 2024-01-25 08:00
+
+Die Mailwelle ging nochmal los.
+Wir haben als Gegenmaßnahme vorerst den Mailserver wieder vom Netz getrennt.
+
+Weitere Infos folgen nach der Auswertung der Logfiles.
 
 ## 2024-01-23 22:00
 
