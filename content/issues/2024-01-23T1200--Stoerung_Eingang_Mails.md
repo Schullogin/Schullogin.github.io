@@ -11,6 +11,12 @@ affected:
 section: issue
 ---
 
+## 2024-01-26 10:30
+
+Die Analyse dauert an. Aus sicherheitstechnischen Gründen bleibt das Mailgateway abgeschaltet. Das Versenden und Empfangen von Nachrichten ist somit weiterhin nicht möglich.
+
+Wir arbeiten weiter mit Hochdruck an der Behebung des Problems und halten Sie auf dem Laufenden.
+
 ## 2024-01-25 21:00
 
 Wir haben auf den gleichen Accounts wieder auffällige Aktivitäten festgestellt.
