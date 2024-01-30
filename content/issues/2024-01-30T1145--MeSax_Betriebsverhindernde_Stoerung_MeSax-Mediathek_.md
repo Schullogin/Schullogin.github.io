@@ -5,7 +5,7 @@ date: 2024-01-30T11:45:00
 # resolvedWhen: 2024-01-30T11:45:00
 severity: down
 # informational: true
-# pin: true 
+pin: true 
 affected:
 - mesax_schullogin
 - mesax
