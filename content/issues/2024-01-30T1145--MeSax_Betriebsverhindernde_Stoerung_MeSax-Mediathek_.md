@@ -1,7 +1,7 @@
 ---
 title: "MeSax: Betriebsverhindernde Störung MeSax-Mediathek "
 date: 2024-01-30T11:45:00
-# resolved: true
+resolved: false
 # resolvedWhen: 2024-01-30T11:45:00
 severity: down
 # informational: true
