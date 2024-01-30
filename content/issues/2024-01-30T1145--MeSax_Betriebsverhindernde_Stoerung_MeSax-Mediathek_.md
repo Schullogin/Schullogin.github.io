@@ -17,3 +17,5 @@ Derzeit können keine Leistungen der MeSax-Mediathek abgerufen werden. Neben der
 Ein Aufruf der Mediathek aus Schullogin schlägt ebenfalls fehl.
 
 An der Behebung des Problems wird bereits gearbeitet. Eine Ursache für die Störung kann noch nicht benannt werden. Eine Abschätzung der Ausfallzeit ist ebenfalls noch nicht möglich.
+
+Aktuelle Infos auch unter https://www.lernsax.de/wws/9.php#/wws/status.php
