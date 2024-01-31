@@ -2,10 +2,10 @@
 title: "MeSax: Betriebsverhindernde Störung MeSax-Mediathek "
 date: 2024-01-30T11:45:00
 resolved: false
-# resolvedWhen: 2024-01-30T11:45:00
+resolvedWhen: 2024-01-31T09:00:00
 severity: down
 # informational: true
-pin: true 
+pin: false 
 affected:
 - mesax_schullogin
 - mesax
