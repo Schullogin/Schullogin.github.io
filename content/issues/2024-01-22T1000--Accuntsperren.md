@@ -3,7 +3,7 @@ title: "Schullogin: vereinzelte Accountsperren aufgrund von auffälligem Verhalt
 date: 2024-01-22T10:00:00
 resolved: false
 # resolvedWhen: 2024-01-22T10:00:00
-severity: disrupted
+severity: notice
 # informational: true
 # pin: true 
 affected:
