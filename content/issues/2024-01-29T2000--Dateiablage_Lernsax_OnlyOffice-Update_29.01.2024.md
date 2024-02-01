@@ -1,11 +1,11 @@
 ---
 title: "Dateiablage/Lernsax: OnlyOffice-Update 29.01.2024"
 date: 2024-01-29T20:00:00
-# resolved: true
-# resolvedWhen: 2024-01-29T24:00:00
+resolved: true
+resolvedWhen: 2024-01-29T23:59:00
 # severity: down
 informational: true
-pin: true 
+pin: false 
 affected:
 - Dateiablage
 - lernsax
