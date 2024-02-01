@@ -1,15 +1,19 @@
 ---
-title: "Störung Eingang Mails - Update 25.01.2024 21:00"
+title: "Störung Eingang Mails - Update 2024-02-01"
 date: 2024-01-23T12:00:00
 resolved: false
 # resolvedWhen: 2024-01-25T12:00:00
-severity: disrupted
+severity: notice
 # informational: true
 # pin: true 
 affected:
 - Nachrichten
 section: issue
 ---
+
+## 2024-02-01
+
+Das Mailsystem ist wieder online, wir betreiben weiterhin verstärktes Monitoring.
 
 ## 2024-01-26 10:30
 
