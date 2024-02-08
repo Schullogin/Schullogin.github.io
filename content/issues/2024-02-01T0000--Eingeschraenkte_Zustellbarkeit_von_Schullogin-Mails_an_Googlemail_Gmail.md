@@ -1,7 +1,7 @@
 ---
 title: "Eingeschränkte Zustellbarkeit von Schullogin-Mails an Googlemail/Gmail"
 date: 2024-02-01T00:00:00
-# resolved: true
+resolved: false
 # resolvedWhen: 2024-02-01T00:00:00
 severity: disrupted
 # informational: true
