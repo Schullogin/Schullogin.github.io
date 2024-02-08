@@ -5,7 +5,7 @@ date: 2024-02-01T00:00:00
 # resolvedWhen: 2024-02-01T00:00:00
 severity: disrupted
 # informational: true
-# pin: true 
+pin: true 
 affected:
 - Nachrichten
 section: issue
