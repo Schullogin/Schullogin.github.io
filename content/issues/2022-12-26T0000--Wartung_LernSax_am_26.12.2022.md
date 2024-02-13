@@ -7,7 +7,7 @@ resolvedWhen: 2022-13-26T00:00:00
 informational: true
 # pin: true 
 affected:
-- LernSaxSchullogin
+- LernSax Schullogin
 - LernSax
 section: issue
 ---

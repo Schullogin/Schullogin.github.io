@@ -15,10 +15,10 @@ affected:
   - OPAL Schule
   - E-Learning SBS-moodle
   - EtherPad
-  - lernsax
+  - LernSax
   - LernSax - Edudip
   - LernSax - BigBlueButton
-  - mesax
+  - MeSax
   - MeSax Wissensportal
   - Redaktionssystem
   - SchulCMS

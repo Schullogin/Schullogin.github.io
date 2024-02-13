@@ -7,7 +7,7 @@ resolvedWhen: 2023-10-05T03:30:00
 # informational: true
 # pin: true 
 affected:
-- lernsax
+- LernSax
 section: issue
 ---
 

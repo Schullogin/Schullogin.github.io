@@ -13,11 +13,11 @@ affected:
 - Nachrichten
 - Dateiablage
 - Videokonferenzen (BigBlueButton)
-- lernsax_schullogin
+- LernSax Schullogin
 - OPAL Schule
-- mesax_schullogin
+- MeSax Schullogin
 - EtherPad
-- lernsax
+- LernSax
 - Redaktionssystem
 - SchulCMS
 - E-Learning SBS-moodle

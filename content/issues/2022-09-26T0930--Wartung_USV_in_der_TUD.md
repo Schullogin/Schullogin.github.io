@@ -13,7 +13,7 @@ affected:
 - Nachrichten
 - Dateiablage
 - Videokonferenzen (BigBlueButton)
-- LernSaxSchullogin
+- LernSax Schullogin
 - OPAL Schule
 - Moodle SBS
 - MeSax - Mediathek

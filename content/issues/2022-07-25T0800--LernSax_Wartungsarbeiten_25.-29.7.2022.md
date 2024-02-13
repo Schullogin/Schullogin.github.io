@@ -7,8 +7,8 @@ resolvedWhen: 2022-07-29T18:00:00
 informational: true
 # pin: true
 affected:
-- LernSaxSchullogin
-- lernsax
+- LernSax Schullogin
+- LernSax
 - LernSax - BigBlueButton
 section: issue
 ---

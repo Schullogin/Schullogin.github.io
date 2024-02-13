@@ -8,7 +8,7 @@ informational: true
 pin: false 
 affected:
 - Dateiablage
-- lernsax
+- LernSax
 section: issue
 ---
 

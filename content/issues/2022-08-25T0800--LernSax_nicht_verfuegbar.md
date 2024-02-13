@@ -7,8 +7,8 @@ severity: down
 # informational: true
 # pin: true 
 affected:
-- LernSaxSchullogin
-- lernsax
+- LernSax Schullogin
+- LernSax
 section: issue
 ---
 

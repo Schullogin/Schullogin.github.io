@@ -12,10 +12,10 @@ affected:
 - Nachrichten
 - Dateiablage
 - Videokonferenzen (BigBlueButton)
-- lernsax_schullogin
+- LernSax Schullogin
 - OPAL Schule
 - Moodle SBS
-- mesax_schullogin
+- MeSax Schullogin
 - EtherPad
 section: issue
 ---

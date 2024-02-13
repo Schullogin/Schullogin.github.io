@@ -12,9 +12,9 @@ affected:
 - Nachrichten
 - Dateiablage
 - Videokonferenzen (BigBlueButton)
-- lernsax_schullogin
+- LernSax Schullogin
 - OPAL Schule
-- mesax_schullogin
+- MeSax Schullogin
 section: issue
 ---
 

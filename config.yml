@@ -179,14 +179,14 @@ params:
     - name: Videokonferenzen (BigBlueButton)
       category: Dienste in Schullogin
       link: https://schullogin.de/p/sbs.singlesignon/application/startapplication?applicationName=bigbluebutton
-    - name: lernsax_schullogin
+    - name: LernSax Schullogin
       displayName: LernSax
       category: Dienste in Schullogin
       link: https://schullogin.de/p/sbs.singlesignon/application/startapplication?applicationName=LernSaxOauth
     - name: OPAL Schule
       category: Dienste in Schullogin
       link: https://schullogin.de/p/sbs.singlesignon/application/startapplication?applicationName=SchulOpal
-    - name: mesax_schullogin
+    - name: MeSax Schullogin
       displayName: MeSax Mediathek
       category: Dienste in Schullogin
       link: https://schullogin.de/p/sbs.singlesignon/application/startapplication?applicationName=mesaxmediathek
@@ -195,14 +195,14 @@ params:
       link: https://schullogin.de/p/sbs.singlesignon/application/startapplication?applicationName=etherpad
 
     # MeSax / LernSax
-    - name: lernsax
+    - name: LernSax
       displayName: LernSax
       category: MeSax / LernSax
       link: https://www.lernsax.de/
     - name: LernSax - BigBlueButton
       category: MeSax / LernSax
       link: https://www.lernsax.de/
-    - name: mesax
+    - name: MeSax
       displayName: MeSax Mediathek
       category: MeSax / LernSax
       link: https://sachsen.edupool.de

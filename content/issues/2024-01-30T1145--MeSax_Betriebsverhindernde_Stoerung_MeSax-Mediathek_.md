@@ -7,8 +7,8 @@ severity: down
 # informational: true
 pin: false 
 affected:
-- mesax_schullogin
-- mesax
+- MeSax Schullogin
+- MeSax
 section: issue
 ---
 

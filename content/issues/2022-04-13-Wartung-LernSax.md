@@ -6,7 +6,7 @@ resolvedWhen: 2022-04-14 02:00:00
 # pin: true
 informational: true
 affected:
-- lernsax
+- LernSax
 section: issue
 ---
 
