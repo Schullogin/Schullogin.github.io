@@ -256,6 +256,9 @@ params:
     - name: Ticketsystem
       category: Sächsischer Bildungsserver
       link: https://ticket.sachsen.schule
+    - name: GitLab
+      category: Sächsischer Bildungsserver
+      link: https://git.sachsen.schule
 
 
     # Sonstige
