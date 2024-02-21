@@ -1,8 +1,8 @@
 ---
-title: "Update BBB auf Version 2.7 in KW 6/7 geplant"
-date: 2024-02-05T22:00:00
+title: "Videokonferenz/LernSax: Update BigBlueButton Version 2.7.4 (26.02.2024)"
+date: 2024-02-26T06:00:00
 # resolved: true
-# resolvedWhen: 2024-02-05T22:00:00
+# resolvedWhen: 2024-02-26T22:00:00
 # severity: down
 informational: true
 pin: true 
@@ -11,15 +11,14 @@ affected:
 section: issue
 ---
 
-Update auf BBB 2.7.x.
+Am Montag den 26.02.2024 erfolgt ein Update der Videokonferenz-Software BigBlueButton (BBB) auf die Version 2.7.4.
 
-Es sollte keinen Ausfall geben, da nur nicht benutzte Server schrittweise umgestellt werden.
+Es sollte dabei keine Ausfälle geben, da nur aktuell nicht benutzte Server schrittweise umgestellt werden.
 
-Neue Funktionen in BBB 2.7.x:
+## Neue Funktionen in BBB 2.7.x:
 
 * https://docs.bigbluebutton.org/new-features/
 
-## Wichtigste Neue Funktionen von BigBlueButton 2.7
 
 ### Verbesserte Benutzerfreundlichkeit
 - **Neues Rasterlayout**: Verbesserte visuelle Darstellung der Teilnehmer, unabhängig von der Webcam-Nutzung.
