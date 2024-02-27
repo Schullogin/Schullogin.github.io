@@ -1,11 +1,11 @@
 ---
 title: "Videokonferenz/LernSax: Update BigBlueButton Version 2.7.4 (26.02.2024)"
 date: 2024-02-26T06:00:00
-# resolved: true
-# resolvedWhen: 2024-02-26T22:00:00
+resolved: true
+resolvedWhen: 2024-02-26T22:00:00
 # severity: down
 informational: true
-pin: true 
+pin: false 
 affected:
 - Videokonferenzen (BigBlueButton)
 section: issue

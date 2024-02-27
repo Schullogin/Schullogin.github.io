@@ -1,8 +1,8 @@
 ---
 title: "Störung Eingang Mails - Update 2024-02-01"
 date: 2024-01-23T12:00:00
-resolved: false
-# resolvedWhen: 2024-01-25T12:00:00
+resolved: true
+resolvedWhen: 2024-02-02T12:00:00
 severity: notice
 # informational: true
 # pin: true 

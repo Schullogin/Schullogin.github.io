@@ -1,11 +1,11 @@
 ---
 title: "Wartung Sächsischer Bildungsserver 19.02.2024 bis 23.02.2024"
 date: 2024-02-19T08:00:00
-# resolved: true
-# resolvedWhen: 2024-02-23T16:00:00
+resolved: true
+resolvedWhen: 2024-02-23T16:00:00
 # severity: down
 informational: true
-pin: true 
+pin: false 
 affected:
 - Anmeldung
 - Support
