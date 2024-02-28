@@ -15,7 +15,7 @@ section: issue
 
 Inzwischen wird ein Großteil der Mails von Schullogin an Gmail/Googlemail zugestellt. 
 
-Die Nachrichten landen allerdings momentan vielfach im Spam-Ordner. Eine Anleitung, wie Sie diesen Absenderadressen wieder vertrauen können, finden Sie unter folgendem [Link zur Google-Hilfeseite](https://support.google.com/mail/answer/1366858?hl=de&sjid=6139777188801037813-EU#unmark_spam).
+Die Nachrichten landen allerdings momentan vielfach im Spam-Ordner. Eine Anleitung, wie Sie dies verhindern können, finden Sie unter folgendem [Link zur Google-Hilfeseite](https://support.google.com/mail/answer/1366858?hl=de&sjid=6139777188801037813-EU#unmark_spam).
 
 ## Meldung 01.02.2024
 
