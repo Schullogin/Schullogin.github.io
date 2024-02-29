@@ -5,11 +5,17 @@ resolved: true
 resolvedWhen: 2024-02-27T08:00:00
 severity: disrupted
 informational: true
-pin: true 
+pin: false 
 affected:
 - Nachrichten
 section: issue
 ---
+
+## Update 29.02.2024: 
+
+Nachrichten von Schullogin an Gmail und Googlemail sollten nun wieder ohne Ausnahmen zugestellt werden, und im normalen Posteingang landen!
+
+Falls einzelne Mails doch noch als Spam eingestuft werden, finden Sie weiter unten eine Anleitung zur Behebung.
 
 ## Update 27.02.2024:
 
