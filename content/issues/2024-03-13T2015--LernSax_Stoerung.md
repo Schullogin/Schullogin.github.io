@@ -11,7 +11,7 @@ affected:
 section: issue
 ---
 
-Um 14:26 Uhr kam bei LernSax zu einer Störung. Der zuständige Internet Service Provider (Hosting-Unternehmen) ist dabei, die Störung zu beheben.
+Um 14.26 Uhr gab es eine Störung bei LernSax. Der zuständige Internet Service Provider (Hosting-Unternehmen) ist dabei, die Störung zu beheben.
 
 ## Update 15:50 Uhr
 
