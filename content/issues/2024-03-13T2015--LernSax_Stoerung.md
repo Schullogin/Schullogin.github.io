@@ -15,4 +15,4 @@ Um 14.26 Uhr gab es eine Störung bei LernSax. Der zuständige Internet Service 
 
 ## Update 15:50 Uhr
 
-Die Störung ist behoben.
+Die Störung ist behoben. Ursache war ein Problem im Speichersystem. Laut Aussage des zuständigen Internet Service Providers kam es zu keinem Datenverlust.
