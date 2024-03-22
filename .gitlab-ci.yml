@@ -13,6 +13,11 @@ image: registry.gitlab.com/pages/hugo/hugo_extended:0.109.0
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
+checkServiceState:
+  stage: build
+  script:
+    export
+
 test:
   script:
     - hugo
