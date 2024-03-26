@@ -1,5 +1,5 @@
 ---
-title: "Update auf Greenlight 3.3.1 am 27.03.2024"
+title: "Videokonferenzen: Update auf Greenlight 3.3.1 am 27.03.2024"
 date: 2024-03-27T17:00:00
 # resolved: true
 # resolvedWhen: 2024-03-27T18:00:00
