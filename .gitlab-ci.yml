@@ -16,7 +16,7 @@ variables:
 checkServiceState:
   stage: build
   script:
-    export
+    cat $TRIGGER_PAYLOAD
 
 test:
   script:
