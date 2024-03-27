@@ -14,3 +14,7 @@ section: issue
 Heute morgen kam es zu einem Ausfall von Etherpad. Der Dienst wurde um 8:05 Uhr neu gestartet und ist seit dem wieder verfügbar.
 
 Wir untersuchen noch die Ursachen.
+
+## 20.03.2024, 10:00 Uhr
+
+Ursache für den Ausfall war eine nach dem Update vom 14.03.2024 noch nicht aktivierte Konfiguration zum automatische Neustart.
