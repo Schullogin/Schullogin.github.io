@@ -4,7 +4,7 @@ date: 2024-03-27T17:20:00
 resolved: true
 resolvedWhen: 2024-03-27T17:41:00
 # severity: down
-informational: true
+# informational: true
 pin: false
 affected:
 - Videokonferenzen (BigBlueButton)
