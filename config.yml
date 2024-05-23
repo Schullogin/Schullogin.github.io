@@ -259,7 +259,9 @@ params:
     - name: GitLab
       category: Sächsischer Bildungsserver
       link: https://git.sachsen.schule
-
+    - name: Assistent KAI
+      category: Sächsischer Bildungsserver
+      link: https://ai.sachsen.schule
 
     # Sonstige
     - name: Dynamische Lehrplandatenbank
