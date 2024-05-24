@@ -1,5 +1,5 @@
 ---
-title: "Update auf Nextcloud 28.0.5 EE"
+title: "Dateiablage: Update auf Nextcloud 28.0.5 EE (07.05.2024)"
 date: 2024-05-07T08:00:00
 resolved: true
 # field not needed for maintenance informational
