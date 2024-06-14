@@ -1,5 +1,5 @@
 ---
-title: "Wartungsinfo: Nextcloud (Entfernen alter Accounts)"
+title: "Dateiablage: Information zum Entfernen alter Accounts"
 date: 2024-06-13T13:21:00
 # resolved: true # field not needed for maintenance informational
 # resolvedWhen: 2024-06-13T13:21:00 # field not needed for maintenance informational
