@@ -13,14 +13,14 @@ section: issue
 
 Beim Dienst Etherpad werden folgende Neuerungen ab dem 01.08.2024 eingeführt:
 
-### 1. Jährliche Löschung
+#### 1. Jährliche Löschung
  
 *Alle* Pads werden ab sofort einmal jährlich zum Schuljahreswechsel am 01.08. gelöscht. Dies ist notwendig, da aus Datenschutzgründen die Pad-Beiträge von ausscheidenden Schullogin-Nutzenden nicht dauerhaft gespeichert werden dürfen. Hierfür wird die gesamte Etherpad-Datenbank gelöscht, in der auch alle Chat-Beiträge und Nutzenden-Zuordnungen festgehalten werden.
 
-### Zugangsbeschränkung 
+#### 2. Zugangsbeschränkung 
 
 Die Pads sind ab 01.08.2024 nur noch nach Anmeldung bei Schullogin zugänglich. Dies ist notwendig, da die Pads bisher aus dem Internet frei zugänglich waren. Sobald der Name eines Pads bekannt war oder erraten wurde, konnte der Inhalt der Pads frei gelesen und verändert werden.
 
- ### Hilfestellung zu den Änderungen
+### Hilfestellung zu den Änderungen
 
 Hinweise zum Aufbewahren wichtiger Pads sowie möglichen Alternativen zu Ihren bisherigen Nutzungsszenarien finden Sie in der [Dokumentation von Schullogin](https://docs.schullogin.de/20-Werkzeuge/25-Etherpad/Index.html)
