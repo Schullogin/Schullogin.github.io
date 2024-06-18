@@ -24,3 +24,5 @@ Die Pads sind ab 01.08.2024 nur noch nach Anmeldung bei Schullogin zugänglich. 
 ### Hilfestellung zu den Änderungen
 
 Hinweise zum Aufbewahren wichtiger Pads sowie möglichen Alternativen zu Ihren bisherigen Nutzungsszenarien finden Sie in der [Dokumentation von Schullogin](https://docs.schullogin.de/20-Werkzeuge/25-Etherpad/Index.html)
+
+Um dem Verlust wichtiger Pads durch diese Umstellung vorzubeugen, bewahren wir bis zum 30.08.2024 ein Backup der Etherpad-Datenbank auf. Bitte wenden Sie sich in begründeten Fällen an unseren [Support](https://docs.schullogin.de/10-Allgemein/11-Support/Index.html) zur Wiederherstellung einzelner Pads.
