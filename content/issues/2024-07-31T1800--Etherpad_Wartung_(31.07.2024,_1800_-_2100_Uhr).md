@@ -17,4 +17,4 @@ Dabei wird ein Backup der bisherigen Datenbank erstellt, und Etherpad im Anschlu
 
 Hinweise zum Sichern wichtiger Pads finden Sie in der [Dokumentation](https://docs.schullogin.de/20-Werkzeuge/25-Etherpad/Index.html) von Schullogin.
 
-Sollten Sie eine solche Sicherung nicht mehr geschafft haben, wenden Sie sich in begründeten Fällen bis zum 30.08.2024 an unseren Support zur Wiederherstellung einzelner Pads.  Wir bewahren für diesen Zweck ein Backup der Etherpad-Datenbank auf.
+Sollten Sie eine solche Sicherung nicht mehr geschafft haben, wenden Sie sich in begründeten Fällen bis zum 30.08.2024 an unseren [Support](https://docs.schullogin.de/10-Allgemein/11-Support/Index.html) zur Wiederherstellung einzelner Pads.  Wir bewahren für diesen Zweck ein Backup der Etherpad-Datenbank auf.
