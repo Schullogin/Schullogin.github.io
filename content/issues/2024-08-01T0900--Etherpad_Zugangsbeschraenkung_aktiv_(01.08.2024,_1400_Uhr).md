@@ -11,7 +11,7 @@ affected:
 section: issue
 ---
 
-Die Umsetzung der neuen Zugangsbeschränkung des Etherpad-Dienstes (siehe [Meldung vom 18.06.](https://status.schullogin.de/issues/2024-08-01t0000--etherpad_aenderungen_zugangsbeschraenkung_und_jaehrliche_loeschung_01.08.2024/)) ist jetzt aktiv.
+Die Zugangsbeschränkung des Etherpad-Dienstes (siehe [Meldung vom 18.06.](https://status.schullogin.de/issues/2024-08-01t0000--etherpad_aenderungen_zugangsbeschraenkung_und_jaehrliche_loeschung_01.08.2024/)) ist jetzt aktiv.
 
 Sollten Sie bisher Etherpad mit Personen ohne Schullogin-Account genutzt haben, finden Sie Hinweise zu möglichen Alternativen zu Ihren bisherigen Nutzungsszenarien in der [Dokumentation von Schullogin](https://docs.schullogin.de/20-Werkzeuge/25-Etherpad/Index.html).
 
