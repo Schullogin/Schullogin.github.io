@@ -14,3 +14,8 @@ section: issue
 Zur Umsetzung der neuen Zugangsbeschränkung des Etherpad-Dienstes (siehe [Meldung vom 18.06.](https://status.schullogin.de/issues/2024-08-01t0000--etherpad_aenderungen_zugangsbeschraenkung_und_jaehrliche_loeschung_01.08.2024/)) wird Etherpad am Donnerstag, den 01.08.2024 im Zeitraum zwischen 10:00 Uhr und 14:00 Uhr ggf. mehrfach neu gestartet.
 
 Hierbei wird der Dienst für kürzere Zeiträume nicht erreichbar sein. Wir werden hier mitteilen, wenn die Umstellung abgeschlossen ist und nicht mehr mit Ausfällen zu rechnen ist.
+
+
+## 01.08.2024, 14:00 Uhr
+
+Aufgrund von Störungen an anderer Stelle muss die Umsetzung der Zugangsbeschränkung verschoben werden. Bis dahin sind die Pads noch frei erreichbar auch ohne Schullogin. Wir informieren hier, wenn absehbar ist, wann die Umstellung erfolgt.
