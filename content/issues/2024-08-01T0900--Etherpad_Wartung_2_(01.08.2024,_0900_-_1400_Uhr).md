@@ -18,4 +18,9 @@ Hierbei wird der Dienst für kürzere Zeiträume nicht erreichbar sein. Wir werd
 
 ## 01.08.2024, 14:00 Uhr
 
-Die Umsetzung der Zugangsbeschränkung muss verschoben werden. Bis dahin sind die Pads noch frei erreichbar auch ohne Schullogin. Wir informieren hierin einer weiteren Wartungsmeldung, wenn absehbar ist, wann die Umstellung erfolgt.
+Die Umsetzung der Zugangsbeschränkung muss verschoben werden. Bis dahin sind die Pads noch frei erreichbar auch ohne Schullogin. Wir informieren hier in einer weiteren Wartungsmeldung, wenn absehbar ist, wann die Umstellung erfolgt.
+
+
+## 01.08.2024, 16:00 Uhr
+
+Die Zugangsbeschränkung ist jetzt aktiv.
