@@ -190,7 +190,7 @@ params:
       displayName: MeSax Mediathek
       category: Dienste in Schullogin
       link: https://schullogin.de/p/sbs.singlesignon/application/startapplication?applicationName=mesaxmediathek
-    - name: EtherPad
+    - name: Etherpad
       category: Dienste in Schullogin
       link: https://schullogin.de/p/sbs.singlesignon/application/startapplication?applicationName=etherpad
 

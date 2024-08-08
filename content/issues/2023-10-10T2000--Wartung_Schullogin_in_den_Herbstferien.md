@@ -28,7 +28,7 @@ Damit ist auch der Zugang zu den nachgeschalteten **Diensten über die Weboberfl
 
 Ausnahmen:
 * Falls Sie die **Dateiablage** (Nextcloud) mit der Client-Software oder per App auf dem Mobilgerät nutzen, so ist dies in der Zeit ohne Einschränkung möglich. Anleitungen hierzu finden Sie in unserer Dokumentation [hier](https://docs.schullogin.de/20-Werkzeuge/20-Dateiablage/11-Nutzung%20Desktop%20Client/Index.html) und [hier](https://docs.schullogin.de/20-Werkzeuge/20-Dateiablage/12-Schnellstart-App/Index.html).
-* Der Dienst **etherpad** ist weiterhin unter [notes.schullogin.de](https://notes.schullogin.de) bzw. den individuellen Links zu Ihren Pads erreichbar.
+* Der Dienst **Etherpad** ist weiterhin unter [notes.schullogin.de](https://notes.schullogin.de) bzw. den individuellen Links zu Ihren Pads erreichbar.
 * Wenn Sie **SBS-Moodle** per *direkter Anmeldung* oder per *App* nutzen, so wird dies während des Wartungsfensters ebenfalls ohne Einschränkung möglich sein.
 
 ## Verlauf

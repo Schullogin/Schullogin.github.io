@@ -7,7 +7,7 @@ date: 2024-03-14T08:00:00
 informational: true # field makes issue look more like a blog post and removes any references to downtime length
 pin: false # Resolving: set to false
 affected:
-- EtherPad
+- Etherpad
 section: issue
 ---
 

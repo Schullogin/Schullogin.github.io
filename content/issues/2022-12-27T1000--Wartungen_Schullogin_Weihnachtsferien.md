@@ -16,7 +16,7 @@ affected:
 - OPAL Schule
 - Moodle SBS
 - MeSax Schullogin
-- EtherPad
+- Etherpad
 section: issue
 ---
 # Wartungen in den Weihnachtsferien

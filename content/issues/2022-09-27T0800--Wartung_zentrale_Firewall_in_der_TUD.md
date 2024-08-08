@@ -17,7 +17,7 @@ affected:
 - OPAL Schule
 - Moodle SBS
 - MeSax - Mediathek
-- EtherPad
+- Etherpad
 - SchulCMS
 - Redaktionssystem
 - Materialdatenbank

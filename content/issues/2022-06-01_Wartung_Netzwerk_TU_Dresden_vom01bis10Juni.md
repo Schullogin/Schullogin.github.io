@@ -13,7 +13,7 @@ affected:
 - Dateiablage
 - Videokonferenzen
 - Moodle
-- EtherPad
+- Etherpad
 - SchulCMS
 - Redaktionssystem
 - Materialdatenbank

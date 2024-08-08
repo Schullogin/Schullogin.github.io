@@ -14,7 +14,7 @@ affected:
 - Dateiablage
 - Videokonferenzen (BigBlueButton)
 - OPAL Schule
-- EtherPad
+- Etherpad
 - Redaktionssystem
 - SchulCMS
 - E-Learning SBS-moodle

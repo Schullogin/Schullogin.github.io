@@ -14,7 +14,7 @@ affected:
   - Homepage Schule
   - OPAL Schule
   - E-Learning SBS-moodle
-  - EtherPad
+  - Etherpad
   - LernSax
   - LernSax - Edudip
   - LernSax - BigBlueButton

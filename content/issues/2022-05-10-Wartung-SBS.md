@@ -12,7 +12,7 @@ affected:
 - Dateiablage
 - Videokonferenzen (BigBlueButton)
 - E-Learning SBS-moodle
-- EtherPad
+- Etherpad
 - SchulCMS
 - Redaktionssystem
 - Materialdatenbank
