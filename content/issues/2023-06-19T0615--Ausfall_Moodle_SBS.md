@@ -7,7 +7,7 @@ severity: down
 # informational: true
 # pin: true 
 affected:
-- E-Learning SBS-moodle
+- Moodle SBS
 section: issue
 ---
 

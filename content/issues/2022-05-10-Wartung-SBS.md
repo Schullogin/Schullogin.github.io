@@ -11,7 +11,7 @@ affected:
 - Nachrichten
 - Dateiablage
 - Videokonferenz
-- E-Learning SBS-moodle
+- Moodle SBS
 - Etherpad
 - SchulCMS
 - Redaktionssystem

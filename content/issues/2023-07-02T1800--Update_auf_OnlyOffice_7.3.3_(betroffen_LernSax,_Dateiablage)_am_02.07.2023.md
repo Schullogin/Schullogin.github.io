@@ -9,7 +9,7 @@ informational: true
 affected:
 - Dateiablage
 - LernSax
-- E-Learning SBS-moodle
+- Moodle SBS
 section: issue
 ---
 

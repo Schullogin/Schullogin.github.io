@@ -19,7 +19,7 @@ affected:
 - Etherpad
 - Redaktionssystem
 - SchulCMS
-- E-Learning SBS-moodle
+- Moodle SBS
 - E-Mail-Übungsumgebung Minimehl
 - Cooperative Working BSCW
 - Cooperative Learning BSCL

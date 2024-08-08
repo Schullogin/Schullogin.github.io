@@ -7,7 +7,7 @@ severity: down
 # informational: true # field makes issue look more like a blog post and removes any references to downtime length
 pin: false # Resolving: set to false
 affected:
-- E-Learning SBS-moodle
+- Moodle SBS
 section: issue
 ---
 

@@ -9,7 +9,7 @@ pin: true # Resolving: set to false
 affected:
 - Dateiablage
 - LernSax
-- E-Learning SBS-moodle
+- Moodle SBS
 section: issue
 ---
 

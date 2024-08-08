@@ -7,7 +7,7 @@ resolvedWhen: 2023-07-11T16:00:00
 informational: true
 # pin: true 
 affected:
- - E-Learning SBS-moodle
+ - Moodle SBS
 section: issue
 ---
 

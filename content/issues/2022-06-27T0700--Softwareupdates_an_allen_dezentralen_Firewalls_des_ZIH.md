@@ -16,7 +16,7 @@ affected:
 - Videokonferenz
 - LernSax Schullogin
 - OPAL Schule
-- E-Learning SBS-moodle
+- Moodle SBS
 - MeSax
 - Etherpad
 - SchulCMS

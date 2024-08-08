@@ -9,7 +9,7 @@ informational: true
 affected:
 - Videokonferenz
 - LernSax - BigBlueButton
-- E-Learning SBS-moodle
+- Moodle SBS
 section: issue
 ---
 

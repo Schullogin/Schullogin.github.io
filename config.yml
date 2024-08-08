@@ -217,7 +217,7 @@ params:
     - name: SchulCMS
       category: Sächsischer Bildungsserver
       link: https://cms.sachsen.schule
-    - name: E-Learning SBS-moodle
+    - name: Moodle SBS
       category: Sächsischer Bildungsserver
       link: https://elearn.sachsen.schule
     - name: E-Mail-Übungsumgebung Minimehl
