@@ -19,7 +19,7 @@ affected:
   - LernSax - Edudip
   - LernSax - BigBlueButton
   - MeSax
-  - MeSax Wissensportal
+  - MeSax-Wissensportal
   - Redaktionssystem
   - SchulCMS
   - E-Learning SBS-moodle

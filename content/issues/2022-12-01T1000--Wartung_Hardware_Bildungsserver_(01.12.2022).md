@@ -21,7 +21,7 @@ affected:
 - LernSax
 - LernSax - BigBlueButton
 - MeSax
-- MeSax Wissensportal
+- MeSax-Wissensportal
 - SchulCMS
 - Redaktionssystem
 - Materialdatenbank

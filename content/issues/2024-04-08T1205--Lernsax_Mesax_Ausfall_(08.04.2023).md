@@ -9,7 +9,7 @@ pin: false # Resolving: set to false
 affected:
 - LernSax
 - MeSax
-- MeSax Wissensportal
+- MeSax-Wissensportal
 section: issue
 ---
 

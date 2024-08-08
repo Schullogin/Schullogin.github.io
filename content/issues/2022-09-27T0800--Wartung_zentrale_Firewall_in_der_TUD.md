@@ -16,7 +16,7 @@ affected:
 - LernSax Schullogin
 - OPAL Schule
 - Moodle SBS
-- MeSax - Mediathek
+- MeSax
 - Etherpad
 - SchulCMS
 - Redaktionssystem
