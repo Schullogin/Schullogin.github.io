@@ -7,7 +7,7 @@ resolvedWhen: 2023-07-10T15:30:00
 informational: true
 # pin: true 
 affected:
-- Videokonferenzen (BigBlueButton)
+- Videokonferenz
 - LernSax - BigBlueButton
 - E-Learning SBS-moodle
 section: issue

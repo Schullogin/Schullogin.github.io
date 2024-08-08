@@ -13,7 +13,7 @@ affected:
 - Schnittstellen
 - Nachrichten
 - Dateiablage
-- Videokonferenzen (BigBlueButton)
+- Videokonferenz
 - LernSax Schullogin
 - OPAL Schule
 - E-Learning SBS-moodle

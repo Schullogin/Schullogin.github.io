@@ -6,7 +6,7 @@ resolvedWhen: 2022-01-03 08:30:00
 # Possible severity levels: down, disrupted, notice
 severity: information
 affected:
-  - Videokonferenzen (BigBlueButton)
+  - Videokonferenz
   - LernSax - BigBlueButton
 section: issue
 ---

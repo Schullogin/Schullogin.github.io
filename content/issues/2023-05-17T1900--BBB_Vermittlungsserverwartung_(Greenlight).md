@@ -7,7 +7,7 @@ resolvedWhen: 2023-05-17T20:20:00
 # informational: true
 pin: false 
 affected:
-- Videokonferenzen (BigBlueButton)
+- Videokonferenz
 section: issue
 ---
 

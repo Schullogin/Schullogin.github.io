@@ -10,7 +10,7 @@ affected:
 - Schnittstellen
 - Nachrichten
 - Dateiablage
-- Videokonferenzen (BigBlueButton)
+- Videokonferenz
 - E-Learning SBS-moodle
 - Etherpad
 - SchulCMS

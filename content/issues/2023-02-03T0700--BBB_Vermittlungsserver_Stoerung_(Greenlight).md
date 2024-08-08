@@ -8,7 +8,7 @@ severity: down
 # informational: true
 # pin: true 
 affected:
-- Videokonferenzen (BigBlueButton)
+- Videokonferenz
 section: issue
 ---
 

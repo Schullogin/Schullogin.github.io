@@ -176,7 +176,7 @@ params:
     - name: Dateiablage
       category: Dienste in Schullogin
       link: https://schullogin.de/p/sbs.singlesignon/application/startapplication?applicationName=nextcloud
-    - name: Videokonferenzen (BigBlueButton)
+    - name: Videokonferenz
       category: Dienste in Schullogin
       link: https://schullogin.de/p/sbs.singlesignon/application/startapplication?applicationName=bigbluebutton
     - name: LernSax Schullogin

@@ -10,7 +10,7 @@ affected:
   - Support
   - Nachrichten
   - Dateiablage
-  - Videokonferenzen (BigBlueButton)
+  - Videokonferenz
   - Homepage Schule
   - OPAL Schule
   - E-Learning SBS-moodle

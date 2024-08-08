@@ -5,7 +5,7 @@ resolved: true
 resolvedWhen: 2022-06-09 15:15:00
 section: issue
 affected:
-  - Videokonferenzen (BigBlueButton)
+  - Videokonferenz
 severity: disrupted
 
 ---

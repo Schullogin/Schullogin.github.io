@@ -12,7 +12,7 @@ affected:
 - Schnittstellen
 - Nachrichten
 - Dateiablage
-- Videokonferenzen (BigBlueButton)
+- Videokonferenz
 - Redaktionssystem
 - SchulCMS
 - E-Learning SBS-moodle
