@@ -17,3 +17,7 @@ Im Laufe der letzten Woche kam es vereinzelt zu Problemen beim Anlegen von neuen
 Hintergrund sind verschiedene Probleme auf Seiten von Schullogin. Wir arbeiten an der Behebung der Ursachen.
 
 Sollten Sie selbst Problemen dieser Art begegnen, wenden Sie sich bitte an unseren Support unter support@schullogin.de
+
+## 12.08.2024
+
+Durch verschiedene Optimierungen funktioniert das Anlegen von Accounts wieder stabiler. Wir beobachten das Verhalten aber weiterhin.
