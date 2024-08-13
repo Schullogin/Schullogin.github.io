@@ -1,5 +1,5 @@
 ---
-title: "Ausfall Moodle SBS"
+title: "Ausfall Moodle"
 date: 2023-06-19T06:15:00
 resolved: true
 resolvedWhen: 2023-06-19T12:35:00
@@ -7,7 +7,7 @@ severity: down
 # informational: true
 # pin: true 
 affected:
-- Moodle SBS
+- Moodle
 section: issue
 ---
 

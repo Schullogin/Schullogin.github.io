@@ -9,13 +9,13 @@ pin: false # Resolving: set to false
 affected:
 - Dateiablage
 - LernSax
-- Moodle SBS
+- Moodle
 section: issue
 ---
 
 Für OnlyOffice wird am Donnerstag, den 08.08.2024 ein Update von Version 7.5 auf Version 8.1 durchgeführt.
 
-OnlyOffice ist die Online-Office-Suite, auf der die Dokumentbearbeitung in LernSax, Moodle SBS und der Schullogin-Dateiablage (Nextcloud) basiert.
+OnlyOffice ist die Online-Office-Suite, auf der die Dokumentbearbeitung in LernSax, Moodle und der Schullogin-Dateiablage (Nextcloud) basiert.
 
 Kurzzeitige Ausfälle der Dokumentbearbeitungsfunktion sind dabei möglich.
 

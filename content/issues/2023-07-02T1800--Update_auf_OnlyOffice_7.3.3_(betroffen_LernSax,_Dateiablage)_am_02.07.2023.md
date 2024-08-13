@@ -9,11 +9,11 @@ informational: true
 affected:
 - Dateiablage
 - LernSax
-- Moodle SBS
+- Moodle
 section: issue
 ---
 
-Für OnlyOffice, der Online-Office-Suite, auf der die Dokumentbearbeitung in LernSax, Moodle SBS und der Schullogin-Dateiablage (Nextcloud) basiert, wird am Sonntag, den 02.07.2023 ein Update auf Version 7.3.3. durchgeführt.
+Für OnlyOffice, der Online-Office-Suite, auf der die Dokumentbearbeitung in LernSax, Moodle und der Schullogin-Dateiablage (Nextcloud) basiert, wird am Sonntag, den 02.07.2023 ein Update auf Version 7.3.3. durchgeführt.
 
 Kurzzeitige Ausfälle der Dokumentbearbeitungsfunktion sind dabei möglich.
 

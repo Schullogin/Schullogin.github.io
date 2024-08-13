@@ -20,7 +20,7 @@ affected:
 - LernSax
 - Redaktionssystem
 - SchulCMS
-- Moodle SBS
+- Moodle
 - E-Mail-Übungsumgebung Minimehl
 - Cooperative Working BSCW
 - Cooperative Learning BSCL

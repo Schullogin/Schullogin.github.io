@@ -14,7 +14,7 @@ affected:
 - Videokonferenz
 - LernSax Schullogin
 - OPAL Schule
-- Moodle SBS
+- Moodle
 - MeSax Schullogin
 - Etherpad
 section: issue

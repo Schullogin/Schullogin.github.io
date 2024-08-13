@@ -13,7 +13,7 @@ affected:
   - Videokonferenz
   - Homepage Schule
   - OPAL Schule
-  - Moodle SBS
+  - Moodle
   - Etherpad
   - LernSax
   - LernSax - Edudip
@@ -22,7 +22,7 @@ affected:
   - MeSax-Wissensportal
   - Redaktionssystem
   - SchulCMS
-  - Moodle SBS
+  - Moodle
   - E-Mail-Übungsumgebung Minimehl
   - Cooperative Working BSCW
   - Cooperative Learning BSCL
