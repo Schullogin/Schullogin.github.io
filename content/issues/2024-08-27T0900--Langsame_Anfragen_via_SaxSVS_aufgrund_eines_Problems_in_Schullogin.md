@@ -11,4 +11,4 @@ affected:
 section: issue
 ---
 
-Aufgrund eines Problems auf seitens Schullogin gibt es derzeit ein Timeouts beim Anlegen von neuen Nutzern. Wir arbeiten an der Lösung und hoffen in den nächsten 1-2 Tagen den finalen Fix ausrollen zu können.
+Aufgrund eines Problems bei Schullogin kommt es derzeit zu Zeitüberschreitungen beim Erzeugen und Zurücksetzen von Schullogin-Accounts via SaxSVS (ABS). Wir arbeiten intensiv an einer Lösung und hoffen, den endgültigen Fix innerhalb der nächsten 1-2 Tage bereitstellen zu können.
