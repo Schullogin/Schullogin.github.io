@@ -211,6 +211,9 @@ params:
       link: https://www.lernsax.de/wws/9.php#/wws/wissensportal.php
 
     # Sächsischer Bildungsserver
+    - name: Assistent KAI
+      category: Sächsischer Bildungsserver
+      link: https://ai.sachsen.schule
     - name: Redaktionssystem
       category: Sächsischer Bildungsserver
       link: https://www3.sachsen.schule
@@ -259,9 +262,7 @@ params:
     - name: GitLab
       category: Sächsischer Bildungsserver
       link: https://git.sachsen.schule
-    - name: Assistent KAI
-      category: Sächsischer Bildungsserver
-      link: https://ai.sachsen.schule
+
 
     # Sonstige
     - name: Dynamische Lehrplandatenbank
