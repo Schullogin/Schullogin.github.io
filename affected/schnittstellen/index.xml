@@ -3,17 +3,17 @@ Update 29.08.2024 14:30 Finale lokale Tests
 Update 29.08.2024 10:00 Vorbereitungen für das Ausrollen des Updates
 Update 28.08.2024 Mitigation und weitere interne Tests
 Update 27.08.2024 Problem wurde indentifiziert, eine Datenbanktabelle wächst ungewöhnlich schnell.
-Update 26.08.2024 Aufgrund eines Problems bei Schullogin kommt es derzeit zu Zeitüberschreitungen beim Erzeugen und Zurücksetzen von Schullogin-Accounts via SaxSVS. Wir arbeiten intensiv an einer Lösung und hoffen, den endgültigen Fix innerhalb der nächsten Tage bereitstellen zu können.</description><content type="html">&lt;h1 id="update-29082024-1530">Update 29.08.2024 15:30&lt;/h1>
+Update 26.08.2024 Aufgrund eines Problems bei Schullogin kommt es derzeit zu Zeitüberschreitungen beim Erzeugen und Zurücksetzen von Schullogin-Accounts via SaxSVS. Wir arbeiten intensiv an einer Lösung und hoffen, den endgültigen Fix innerhalb der nächsten Tage bereitstellen zu können.</description><content type="html">&lt;h2 id="update-29082024-1530">Update 29.08.2024 15:30&lt;/h2>
 &lt;p>Start des Updates geplant&lt;/p>
-&lt;h1 id="update-29082024-1430">Update 29.08.2024 14:30&lt;/h1>
+&lt;h2 id="update-29082024-1430">Update 29.08.2024 14:30&lt;/h2>
 &lt;p>Finale lokale Tests&lt;/p>
-&lt;h1 id="update-29082024-1000">Update 29.08.2024 10:00&lt;/h1>
+&lt;h2 id="update-29082024-1000">Update 29.08.2024 10:00&lt;/h2>
 &lt;p>Vorbereitungen für das Ausrollen des Updates&lt;/p>
-&lt;h1 id="update-28082024">Update 28.08.2024&lt;/h1>
+&lt;h2 id="update-28082024">Update 28.08.2024&lt;/h2>
 &lt;p>Mitigation und weitere interne Tests&lt;/p>
-&lt;h1 id="update-27082024">Update 27.08.2024&lt;/h1>
+&lt;h2 id="update-27082024">Update 27.08.2024&lt;/h2>
 &lt;p>Problem wurde indentifiziert, eine Datenbanktabelle wächst ungewöhnlich schnell.&lt;/p>
-&lt;h1 id="update-26082024">Update 26.08.2024&lt;/h1>
+&lt;h2 id="update-26082024">Update 26.08.2024&lt;/h2>
 &lt;p>Aufgrund eines Problems bei Schullogin kommt es derzeit zu Zeitüberschreitungen beim Erzeugen und Zurücksetzen von Schullogin-Accounts via SaxSVS. Wir arbeiten intensiv an einer Lösung und hoffen, den endgültigen Fix innerhalb der nächsten Tage bereitstellen zu können.&lt;/p></content></item><item><title>Schullogin: vereinzelt Fehler bei Account-Verwaltung über SaxSVS</title><link>https://Schullogin.github.io/issues/2024-08-01t0800--schullogin_vereinzelt_fehler_bei_account-verwaltung_ueber_saxsvs/</link><pubDate>Thu, 01 Aug 2024 08:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2024-08-01t0800--schullogin_vereinzelt_fehler_bei_account-verwaltung_ueber_saxsvs/</guid><category/><description>Im Laufe der letzten Woche kam es vereinzelt zu Problemen beim Anlegen von neuen Schullogin-Accounts über SaxSVS, teilweise auch beim Ändern von Passwörtern/Sperren von Accounts.
 Hintergrund sind verschiedene Probleme auf Seiten von Schullogin. Wir arbeiten an der Behebung der Ursachen.
 Sollten Sie selbst Problemen dieser Art begegnen, wenden Sie sich bitte an unseren Support unter support@schullogin.de
