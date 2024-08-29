@@ -11,4 +11,4 @@ affected:
 section: issue
 ---
 
-Aufgrund eines Problems bei Schullogin kommt es derzeit zu Zeitüberschreitungen beim Erzeugen und Zurücksetzen von Schullogin-Accounts via SaxSVS (ABS). Wir arbeiten intensiv an einer Lösung und hoffen, den endgültigen Fix innerhalb der nächsten 1-2 Tage bereitstellen zu können.
+Aufgrund eines Problems bei Schullogin kommt es derzeit zu Zeitüberschreitungen beim Erzeugen und Zurücksetzen von Schullogin-Accounts via SaxSVS. Wir arbeiten intensiv an einer Lösung und hoffen, den endgültigen Fix innerhalb der nächsten Tage bereitstellen zu können.
