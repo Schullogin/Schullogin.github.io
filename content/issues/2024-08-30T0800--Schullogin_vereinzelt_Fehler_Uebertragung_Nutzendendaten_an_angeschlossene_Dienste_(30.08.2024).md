@@ -1,5 +1,5 @@
 ---
-title: "Schullogin: vereinzelt Fehler Übertragung Nutzendendaten an angeschlossene Dienste (30.08.2024)"
+title: "Schullogin: vereinzelt Fehler bei Übertragung von Daten an angebundene Dienste (30.08.2024)"
 date: 2024-08-30T08:00:00
 resolved: false # Resolving: set to true
 # resolvedWhen: 2024-08-30T08:00:00 # Resolving: remove comment, set correct end datetime
@@ -14,6 +14,6 @@ section: issue
 
 Die Übermittlung von Personendaten an angebundene Dienste ist derzeit beeinträchtigt. 
 
-Unter anderem wird das Attribut "Klassenstufe" nicht in allen Fällen korrekt übertragen. Dadurch können unerwünschte Seiteneffekte auftreten in den genutzten Diensten auftreten (bspw. bei Kursfreigaben in OPAL Schule).
+Unter anderem wird das Attribut "Klassenstufe" nicht in allen Fällen korrekt übertragen. Dadurch können unerwünschte Seiteneffekte in den genutzten Diensten auftreten (bspw. bei Kursfreigaben in OPAL Schule).
 
 Wir bemühen uns um eine kurzfristige Lösung.
