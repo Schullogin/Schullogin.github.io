@@ -16,4 +16,6 @@ Die Übermittlung von Personendaten an angebundene Dienste ist derzeit beeinträ
 
 Unter anderem wird das Attribut "Klassenstufe" nicht in allen Fällen korrekt übertragen. Dadurch können unerwünschte Seiteneffekte in den genutzten Diensten auftreten (bspw. bei Kursfreigaben in OPAL Schule).
 
-Wir bemühen uns um eine kurzfristige Lösung.
+Die diesem Problem zugrunde liegenden Fehler in der Schullogin-Datenbank sind bei der Behebung der [SaxSVS-Anfrage-Probleme am gestrigen 29.8.2024](https://status.schullogin.de/issues/2024-08-27t0900--langsame_anfragen_via_saxsvs_aufgrund_eines_problems_in_schullogin/) entstanden. 
+
+Das Problem löst sich mit der nächsten regulären Synchronisation mit SaxSVS am kommenden Montag: hierbei werden diese Daten automatisch wieder korrigiert.
