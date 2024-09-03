@@ -1,8 +1,8 @@
 ---
 title: "Problem im TUD Kernnetz"
 date: 2024-09-03T08:00:00
-resolved: false # Resolving: set to true
-# resolvedWhen: 2024-09-02T15:00:00 # Resolving: remove comment, set correct end datetime
+resolved: true # Resolving: set to true
+resolvedWhen: 2024-09-03T09:10:00 # Resolving: remove comment, set correct end datetime
 severity: disrupted
 # informational: true # field makes issue look more like a blog post and removes any references to downtime length
 pin: true # Resolving: set to false
