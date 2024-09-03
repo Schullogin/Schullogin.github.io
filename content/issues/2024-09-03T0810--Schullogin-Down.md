@@ -44,6 +44,16 @@ affected:
 section: issue
 ---
 
+## 09:25
+
+Problem wurde behoben, Diagnostik erfolgreich abgeschlossen
+
+## 09:10
+
+Dienste kommen wieder online und wir prüfen die Funktion.
+
+## 08:10
+
 Derzeit sind alle Dienste des SBS und Schullogin nicht erreichbar.
 Dies hängt mit einer Störung im TUD Kernnetz zusammen.
 
