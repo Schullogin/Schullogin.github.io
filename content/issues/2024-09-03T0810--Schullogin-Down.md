@@ -49,7 +49,7 @@ Dies hängt mit einer Störung im TUD Kernnetz zusammen.
 
 Das ZIH der TUD vermeldet dazu:
 
-> tu-dresden.de Adressen nicht ereichbar
+> Internet bzw. tu-dresden.de Adressen nicht ereichbar
 > 
 > Von: 03.09.2024 / 08:10 Uhr
 > 
