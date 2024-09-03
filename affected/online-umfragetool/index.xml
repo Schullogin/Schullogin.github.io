@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><link rel="alternate" type="text/html" href="https://Schullogin.github.io/"/><title>Online Umfragetool on Verfügbarkeit digitaler Dienste für Schulen in Sachsen</title><link>https://Schullogin.github.io/affected/online-umfragetool/</link><description>Ereignishistorie</description><generator>github.com/cstate</generator><language>de</language><lastBuildDate>2024-09-03T08:00:00+00:00</lastBuildDate><updated>2024-09-03T08:00:00+00:00</updated><atom:link href="https://Schullogin.github.io/affected/online-umfragetool/index.xml" rel="self" type="application/rss+xml"/><item><title>Problem im TUD Kernnetz</title><link>https://Schullogin.github.io/issues/2024-09-03t0810--schullogin-down/</link><pubDate>Tue, 03 Sep 2024 08:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2024-09-03t0810--schullogin-down/</guid><category/><description>Derzeit sind alle Dienste des SBS und Schullogin nicht erreichbar. Dies hängt mit einer Störung im TUD Kernnetz zusammen.
 Das ZIH der TUD vermeldet dazu:
-tu-dresden.de Adressen nicht ereichbar
+Internet bzw. tu-dresden.de Adressen nicht ereichbar
 Von: 03.09.2024 / 08:10 Uhr
 Bis: 03.09.2024 / 15:00 Uhr
 Derzeit gibt es Einschränkungen in der Erreichbarkeit von z.B. tu-dresden.de Adressen aus dem Internet.
 Es wird bereits mit Hochdruck an einer Lösung gearbeitet, wir bitten um etwas Geduld.
-Quelle: https://bs.zih.tu-dresden.de/?action=newsdet&amp;amp;news_id=1971</description><content type="html">&lt;p>Derzeit sind alle Dienste des SBS und Schullogin nicht erreichbar.
+Quelle: https://bs.</description><content type="html">&lt;p>Derzeit sind alle Dienste des SBS und Schullogin nicht erreichbar.
 Dies hängt mit einer Störung im TUD Kernnetz zusammen.&lt;/p>
 &lt;p>Das ZIH der TUD vermeldet dazu:&lt;/p>
 &lt;blockquote>
-&lt;p>tu-dresden.de Adressen nicht ereichbar&lt;/p>
+&lt;p>Internet bzw. tu-dresden.de Adressen nicht ereichbar&lt;/p>
 &lt;p>Von: 03.09.2024 / 08:10 Uhr&lt;/p>
 &lt;p>Bis: 03.09.2024 / 15:00 Uhr&lt;/p>
 &lt;p>Derzeit gibt es Einschränkungen in der Erreichbarkeit von z.B. tu-dresden.de Adressen aus dem Internet.&lt;/p>
