@@ -1,11 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><link rel="alternate" type="text/html" href="https://Schullogin.github.io/"/><title>GitLab on Verfügbarkeit digitaler Dienste für Schulen in Sachsen</title><link>https://Schullogin.github.io/affected/gitlab/</link><description>Ereignishistorie</description><generator>github.com/cstate</generator><language>de</language><lastBuildDate>2024-09-03T08:00:01+00:00</lastBuildDate><updated>2024-09-03T08:00:01+00:00</updated><atom:link href="https://Schullogin.github.io/affected/gitlab/index.xml" rel="self" type="application/rss+xml"/><item><title>[Gelöst] Problem im TUD Kernnetz</title><link>https://Schullogin.github.io/issues/2024-09-03t0810--schullogin-down/</link><pubDate>Tue, 03 Sep 2024 08:00:01 +0000</pubDate><guid>https://Schullogin.github.io/issues/2024-09-03t0810--schullogin-down/</guid><category>2024-09-03T09:10:00</category><description>09:25 Problem wurde behoben, Diagnostik erfolgreich abgeschlossen
-09:10 Dienste kommen wieder online und wir prüfen die Funktion.
-08:10 Derzeit sind alle Dienste des SBS und Schullogin nicht erreichbar. Dies hängt mit einer Störung im TUD Kernnetz zusammen.
-Das ZIH der TUD vermeldet dazu:
-Internet bzw. tu-dresden.de Adressen nicht ereichbar
-Von: 03.09.2024 / 08:10 Uhr
-Bis: 03.09.2024 / 15:00 Uhr
-Derzeit gibt es Einschränkungen in der Erreichbarkeit von z.B. tu-dresden.de Adressen aus dem Internet.</description><content type="html">&lt;h2 id="0925">09:25&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><link rel="alternate" type="text/html" href="https://Schullogin.github.io/"/><title>GitLab on Verfügbarkeit digitaler Dienste für Schulen in Sachsen</title><link>https://Schullogin.github.io/affected/gitlab/</link><description>Ereignishistorie</description><generator>github.com/cstate</generator><language>de</language><lastBuildDate>2024-09-19T13:00:00+00:00</lastBuildDate><updated>2024-09-19T13:00:00+00:00</updated><atom:link href="https://Schullogin.github.io/affected/gitlab/index.xml" rel="self" type="application/rss+xml"/><item><title>Schullogin/Bildungsserver: Wartung Perimeter-Firewall (19.09.2024, 13:00 - 18:00 Uhr)</title><link>https://Schullogin.github.io/issues/2024-09-19t1300--schullogin_bildungsserver_wartung_perimeter-firewall_19.09.2024_1300_-_1800_uhr/</link><pubDate>Thu, 19 Sep 2024 13:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2024-09-19t1300--schullogin_bildungsserver_wartung_perimeter-firewall_19.09.2024_1300_-_1800_uhr/</guid><category/><description>&lt;p>Am Donnerstag, dem 19.09.2024, erfolgt von 13:00 - 18:00 Uhr ein dringendes Software-Update an der zentralen Perimeter-Firewall der TU Dresden.&lt;/p>
+&lt;p>Aufgrund der Redundanz ist - vorbehaltlich nicht vorhersehbarer Ereignisse - &lt;strong>nicht mit Ausfällen zu rechnen&lt;/strong>.&lt;/p></description><content type="html">&lt;p>Am Donnerstag, dem 19.09.2024, erfolgt von 13:00 - 18:00 Uhr ein dringendes Software-Update an der zentralen Perimeter-Firewall der TU Dresden.&lt;/p>
+&lt;p>Aufgrund der Redundanz ist - vorbehaltlich nicht vorhersehbarer Ereignisse - &lt;strong>nicht mit Ausfällen zu rechnen&lt;/strong>.&lt;/p></content></item><item><title>[Gelöst] Problem im TUD Kernnetz</title><link>https://Schullogin.github.io/issues/2024-09-03t0810--schullogin-down/</link><pubDate>Tue, 03 Sep 2024 08:00:01 +0000</pubDate><guid>https://Schullogin.github.io/issues/2024-09-03t0810--schullogin-down/</guid><category>2024-09-03T09:10:00</category><description>&lt;h2 id="0925">09:25&lt;/h2>
+&lt;p>Problem wurde behoben, Diagnostik erfolgreich abgeschlossen&lt;/p>
+&lt;h2 id="0910">09:10&lt;/h2>
+&lt;p>Dienste kommen wieder online und wir prüfen die Funktion.&lt;/p>
+&lt;h2 id="0810">08:10&lt;/h2>
+&lt;p>Derzeit sind alle Dienste des SBS und Schullogin nicht erreichbar.
+Dies hängt mit einer Störung im TUD Kernnetz zusammen.&lt;/p>
+&lt;p>Das ZIH der TUD vermeldet dazu:&lt;/p>
+&lt;blockquote>
+&lt;p>Internet bzw. tu-dresden.de Adressen nicht ereichbar&lt;/p>
+&lt;p>Von: 03.09.2024 / 08:10 Uhr&lt;/p>
+&lt;p>Bis: 03.09.2024 / 15:00 Uhr&lt;/p>
+&lt;p>Derzeit gibt es Einschränkungen in der Erreichbarkeit von z.B. tu-dresden.de Adressen aus dem Internet.&lt;/p></description><content type="html">&lt;h2 id="0925">09:25&lt;/h2>
 &lt;p>Problem wurde behoben, Diagnostik erfolgreich abgeschlossen&lt;/p>
 &lt;h2 id="0910">09:10&lt;/h2>
 &lt;p>Dienste kommen wieder online und wir prüfen die Funktion.&lt;/p>
@@ -20,32 +27,39 @@ Dies hängt mit einer Störung im TUD Kernnetz zusammen.&lt;/p>
 &lt;p>Derzeit gibt es Einschränkungen in der Erreichbarkeit von z.B. tu-dresden.de Adressen aus dem Internet.&lt;/p>
 &lt;p>Es wird bereits mit Hochdruck an einer Lösung gearbeitet, wir bitten um etwas Geduld.&lt;/p>
 &lt;/blockquote>
-&lt;p>Quelle: &lt;a href="https://bs.zih.tu-dresden.de/?action=newsdet&amp;amp;news_id=1971">https://bs.zih.tu-dresden.de/?action=newsdet&amp;amp;news_id=1971&lt;/a>&lt;/p></content></item><item><title>Schullogin/Bildungsserver: Kurzer Ausfall wegen Wartung (02.07.2024, 16:00 - 16:15)</title><link>https://Schullogin.github.io/issues/2024-07-02t1600--schullogin_bildungsserver_kurzer_ausfall_wegen_wartung_02.07.2024_1600_-_1615/</link><pubDate>Tue, 02 Jul 2024 16:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2024-07-02t1600--schullogin_bildungsserver_kurzer_ausfall_wegen_wartung_02.07.2024_1600_-_1615/</guid><category/><description>An der TU Dresden werden die Firewall-Geräte durch neue Geräte ersetzt.
-Dabei kommt es am Di. 02.07.2024 in der Zeit von 16:00 - 16:15 Uhr zu einem kurzen Ausfall der Internetanbindung (unter 5 Minuten - vorbehaltlich nicht vorhersehbarer Ereginisse) der TU Dresden, des Uniklinikums Dresden, sowie allen anderen Mitnutzern innerhalb Campusnetzes.
-Dieser kurze Ausfall betrifft auch sämtliche Dienste des Sächsischen Bildungsservers (incl. Pressestelle SMK und Schullogin).</description><content type="html">&lt;p>An der TU Dresden werden die Firewall-Geräte durch neue Geräte ersetzt.&lt;/p>
+&lt;p>Quelle: &lt;a href="https://bs.zih.tu-dresden.de/?action=newsdet&amp;amp;news_id=1971">https://bs.zih.tu-dresden.de/?action=newsdet&amp;amp;news_id=1971&lt;/a>&lt;/p></content></item><item><title>Schullogin/Bildungsserver: Kurzer Ausfall wegen Wartung (02.07.2024, 16:00 - 16:15)</title><link>https://Schullogin.github.io/issues/2024-07-02t1600--schullogin_bildungsserver_kurzer_ausfall_wegen_wartung_02.07.2024_1600_-_1615/</link><pubDate>Tue, 02 Jul 2024 16:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2024-07-02t1600--schullogin_bildungsserver_kurzer_ausfall_wegen_wartung_02.07.2024_1600_-_1615/</guid><category/><description>&lt;p>An der TU Dresden werden die Firewall-Geräte durch neue Geräte ersetzt.&lt;/p>
 &lt;p>Dabei kommt es am Di. 02.07.2024 in der Zeit von 16:00 - 16:15 Uhr zu einem &lt;strong>kurzen Ausfall der Internetanbindung&lt;/strong> (unter 5 Minuten - vorbehaltlich nicht vorhersehbarer Ereginisse) der TU Dresden, des Uniklinikums Dresden, sowie allen anderen Mitnutzern innerhalb Campusnetzes.&lt;/p>
-&lt;p>Dieser kurze Ausfall betrifft auch sämtliche Dienste des Sächsischen Bildungsservers (incl. Pressestelle SMK und Schullogin).&lt;/p></content></item><item><title>[Gelöst] Schullogin/Bildungsserver: Wartung Backbone-Router (27.03.2024, 13:00 - 19:00 Uhr)</title><link>https://Schullogin.github.io/issues/2024-03-25t0900--schullogin_bildungsserver_wartung_backbone-router_27.03.2024_1300_-_1900_uhr/</link><pubDate>Wed, 27 Mar 2024 13:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2024-03-25t0900--schullogin_bildungsserver_wartung_backbone-router_27.03.2024_1300_-_1900_uhr/</guid><category>2024-03-27T19:00:00</category><description>Auf den Backbone-Routern der TU Dresden sind Software-Updates notwendig.
-Die Router sind jeweils paarweise ausgelegt und werden abwechselnd aktualisiert, sodass immer ein Gerät verfügbar ist.
-Das Update wird daher – vorbehaltlich unvorhersehbarer Ereignisse – unterbrechungsfrei verlaufen.
-Das Update erfolgt an diesen Tagen:
-25.03.2024 09:00 - 19:00 Uhr und 27.03.2024 13:00 - 19:00 Uhr</description><content type="html">&lt;p>Auf den Backbone-Routern der TU Dresden sind Software-Updates notwendig.&lt;/p>
+&lt;p>Dieser kurze Ausfall betrifft auch sämtliche Dienste des Sächsischen Bildungsservers (incl. Pressestelle SMK und Schullogin).&lt;/p></description><content type="html">&lt;p>An der TU Dresden werden die Firewall-Geräte durch neue Geräte ersetzt.&lt;/p>
+&lt;p>Dabei kommt es am Di. 02.07.2024 in der Zeit von 16:00 - 16:15 Uhr zu einem &lt;strong>kurzen Ausfall der Internetanbindung&lt;/strong> (unter 5 Minuten - vorbehaltlich nicht vorhersehbarer Ereginisse) der TU Dresden, des Uniklinikums Dresden, sowie allen anderen Mitnutzern innerhalb Campusnetzes.&lt;/p>
+&lt;p>Dieser kurze Ausfall betrifft auch sämtliche Dienste des Sächsischen Bildungsservers (incl. Pressestelle SMK und Schullogin).&lt;/p></content></item><item><title>[Gelöst] Schullogin/Bildungsserver: Wartung Backbone-Router (27.03.2024, 13:00 - 19:00 Uhr)</title><link>https://Schullogin.github.io/issues/2024-03-25t0900--schullogin_bildungsserver_wartung_backbone-router_27.03.2024_1300_-_1900_uhr/</link><pubDate>Wed, 27 Mar 2024 13:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2024-03-25t0900--schullogin_bildungsserver_wartung_backbone-router_27.03.2024_1300_-_1900_uhr/</guid><category>2024-03-27T19:00:00</category><description>&lt;p>Auf den Backbone-Routern der TU Dresden sind Software-Updates notwendig.&lt;/p>
 &lt;p>Die Router sind jeweils paarweise ausgelegt und werden abwechselnd aktualisiert, sodass immer ein Gerät verfügbar ist.&lt;/p>
 &lt;p>Das Update wird daher – vorbehaltlich unvorhersehbarer Ereignisse – &lt;strong>unterbrechungsfrei&lt;/strong> verlaufen.&lt;/p>
 &lt;p>Das Update erfolgt an diesen Tagen:&lt;/p>
 &lt;p>25.03.2024 09:00 - 19:00 Uhr und
-27.03.2024 13:00 - 19:00 Uhr&lt;/p></content></item><item><title>[Gelöst] Schullogin/Bildungsserver: Wartung Backbone-Router (25.03.2024, 09:00 - 19:00 Uhr)</title><link>https://Schullogin.github.io/issues/2024-03-25t0900--schullogin_bildungsserver_wartung_backbone-router_25.03.2024_0900_-_1900_uhr/</link><pubDate>Mon, 25 Mar 2024 09:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2024-03-25t0900--schullogin_bildungsserver_wartung_backbone-router_25.03.2024_0900_-_1900_uhr/</guid><category>2024-03-25T19:00:00</category><description>Auf den Backbone-Routern der TU Dresden sind Software-Updates notwendig.
-Die Router sind jeweils paarweise ausgelegt und werden abwechselnd aktualisiert, sodass immer ein Gerät verfügbar ist.
-Das Update wird daher – vorbehaltlich unvorhersehbarer Ereignisse – unterbrechungsfrei verlaufen.
-Das Update erfolgt an diesen Tagen:
-25.03.2024 09:00 - 19:00 Uhr und 27.03.2024 13:00 - 19:00 Uhr</description><content type="html">&lt;p>Auf den Backbone-Routern der TU Dresden sind Software-Updates notwendig.&lt;/p>
+27.03.2024 13:00 - 19:00 Uhr&lt;/p></description><content type="html">&lt;p>Auf den Backbone-Routern der TU Dresden sind Software-Updates notwendig.&lt;/p>
 &lt;p>Die Router sind jeweils paarweise ausgelegt und werden abwechselnd aktualisiert, sodass immer ein Gerät verfügbar ist.&lt;/p>
 &lt;p>Das Update wird daher – vorbehaltlich unvorhersehbarer Ereignisse – &lt;strong>unterbrechungsfrei&lt;/strong> verlaufen.&lt;/p>
 &lt;p>Das Update erfolgt an diesen Tagen:&lt;/p>
 &lt;p>25.03.2024 09:00 - 19:00 Uhr und
-27.03.2024 13:00 - 19:00 Uhr&lt;/p></content></item><item><title>[Gelöst] GitLab Update - 05.02.2024 ab 20:00 Uhr</title><link>https://Schullogin.github.io/issues/2024-02-05t2000--gitlab_update_-_05.02.2024_ab_2000_uhr/</link><pubDate>Mon, 05 Feb 2024 20:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2024-02-05t2000--gitlab_update_-_05.02.2024_ab_2000_uhr/</guid><category>2024-02-06T11:00:00</category><description>Der GitLab-Server unter https://git.sachsen.schule erhält ein Update.
-Aus diesem Grund wird der Server vom 05.02.2024 ab 20.00 Uhr bis 6.02.2024 um 11.00 Uhr nicht verfügbar sein.
-Schritte:
-05.02.2024 ab 20.00 Uhr Sicherung des Arbeisstandes in einem Clone. 06.02.2024 ab 08.00 Uhr Update Betriebssystem (Debian 11 auf Debian) 06.02.2024 ab 09.00 Uhr - 11.00 Uhr Update GitLab + Test Vielen Dank für Ihr Verständnis.</description><content type="html">&lt;p>Der GitLab-Server unter &lt;a href="https://git.sachsen.schule">https://git.sachsen.schule&lt;/a> erhält ein Update.&lt;/p>
+27.03.2024 13:00 - 19:00 Uhr&lt;/p></content></item><item><title>[Gelöst] Schullogin/Bildungsserver: Wartung Backbone-Router (25.03.2024, 09:00 - 19:00 Uhr)</title><link>https://Schullogin.github.io/issues/2024-03-25t0900--schullogin_bildungsserver_wartung_backbone-router_25.03.2024_0900_-_1900_uhr/</link><pubDate>Mon, 25 Mar 2024 09:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2024-03-25t0900--schullogin_bildungsserver_wartung_backbone-router_25.03.2024_0900_-_1900_uhr/</guid><category>2024-03-25T19:00:00</category><description>&lt;p>Auf den Backbone-Routern der TU Dresden sind Software-Updates notwendig.&lt;/p>
+&lt;p>Die Router sind jeweils paarweise ausgelegt und werden abwechselnd aktualisiert, sodass immer ein Gerät verfügbar ist.&lt;/p>
+&lt;p>Das Update wird daher – vorbehaltlich unvorhersehbarer Ereignisse – &lt;strong>unterbrechungsfrei&lt;/strong> verlaufen.&lt;/p>
+&lt;p>Das Update erfolgt an diesen Tagen:&lt;/p>
+&lt;p>25.03.2024 09:00 - 19:00 Uhr und
+27.03.2024 13:00 - 19:00 Uhr&lt;/p></description><content type="html">&lt;p>Auf den Backbone-Routern der TU Dresden sind Software-Updates notwendig.&lt;/p>
+&lt;p>Die Router sind jeweils paarweise ausgelegt und werden abwechselnd aktualisiert, sodass immer ein Gerät verfügbar ist.&lt;/p>
+&lt;p>Das Update wird daher – vorbehaltlich unvorhersehbarer Ereignisse – &lt;strong>unterbrechungsfrei&lt;/strong> verlaufen.&lt;/p>
+&lt;p>Das Update erfolgt an diesen Tagen:&lt;/p>
+&lt;p>25.03.2024 09:00 - 19:00 Uhr und
+27.03.2024 13:00 - 19:00 Uhr&lt;/p></content></item><item><title>[Gelöst] GitLab Update - 05.02.2024 ab 20:00 Uhr</title><link>https://Schullogin.github.io/issues/2024-02-05t2000--gitlab_update_-_05.02.2024_ab_2000_uhr/</link><pubDate>Mon, 05 Feb 2024 20:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2024-02-05t2000--gitlab_update_-_05.02.2024_ab_2000_uhr/</guid><category>2024-02-06T11:00:00</category><description>&lt;p>Der GitLab-Server unter &lt;a href="https://git.sachsen.schule">https://git.sachsen.schule&lt;/a> erhält ein Update.&lt;/p>
+&lt;p>Aus diesem Grund wird der Server vom 05.02.2024 ab 20.00 Uhr bis 6.02.2024 um 11.00 Uhr nicht verfügbar sein.&lt;/p>
+&lt;p>Schritte:&lt;/p>
+&lt;ul>
+&lt;li>05.02.2024 ab 20.00 Uhr Sicherung des Arbeisstandes in einem Clone.&lt;/li>
+&lt;li>06.02.2024 ab 08.00 Uhr Update Betriebssystem (Debian 11 auf Debian)&lt;/li>
+&lt;li>06.02.2024 ab 09.00 Uhr - 11.00 Uhr Update GitLab + Test&lt;/li>
+&lt;/ul>
+&lt;p>Vielen Dank für Ihr Verständnis.&lt;/p></description><content type="html">&lt;p>Der GitLab-Server unter &lt;a href="https://git.sachsen.schule">https://git.sachsen.schule&lt;/a> erhält ein Update.&lt;/p>
 &lt;p>Aus diesem Grund wird der Server vom 05.02.2024 ab 20.00 Uhr bis 6.02.2024 um 11.00 Uhr nicht verfügbar sein.&lt;/p>
 &lt;p>Schritte:&lt;/p>
 &lt;ul>

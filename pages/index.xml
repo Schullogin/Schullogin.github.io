@@ -1,9 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><link rel="alternate" type="text/html" href="https://Schullogin.github.io/"/><title>Pages on Verfügbarkeit digitaler Dienste für Schulen in Sachsen</title><link>https://Schullogin.github.io/pages/</link><description>Ereignishistorie</description><generator>github.com/cstate</generator><language>de</language><atom:link href="https://Schullogin.github.io/pages/index.xml" rel="self" type="application/rss+xml"/><item><title>Example Page</title><link>https://Schullogin.github.io/pages/example-page/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://Schullogin.github.io/pages/example-page/</guid><category/><description>Title here! This is an example page that demonstrates the capabilities of a Markdown page in cState.
-You can use HTML if the file extension is .html, but this one is .md.
-Let us dive in.
-Paragraphs are separated by a blank line.
-2nd paragraph. Italic, bold, and monospace. Itemized lists look like:
-this one that one the other one Note that &amp;mdash; not considering the asterisk &amp;mdash; the actual text content starts at 4-columns in.</description><content type="html">&lt;h1 id="title-here">Title here!&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><link rel="alternate" type="text/html" href="https://Schullogin.github.io/"/><title>Pages on Verfügbarkeit digitaler Dienste für Schulen in Sachsen</title><link>https://Schullogin.github.io/pages/</link><description>Ereignishistorie</description><generator>github.com/cstate</generator><language>de</language><atom:link href="https://Schullogin.github.io/pages/index.xml" rel="self" type="application/rss+xml"/><item><title>Example Page</title><link>https://Schullogin.github.io/pages/example-page/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://Schullogin.github.io/pages/example-page/</guid><category/><description>&lt;h1 id="title-here">Title here!&lt;/h1>
+&lt;p>This is an example page that demonstrates the capabilities of a Markdown page in cState.&lt;/p>
+&lt;p>You can use HTML if the file extension is &lt;code>.html&lt;/code>, but this one is &lt;code>.md&lt;/code>.&lt;/p>
+&lt;p>Let us dive in.&lt;/p>
+&lt;p>Paragraphs are separated by a blank line.&lt;/p>
+&lt;p>2nd paragraph. &lt;em>Italic&lt;/em>, &lt;strong>bold&lt;/strong>, and &lt;code>monospace&lt;/code>. Itemized lists
+look like:&lt;/p>
+&lt;ul>
+&lt;li>this one&lt;/li>
+&lt;li>that one&lt;/li>
+&lt;li>the other one&lt;/li>
+&lt;/ul>
+&lt;p>Note that &amp;mdash; not considering the asterisk &amp;mdash; the actual text
+content starts at 4-columns in.&lt;/p></description><content type="html">&lt;h1 id="title-here">Title here!&lt;/h1>
 &lt;p>This is an example page that demonstrates the capabilities of a Markdown page in cState.&lt;/p>
 &lt;p>You can use HTML if the file extension is &lt;code>.html&lt;/code>, but this one is &lt;code>.md&lt;/code>.&lt;/p>
 &lt;p>Let us dive in.&lt;/p>
@@ -88,30 +96,30 @@ doc&lt;/a>. Here&amp;rsquo;s a footnote &lt;sup id="fnref:1">&lt;a href="#fn:1" 
 &lt;table>
 &lt;thead>
 &lt;tr>
-&lt;th>Name Size Material Color&lt;/th>
-&lt;th>&lt;/th>
-&lt;th>&lt;/th>
-&lt;th>&lt;/th>
+&lt;th style="text-align: left">Name Size Material Color&lt;/th>
+&lt;th style="text-align: left">&lt;/th>
+&lt;th style="text-align: left">&lt;/th>
+&lt;th style="text-align: left">&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>All Business 9 leather brown&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
+&lt;td style="text-align: left">All Business 9 leather brown&lt;/td>
+&lt;td style="text-align: left">&lt;/td>
+&lt;td style="text-align: left">&lt;/td>
+&lt;td style="text-align: left">&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Roundabout 10 hemp canvas natural&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
+&lt;td style="text-align: left">Roundabout 10 hemp canvas natural&lt;/td>
+&lt;td style="text-align: left">&lt;/td>
+&lt;td style="text-align: left">&lt;/td>
+&lt;td style="text-align: left">&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>Cinderella 11 glass transparent&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
+&lt;td style="text-align: left">Cinderella 11 glass transparent&lt;/td>
+&lt;td style="text-align: left">&lt;/td>
+&lt;td style="text-align: left">&lt;/td>
+&lt;td style="text-align: left">&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
