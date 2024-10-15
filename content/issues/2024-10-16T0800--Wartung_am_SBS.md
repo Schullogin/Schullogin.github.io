@@ -39,8 +39,8 @@ section: issue
 
 Von den Kollegen vom SBS:
 
-> Am Mittwoch den 16.10.2024 werden von 8:00 – 9:00 Wartungsarbeiten an der Firewall des SBS durchgeführt.
+> Am Mittwoch, den 16.10.2024, werden von 8:00 – 9:00 Uhr Wartungsarbeiten an der Firewall des SBS durchgeführt.
 >  
 > Das System ist redundant ausgelegt und es sollte im Normalfall keine Beeinträchtigung der Erreichbarkeit geben.
 >  
-> Dennoch weißen wir darauf hin, dass es bei Komplikationen u.U. zu kurzen Ausfällen kommen kann.
+> Dennoch weisen wir darauf hin, dass es bei Komplikationen u. U. zu kurzen Ausfällen kommen kann.
