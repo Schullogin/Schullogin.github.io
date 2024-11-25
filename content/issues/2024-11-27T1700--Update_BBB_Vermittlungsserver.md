@@ -1,0 +1,16 @@
+---
+title: "Videokonferenzen: Update BBB-Vermittlungsserver"
+date: 2024-11-27T17:00:00
+# resolved: true
+# resolvedWhen: 2024-11-27T18:00:00
+# severity: down
+informational: true
+pin: true
+affected:
+- Videokonferenzen (BigBlueButton)
+section: issue
+---
+
+Am Mittwoch, dem 27.11.2024 updaten wir unseren Vermittlungsserver ("Greenlight") unseres Videokonferenzdienstes BigBlueButton (BBB).
+
+Dazu ist es nötig, dass die Raumübersicht ab 17:00 Uhr für maximal 2 Stunden nicht erreichbar ist.
