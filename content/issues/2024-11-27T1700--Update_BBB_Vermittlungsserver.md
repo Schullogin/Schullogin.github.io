@@ -1,5 +1,5 @@
 ---
-title: "Videokonferenzen: Update BBB-Vermittlungsserver"
+title: "Videokonferenzen: Update BBB-Vermittlungsserver am 27.11.2024"
 date: 2024-11-27T17:00:00
 # resolved: true
 # resolvedWhen: 2024-11-27T18:00:00
