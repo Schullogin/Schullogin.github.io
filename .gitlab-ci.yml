@@ -32,6 +32,7 @@ test:
     - rm -rf $CI_PROJECT_DIR/public
     - mkdir -p $CI_PROJECT_DIR/public
     - mkdir -p $CI_PROJECT_DIR/public/tools
+    - sh .gitlab/ci/scripts/cleanup_old_incidents_by_filename.sh
   script:
     - echo "URL $HUGO_URL"
     - hugo --baseURL $HUGO_URL
