@@ -271,6 +271,9 @@ params:
     - name: MUNDO
       category: Sonstige
       link: https://mundo.schule/
+    - name: SaxSVS
+      category: Sonstige
+      link: https://saxsvs.de
     - name: Schulportal
       category: Sonstige
       link: https://www.schulportal.sachsen.de/
