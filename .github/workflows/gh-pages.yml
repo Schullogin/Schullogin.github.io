@@ -23,7 +23,7 @@ jobs:
 
       - name: Build
         run: |
-          sh "../.gitlab/ci/scripts/cleanup_old_incidents_by_filename.sh"
+          sh ".gitlab/ci/scripts/cleanup_old_incidents_by_filename.sh"
           hugo --minify --baseURL "https://${{ github.repository_owner }}.github.io";
           mkdir -p tools;
           wget -O tools/index.html https://schullogin.de/p/sbs.singlesignon.backend.forger/statustool/standalone --timeout=10 --tries=2 || true;
