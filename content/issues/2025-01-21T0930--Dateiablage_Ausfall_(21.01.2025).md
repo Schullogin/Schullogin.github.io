@@ -1,0 +1,14 @@
+---
+title: "Dateiablage: Ausfall (21.01.2025)"
+date: 2025-01-21T09:30:00
+resolved: false # Resolving: set to true
+# resolvedWhen: 2025-01-21T09:30:00 # Resolving: remove comment, set correct end datetime
+severity: down
+# informational: true # field makes issue look more like a blog post and removes any references to downtime length
+pin: true # Resolving: set to false
+affected:
+- Dateiablage
+section: issue
+---
+
+Der Dienst "Dateiablage" ist vorübergehend nicht erreichbar. Wir arbeiten bereits mit Hochdruck an der Beseitigung der Störung und bitten um Ihr Verständnis.
