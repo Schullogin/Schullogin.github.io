@@ -15,6 +15,8 @@ section: issue
 
 Die Analyse dauert an.
 
+Die LK wurden via Schulportal informiert.
+
 ## 2025-01-21T14:00:00
 
 Wir analysieren nun das Performance Problem am DB Server tiefer, nachdem die üblichen Maßnahmen keinen Erfolg gebracht haben.
