@@ -11,4 +11,14 @@ affected:
 section: issue
 ---
 
+## 2025-01-21T16:00:00
+
+Die Analyse dauert an.
+
+## 2025-01-21T14:00:00
+
+Wir analysieren nun das Performance Problem am DB Server tiefer, nachdem die üblichen Maßnahmen keinen Erfolg gebracht haben.
+
+## 2025-01-21T09:30:00
+
 Der Dienst "Dateiablage" ist vorübergehend nicht erreichbar. Wir arbeiten bereits mit Hochdruck an der Beseitigung der Störung und bitten um Ihr Verständnis.
