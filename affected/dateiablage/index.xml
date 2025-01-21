@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><link rel="alternate" type="text/html" href="https://Schullogin.github.io"/><title>Dateiablage on Verfügbarkeit digitaler Dienste für Schulen in Sachsen</title><link>https://Schullogin.github.io/affected/dateiablage/</link><description>Ereignishistorie</description><generator>github.com/cstate</generator><language>de</language><lastBuildDate>2025-01-21T09:30:00+00:00</lastBuildDate><updated>2025-01-21T09:30:00+00:00</updated><atom:link href="https://Schullogin.github.io/affected/dateiablage/index.xml" rel="self" type="application/rss+xml"/><item><title>Dateiablage: Ausfall (21.01.2025)</title><link>https://Schullogin.github.io/issues/2025-01-21t0930--dateiablage_ausfall_21.01.2025/</link><pubDate>Tue, 21 Jan 2025 09:30:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2025-01-21t0930--dateiablage_ausfall_21.01.2025/</guid><category/><description>2025-01-21T16:00:00 Die Analyse dauert an.
+Die LK wurden via Schulportal informiert.
 2025-01-21T14:00:00 Wir analysieren nun das Performance Problem am DB Server tiefer, nachdem die üblichen Maßnahmen keinen Erfolg gebracht haben.
 2025-01-21T09:30:00 Der Dienst &amp;ldquo;Dateiablage&amp;rdquo; ist vorübergehend nicht erreichbar. Wir arbeiten bereits mit Hochdruck an der Beseitigung der Störung und bitten um Ihr Verständnis.</description><content type="html">&lt;h2 id="2025-01-21t160000">2025-01-21T16:00:00&lt;/h2>
 &lt;p>Die Analyse dauert an.&lt;/p>
+&lt;p>Die LK wurden via Schulportal informiert.&lt;/p>
 &lt;h2 id="2025-01-21t140000">2025-01-21T14:00:00&lt;/h2>
 &lt;p>Wir analysieren nun das Performance Problem am DB Server tiefer, nachdem die üblichen Maßnahmen keinen Erfolg gebracht haben.&lt;/p>
 &lt;h2 id="2025-01-21t093000">2025-01-21T09:30:00&lt;/h2>
