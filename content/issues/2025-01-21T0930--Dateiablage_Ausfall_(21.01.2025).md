@@ -1,15 +1,19 @@
 ---
 title: "Dateiablage: Ausfall (21.01.2025)"
 date: 2025-01-21T09:30:00
-resolved: false # Resolving: set to true
-# resolvedWhen: 2025-01-21T09:30:00 # Resolving: remove comment, set correct end datetime
+resolved: true # Resolving: set to true
+resolvedWhen: 2025-01-24T07:30:00 # Resolving: remove comment, set correct end datetime
 severity: down
 # informational: true # field makes issue look more like a blog post and removes any references to downtime length
-pin: true # Resolving: set to false
 affected:
 - Dateiablage
 section: issue
 ---
+
+## 2025-01-22T08:00:00
+
+* Gab keine weiteren Auffälligkeiten, wir beobachten das System weiter und betrachten den Status als gelöst.
+
 
 ## 2025-01-22T08:00:00
 
