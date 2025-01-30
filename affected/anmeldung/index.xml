@@ -42,11 +42,4 @@ Dies hängt mit einer Störung im TUD Kernnetz zusammen.&lt;/p>
 &lt;p>Derzeit gibt es Einschränkungen in der Erreichbarkeit von z.B. tu-dresden.de Adressen aus dem Internet.&lt;/p>
 &lt;p>Es wird bereits mit Hochdruck an einer Lösung gearbeitet, wir bitten um etwas Geduld.&lt;/p>
 &lt;/blockquote>
-&lt;p>Quelle: &lt;a href="https://bs.zih.tu-dresden.de/?action=newsdet&amp;amp;news_id=1971">https://bs.zih.tu-dresden.de/?action=newsdet&amp;amp;news_id=1971&lt;/a>&lt;/p></content></item><item><title>Schullogin: vereinzelt Fehler bei Account-Verwaltung über SaxSVS</title><link>https://Schullogin.github.io/issues/2024-08-01t0800--schullogin_vereinzelt_fehler_bei_account-verwaltung_ueber_saxsvs/</link><pubDate>Thu, 01 Aug 2024 08:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2024-08-01t0800--schullogin_vereinzelt_fehler_bei_account-verwaltung_ueber_saxsvs/</guid><category/><description>Im Laufe der letzten Woche kam es vereinzelt zu Problemen beim Anlegen von neuen Schullogin-Accounts über SaxSVS, teilweise auch beim Ändern von Passwörtern/Sperren von Accounts.
-Hintergrund sind verschiedene Probleme auf Seiten von Schullogin. Wir arbeiten an der Behebung der Ursachen.
-Sollten Sie selbst Problemen dieser Art begegnen, wenden Sie sich bitte an unseren Support unter support@schullogin.de
-12.08.2024 Durch verschiedene Optimierungen funktioniert das Anlegen von Accounts wieder stabiler. Wir beobachten das Verhalten aber weiterhin.</description><content type="html">&lt;p>Im Laufe der letzten Woche kam es vereinzelt zu Problemen beim Anlegen von neuen Schullogin-Accounts über SaxSVS, teilweise auch beim Ändern von Passwörtern/Sperren von Accounts.&lt;/p>
-&lt;p>Hintergrund sind verschiedene Probleme auf Seiten von Schullogin. Wir arbeiten an der Behebung der Ursachen.&lt;/p>
-&lt;p>Sollten Sie selbst Problemen dieser Art begegnen, wenden Sie sich bitte an unseren Support unter &lt;a href="mailto:support@schullogin.de">support@schullogin.de&lt;/a>&lt;/p>
-&lt;h2 id="12082024">12.08.2024&lt;/h2>
-&lt;p>Durch verschiedene Optimierungen funktioniert das Anlegen von Accounts wieder stabiler. Wir beobachten das Verhalten aber weiterhin.&lt;/p></content></item></channel></rss>
+&lt;p>Quelle: &lt;a href="https://bs.zih.tu-dresden.de/?action=newsdet&amp;amp;news_id=1971">https://bs.zih.tu-dresden.de/?action=newsdet&amp;amp;news_id=1971&lt;/a>&lt;/p></content></item></channel></rss>
