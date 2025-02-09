@@ -11,4 +11,4 @@ affected:
 section: issue
 ---
 
-Die Moodle-Instanzen sind derzeit offline. Voraussichtlich sind sie am 10.02.2025 in den Morgenstunden wieder online.
+Die Moodle-Instanzen sind derzeit offline. Voraussichtlich sind sie am 10.02.2025 in den Morgenstunden wieder online. 
