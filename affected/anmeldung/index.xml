@@ -20,26 +20,4 @@ Dennoch weisen wir darauf hin, dass es bei Komplikationen u. U. zu kurzen Ausfä
 &lt;p>Dennoch weisen wir darauf hin, dass es bei Komplikationen u. U. zu kurzen Ausfällen kommen kann.&lt;/p>
 &lt;/blockquote></content></item><item><title>Schullogin/Bildungsserver: Wartung Perimeter-Firewall (19.09.2024, 13:00 - 18:00 Uhr)</title><link>https://Schullogin.github.io/issues/2024-09-19t1300--schullogin_bildungsserver_wartung_perimeter-firewall_19.09.2024_1300_-_1800_uhr/</link><pubDate>Thu, 19 Sep 2024 13:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2024-09-19t1300--schullogin_bildungsserver_wartung_perimeter-firewall_19.09.2024_1300_-_1800_uhr/</guid><category/><description>Am Donnerstag, dem 19.09.2024, erfolgt von 13:00 - 18:00 Uhr ein dringendes Software-Update an der zentralen Perimeter-Firewall der TU Dresden.
 Aufgrund der Redundanz ist - vorbehaltlich nicht vorhersehbarer Ereignisse - nicht mit Ausfällen zu rechnen.</description><content type="html">&lt;p>Am Donnerstag, dem 19.09.2024, erfolgt von 13:00 - 18:00 Uhr ein dringendes Software-Update an der zentralen Perimeter-Firewall der TU Dresden.&lt;/p>
-&lt;p>Aufgrund der Redundanz ist - vorbehaltlich nicht vorhersehbarer Ereignisse - &lt;strong>nicht mit Ausfällen zu rechnen&lt;/strong>.&lt;/p></content></item><item><title>[Gelöst] Problem im TUD Kernnetz</title><link>https://Schullogin.github.io/issues/2024-09-03t0810--schullogin-down/</link><pubDate>Tue, 03 Sep 2024 08:00:01 +0000</pubDate><guid>https://Schullogin.github.io/issues/2024-09-03t0810--schullogin-down/</guid><category>2024-09-03T09:10:00</category><description>09:25 Problem wurde behoben, Diagnostik erfolgreich abgeschlossen
-09:10 Dienste kommen wieder online und wir prüfen die Funktion.
-08:10 Derzeit sind alle Dienste des SBS und Schullogin nicht erreichbar. Dies hängt mit einer Störung im TUD Kernnetz zusammen.
-Das ZIH der TUD vermeldet dazu:
-Internet bzw. tu-dresden.de Adressen nicht ereichbar
-Von: 03.09.2024 / 08:10 Uhr
-Bis: 03.09.2024 / 15:00 Uhr
-Derzeit gibt es Einschränkungen in der Erreichbarkeit von z.B. tu-dresden.de Adressen aus dem Internet.</description><content type="html">&lt;h2 id="0925">09:25&lt;/h2>
-&lt;p>Problem wurde behoben, Diagnostik erfolgreich abgeschlossen&lt;/p>
-&lt;h2 id="0910">09:10&lt;/h2>
-&lt;p>Dienste kommen wieder online und wir prüfen die Funktion.&lt;/p>
-&lt;h2 id="0810">08:10&lt;/h2>
-&lt;p>Derzeit sind alle Dienste des SBS und Schullogin nicht erreichbar.
-Dies hängt mit einer Störung im TUD Kernnetz zusammen.&lt;/p>
-&lt;p>Das ZIH der TUD vermeldet dazu:&lt;/p>
-&lt;blockquote>
-&lt;p>Internet bzw. tu-dresden.de Adressen nicht ereichbar&lt;/p>
-&lt;p>Von: 03.09.2024 / 08:10 Uhr&lt;/p>
-&lt;p>Bis: 03.09.2024 / 15:00 Uhr&lt;/p>
-&lt;p>Derzeit gibt es Einschränkungen in der Erreichbarkeit von z.B. tu-dresden.de Adressen aus dem Internet.&lt;/p>
-&lt;p>Es wird bereits mit Hochdruck an einer Lösung gearbeitet, wir bitten um etwas Geduld.&lt;/p>
-&lt;/blockquote>
-&lt;p>Quelle: &lt;a href="https://bs.zih.tu-dresden.de/?action=newsdet&amp;amp;news_id=1971">https://bs.zih.tu-dresden.de/?action=newsdet&amp;amp;news_id=1971&lt;/a>&lt;/p></content></item></channel></rss>
+&lt;p>Aufgrund der Redundanz ist - vorbehaltlich nicht vorhersehbarer Ereignisse - &lt;strong>nicht mit Ausfällen zu rechnen&lt;/strong>.&lt;/p></content></item></channel></rss>
