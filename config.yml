@@ -415,7 +415,7 @@ params:
 
   customTabs:
     - name: Support
-      link: https://docs.schullogin.de/10-Allgemein/11-Support/Index.html
+      link: https://docs.schullogin.de/
 
   # Disable complex server-side
   # calculations that may impact
