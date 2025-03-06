@@ -11,6 +11,16 @@ affected:
 section: issue
 ---
 
+## 06.03.2025
+
+* Geplante Wartung für den 06.03.2025 ab 13:00 Uhr.
+
+## 05.03.2025
+
+* Externes Ticket erzeugt und EE Support angefragt
+
+## 04.03.2025
+
 Aktuell ist es nicht möglich, ein aus der Dateiablage über die Option "Link teilen" freigegebenes Dokument unmittelbar im Browser zu öffnen/bearbeiten. Die Download-Funktion steht weiterhin zur Verfügung. Dies betrifft nur den Zugriff über den geteilten Link.
 
 Die Nutzenden, die das Dokument freigegeben haben, können es weiterhin online bearbeiten, auch die Freigabeoption zum Teilen von Dokumenten mit anderen Schullogin-Nutzenden unter Angabe des zugehörigen Anmeldenamens ist ebenso uneingeschränkt nutzbar.
