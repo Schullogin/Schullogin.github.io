@@ -1,5 +1,5 @@
 ---
-title: "Dateiablage: Eingeschränkte Bearbeitungsmöglichkeiten von Dokumenten (seit 04.03.2025)"
+title: "Dateiablage: Eingeschränkte Bearbeitungsmöglichkeiten von Dokumenten (seit 04.03.2025) - Update 06.03.2025"
 date: 2025-03-04T07:00:00
 resolved: false # Resolving: set to true
 # resolvedWhen: 2025-03-04T07:00:00 # Resolving: remove comment, set correct end datetime
