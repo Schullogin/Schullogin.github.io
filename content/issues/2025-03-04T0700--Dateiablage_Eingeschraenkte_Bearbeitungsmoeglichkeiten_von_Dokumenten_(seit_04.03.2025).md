@@ -11,6 +11,10 @@ affected:
 section: issue
 ---
 
+## 07.03.2025
+
+* Wartung wurde durchgeführt, wir prüfen / beobachten jetzt die Funktion der Nextcloud.
+
 ## 06.03.2025
 
 * Geplante Wartung für den 06.03.2025 ab 13:00 Uhr.
