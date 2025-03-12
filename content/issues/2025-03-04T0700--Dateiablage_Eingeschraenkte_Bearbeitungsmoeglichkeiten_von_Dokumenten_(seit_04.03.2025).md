@@ -1,8 +1,8 @@
 ---
 title: "Dateiablage: Eingeschränkte Bearbeitungsmöglichkeiten von Dokumenten (seit 04.03.2025) - Update 06.03.2025"
 date: 2025-03-04T07:00:00
-resolved: false # Resolving: set to true
-# resolvedWhen: 2025-03-04T07:00:00 # Resolving: remove comment, set correct end datetime
+resolved: true # Resolving: set to true
+resolvedWhen: 2025-03-07T16:00:00 # Resolving: remove comment, set correct end datetime
 severity: disrupted
 # informational: true # field makes issue look more like a blog post and removes any references to downtime length
 pin: true # Resolving: set to false
