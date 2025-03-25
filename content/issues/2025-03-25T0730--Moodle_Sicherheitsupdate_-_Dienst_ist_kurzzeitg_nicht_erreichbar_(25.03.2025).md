@@ -1,5 +1,5 @@
 ---
-title: "Moodle: Sicherheitsupdate - Dienst ist kurzzeitg nicht erreichbar (25.03.2025)"
+title: "Moodle: Sicherheitsupdate - Dienst ist kurzzeitig nicht erreichbar (25.03.2025)"
 date: 2025-03-25T07:30:00
 # resolved: true # field not needed for maintenance informational
 # resolvedWhen: 2025-03-25T07:30:00 # field not needed for maintenance informational
