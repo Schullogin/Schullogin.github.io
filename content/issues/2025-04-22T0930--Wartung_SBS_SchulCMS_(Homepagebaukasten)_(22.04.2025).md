@@ -1,5 +1,5 @@
 ---
-title: "Wartung SBS SchulCMS (Homepagebaukasten) (22.04.2025)"
+title: "SchulCMS: Wartung: Schul-Webseiten SchulCMS/Homepagebaukasten nicht erreichbar (22.04.2025)"
 date: 2025-04-22T09:30:00
 # resolved: true # field not needed for maintenance informational
 # resolvedWhen: 2025-04-22T16:30:00 # field not needed for maintenance informational
