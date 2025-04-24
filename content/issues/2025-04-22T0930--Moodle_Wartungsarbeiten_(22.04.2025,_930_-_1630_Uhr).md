@@ -11,7 +11,7 @@ affected:
 section: issue
 ---
 
-Am Dienstag, den 22.04.2025, von 9:30 bis 16:30 Uhr sind umfangreiche Wartungsarbeiten an Moodle des Sächsischen Bildungsservers geplant.
+Am Dienstag, den 22.04.2025, von 9:30 bis 16:30 Uhr sind umfangreiche Wartungsarbeiten am Moodle des Sächsischen Bildungsservers geplant.
 
 Diese Arbeiten sind leider nicht während des laufenden Betriebes möglich, Moodle wird daher während der Wartung nicht erreichbar sein. Wir hoffen, dass bis 16:30 Uhr alle Wartungsarbeiten abgeschlossen sein werden.
 Wir haben mit Bedacht einen Termin in den Schulferien für diese Arbeiten vorgesehen, weil so der tägliche Schulbetrieb nicht behindert wird.
