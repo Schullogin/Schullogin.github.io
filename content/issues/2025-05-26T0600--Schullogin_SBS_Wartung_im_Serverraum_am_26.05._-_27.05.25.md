@@ -5,7 +5,7 @@ date: 2025-05-26T06:00:00
 # resolvedWhen: 2025-05-27T17:00:00 # field not needed for maintenance informational
 # severity: down # field not needed for maintenance informational
 informational: true # field makes issue look more like a blog post and removes any references to downtime length
-pin: true # Resolving: set to false
+pin: false # Resolving: set to false
 affected:
 - Anmeldung
 - Support
