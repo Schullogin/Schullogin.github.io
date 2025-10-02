@@ -1,7 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><link rel="alternate" type="text/html" href="https://Schullogin.github.io"/><title>Schnittstellen on Verfügbarkeit digitaler Dienste für Schulen in Sachsen</title><link>https://Schullogin.github.io/affected/schnittstellen/</link><description>Ereignishistorie</description><generator>github.com/cstate</generator><language>de</language><lastBuildDate>2025-10-01T08:00:00+00:00</lastBuildDate><updated>2025-10-01T08:00:00+00:00</updated><atom:link href="https://Schullogin.github.io/affected/schnittstellen/index.xml" rel="self" type="application/rss+xml"/><item><title>Schullogin: Störung Anmeldungen via VIDIS (bettermarks, beste.schule, HubbS, Meta-Videoportal)</title><link>https://Schullogin.github.io/issues/2025-10-01t0800--schullogin_stoerung_anmeldungen_via_vidis_bettermarks_beste.schule_hubbs_meta-videoportal/</link><pubDate>Wed, 01 Oct 2025 08:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2025-10-01t0800--schullogin_stoerung_anmeldungen_via_vidis_bettermarks_beste.schule_hubbs_meta-videoportal/</guid><category/><description>01.10.2025 - 15:28 Firewallregeln der meisten beteiligten Firewalls wurden geprüft, keine Sperrregeln gefunden. Weitere Prüfung durch Netzwerkbetreiber und FWU läuft.
-Parallel lief die Formale Prüfung unserer Infrastruktur bzgl. der userInfo Endpunkte. Eine Auffälligkeit konnte nicht festgestellt werden. Andere Dienste, die via OIDC angebunden sind, funktionieren.
-01.10.2025 - 11:44 Kontakt mit FWU und deren Dienstleister ist hergestellt. Prüfung läuft.
-01.10.2025 - 10:52 Derzeit ist der Übergang von Schullogin zu VIDIS gestört. Wir arbeiten an einer Lösung.</description><content type="html">&lt;h2 id="01102025---1528">01.10.2025 - 15:28&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><link rel="alternate" type="text/html" href="https://Schullogin.github.io"/><title>Schnittstellen on Verfügbarkeit digitaler Dienste für Schulen in Sachsen</title><link>https://Schullogin.github.io/affected/schnittstellen/</link><description>Ereignishistorie</description><generator>github.com/cstate</generator><language>de</language><lastBuildDate>2025-10-01T08:00:00+00:00</lastBuildDate><updated>2025-10-01T08:00:00+00:00</updated><atom:link href="https://Schullogin.github.io/affected/schnittstellen/index.xml" rel="self" type="application/rss+xml"/><item><title>Schullogin: Störung Anmeldungen via VIDIS (bettermarks, beste.schule, HubbS, Meta-Videoportal)</title><link>https://Schullogin.github.io/issues/2025-10-01t0800--schullogin_stoerung_anmeldungen_via_vidis_bettermarks_beste.schule_hubbs_meta-videoportal/</link><pubDate>Wed, 01 Oct 2025 08:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2025-10-01t0800--schullogin_stoerung_anmeldungen_via_vidis_bettermarks_beste.schule_hubbs_meta-videoportal/</guid><category/><description>Allgemeine Beschreibung Die Störung betrifft nicht alle Nutzenden, und nicht alle Anmeldevorgänge: In einzelnen Fällen funktioniert eine Anmeldung zu einem späteren Zeitpunkt.
+Die Ursache liegt nach aktuellem Analysestand in der Netzwerkinfrastruktur zwischen Schullogin und VIDIS, genauere Analyse durch beteiligte Dienstleister ist erbeten worden.
+02.10.2025 – 11:05 Uhr Information an FWU/Dienstleister zu den beobachteten Auffälligkeiten 02.10.2025 – 07:00 Uhr Analyse des Routing VIDIS -&amp;gt; Schullogin: Auffälligkeiten festgestellt. Anfrage ans Netzwerkteam ZIH zur Verifikation der Analyseergebnisse (zweite Meinung) 01.</description><content type="html">&lt;h2 id="allgemeine-beschreibung">Allgemeine Beschreibung&lt;/h2>
+&lt;p>Die Störung betrifft nicht alle Nutzenden, und nicht alle Anmeldevorgänge: In einzelnen Fällen funktioniert eine Anmeldung zu einem späteren Zeitpunkt.&lt;/p>
+&lt;p>Die Ursache liegt nach aktuellem Analysestand in der Netzwerkinfrastruktur zwischen Schullogin und VIDIS, genauere Analyse durch beteiligte Dienstleister ist erbeten worden.&lt;/p>
+&lt;h2 id="02102025--1105-uhr">02.10.2025 – 11:05 Uhr&lt;/h2>
+&lt;ul>
+&lt;li>Information an FWU/Dienstleister zu den beobachteten Auffälligkeiten&lt;/li>
+&lt;/ul>
+&lt;h2 id="02102025--0700-uhr">02.10.2025 – 07:00 Uhr&lt;/h2>
+&lt;ul>
+&lt;li>Analyse des Routing VIDIS -&amp;gt; Schullogin: Auffälligkeiten festgestellt.&lt;/li>
+&lt;li>Anfrage ans Netzwerkteam ZIH zur Verifikation der Analyseergebnisse (zweite Meinung)&lt;/li>
+&lt;/ul>
+&lt;h1 id="01102025--1800-uhr">01.10.2025 – 18:00 Uhr&lt;/h1>
+&lt;p>Information zu Routing von FWU Dienstleister liegen nun vor.&lt;/p>
+&lt;h1 id="01102025---1700">01.10.2025 - 17:00&lt;/h1>
+&lt;p>Krisengespräch mit ZIH der TU Dresden: Getroffene Maßnahmen geprüft und mit dem aktuellen Wissenstand für erschöpfend befunden.
+Routing von Schullogin nach VIDIS ist fehlerfrei.&lt;/p>
+&lt;p>Erneute Nachfrage bei Dienstleister VIDIS nach Routing-Informationen, um das Problem aus Richtung VIDIS nach Schullogin analysieren zu können.&lt;/p>
+&lt;h2 id="01102025---1528">01.10.2025 - 15:28&lt;/h2>
 &lt;p>Firewallregeln der meisten beteiligten Firewalls wurden geprüft, keine Sperrregeln gefunden.
 Weitere Prüfung durch Netzwerkbetreiber und FWU läuft.&lt;/p>
 &lt;p>Parallel lief die Formale Prüfung unserer Infrastruktur bzgl. der userInfo Endpunkte.
