@@ -27,11 +27,11 @@ Die Ursache liegt nach aktuellem Analysestand in der Netzwerkinfrastruktur zwisc
 - Analyse des Routing VIDIS -> Schullogin: Auffälligkeiten festgestellt.
 - Anfrage ans Netzwerkteam ZIH zur Verifikation der Analyseergebnisse (zweite Meinung)
 
-# 01.10.2025 – 18:00 Uhr
+## 01.10.2025 – 18:00 Uhr
  
 Information zu Routing von FWU Dienstleister liegen nun vor.
  
-# 01.10.2025 - 17:00
+## 01.10.2025 - 17:00
  
 Krisengespräch mit ZIH der TU Dresden: Getroffene Maßnahmen geprüft und mit dem aktuellen Wissenstand für erschöpfend befunden.
 Routing von Schullogin nach VIDIS ist fehlerfrei.
