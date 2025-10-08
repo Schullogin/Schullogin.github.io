@@ -5,18 +5,17 @@ resolved: false # Resolving: set to true
 # resolvedWhen: 2025-10-01T08:00:00 # Resolving: remove comment, set correct end datetime
 severity: disrupted
 # informational: true # field makes issue look more like a blog post and removes any references to downtime length
-pin: true # Resolving: set to false
+pin: false # Resolving: set to false
 affected:
 - Schnittstellen
 section: issue
 ---
 
-## Allgemeine Beschreibung
+## 7.10.2025 - 16:00 Uhr
 
-Die Störung betrifft nicht alle Nutzenden, und nicht alle Anmeldevorgänge: In einzelnen Fällen funktioniert eine Anmeldung zu einem späteren Zeitpunkt.
-
-Die Ursache liegt nach aktuellem Analysestand in der Netzwerkinfrastruktur zwischen Schullogin und VIDIS, genauere Analyse durch beteiligte Dienstleister ist erbeten worden.
-
+- Problem wurde auf einen Timeout in der Kommunikation VIDIS -> Schullogin eingegrenzt
+- Maßnahmen wurden ergriffen, um das eingegrenzte Problem zu umgehen, sodass das Login via Schullogin an VIDIS wieder funktioniert - es kann jedoch länger als gewöhnlich dauern
+- An der Analyse der Problemursache und der Beschleunigung des Logins wird mit Hochdruck gearbeitet
 
 ## 02.10.2025 – 11:05 Uhr
 
@@ -64,3 +63,5 @@ FWU (Betreiber) ist informiert und wir untersuchen unsere Logfiles, wir hoffen a
 Es besteht eine Störung bei der Anmeldung an Dienste über den VIDIS-Vermittlungsdienst. 
 
 Wir sind, gemeinsam mit den Betreibern von VIDIS, auf der Suche nach der Ursache des Problems und informieren hier über nähere Erkenntnisse, sobald diese vorliegen.
+
+Die Störung betrifft nicht alle Nutzenden, und nicht alle Anmeldevorgänge: In einzelnen Fällen funktioniert eine Anmeldung zu einem späteren Zeitpunkt.
