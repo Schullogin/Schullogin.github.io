@@ -19,4 +19,4 @@ Sollten Sie von diesem Problem betroffen sein, senden Sie gerne eine Mail an sup
 
 ## Update 01.10.2025 - 08:00
 
-Das Problem betrifft nicht nur bettermarks sondern auch andere Dienste. Weitere Informationen sind unter [Schullogin: Störung Anmeldungen via VIDIS (bettermarks, beste.schule, HubbS, Meta-Videoportal)](https://status.schullogin.de/issues/2025-08-08t1600--schullogin_bettermarks-anbindung_vereinzelte_anmelde-probleme_08.08.2025/) zu finden.
+Das Problem betrifft nicht nur bettermarks sondern auch andere Dienste. Weitere Informationen sind unter [Schullogin: Störung Anmeldungen via VIDIS (bettermarks, beste.schule, HubbS, Meta-Videoportal)](https://status.schullogin.de/issues/2025-10-01t0800--schullogin_stoerung_anmeldungen_via_vidis_bettermarks_beste.schule_hubbs_meta-videoportal/) zu finden.
