@@ -11,9 +11,9 @@ affected:
 section: issue
 ---
 
-Leider sind vielen von Ihnen bereits von der aktuellen Störung der Mailfunktion in
-LernSax betroffen. Die Mailfunktion ist seit einigen Tage nicht stabil und seit
-gestern fast nicht mehr erreichbar. Das zuständige Rechenzentrum und der
+Leider sind viele von Ihnen bereits von der aktuellen Störung der Mailfunktion in
+LernSax betroffen. Die Mailfunktion ist seit einigen Tagen nicht stabil und seit
+gestern kaum mehr erreichbar. Das zuständige Rechenzentrum und der
 IT-Dienstleister arbeiten bereits intensiv an der Lösung. Dafür sind Anpassungen im
 Rechenzentrum notwendig, die zurzeit umgesetzt werden.
 
