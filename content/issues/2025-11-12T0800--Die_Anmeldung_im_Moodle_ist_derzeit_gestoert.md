@@ -1,5 +1,5 @@
 ---
-title: "Die Anmeldung im Moodle ist derzeit gestört"
+title: "Moodle: Anmeldung derzeit gestört (12.11.2025)"
 date: 2025-11-12T08:00:00
 resolved: false # Resolving: set to true
 # resolvedWhen: 2025-11-12T08:00:00 # Resolving: remove comment, set correct end datetime
