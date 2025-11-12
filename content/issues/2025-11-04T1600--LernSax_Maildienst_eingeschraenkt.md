@@ -11,11 +11,8 @@ affected:
 section: issue
 ---
 
-Leider sind viele von Ihnen bereits von der aktuellen Störung der Mailfunktion in
-LernSax betroffen. Die Mailfunktion ist seit einigen Tagen nicht stabil und seit
-gestern kaum mehr erreichbar. Das zuständige Rechenzentrum und der
-IT-Dienstleister arbeiten bereits intensiv an der Lösung. Dafür sind Anpassungen im
-Rechenzentrum notwendig, die zurzeit umgesetzt werden.
+LernSax ist aufgrund von Wartungsarbeiten vorübergehend offline. Während dieses Zeitraums arbeiten wir abschließend an der Fehlerbehebung des Mailservice, um LernSax wieder vollständig verfügbar zu machen.
 
-Wir gehen daher davon aus, dass die Beeinträchtigung noch bis zum Ende der Woche
-bestehen bleibt und werden Sie bei Veränderungen umgehend informieren.
+Bitte haben Sie Verständnis dafür, dass LernSax von 20:00 Uhr bis in die frühen Morgenstunden nicht erreichbar ist.
+
+Vielen Dank für Ihre Geduld.
