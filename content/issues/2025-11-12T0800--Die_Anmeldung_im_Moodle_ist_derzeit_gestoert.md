@@ -12,7 +12,7 @@ section: issue
 ---
 
 Die Störung betrifft ausschließlich Nutzer, die von Schullogin kommen
-und von dort in die Moodle Zentralinstanz wechseln. Sie bekommen folgende Fehlermeldung: 
+und von dort in die Moodle Zentralinstanz wechseln. Sie bekommen folgende Fehlermeldung:
 
 "Sie haben sich erfolgreich angemeldet, aber Ihr Konto wurde in Moodle
 gesperrt."
