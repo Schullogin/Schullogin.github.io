@@ -18,4 +18,4 @@ und von dort in die Moodle Zentralinstanz wechseln. Sie bekommen folgende Fehler
 gesperrt."
 
 Das Moodle-Team sucht derzeit die Ursache dieser Fehlmeldung und arbeitet intensiv
-an der Behebung.
+an der Behebung. 
