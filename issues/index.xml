@@ -18,7 +18,18 @@ bestehen bleibt und werden Sie bei Veränderungen umgehend informieren.&lt;/p>
 &lt;h2 id="12112025">12.11.2025&lt;/h2>
 &lt;p>LernSax ist aufgrund von Wartungsarbeiten vorübergehend offline. Während dieses Zeitraums arbeiten wir abschließend an der Fehlerbehebung des Mailservice, um LernSax wieder vollständig verfügbar zu machen.&lt;/p>
 &lt;p>Bitte haben Sie Verständnis dafür, dass LernSax heute, 12.11.2025, von 20:00 Uhr bis in die frühen Morgenstunden nicht erreichbar ist.&lt;/p>
-&lt;p>Vielen Dank für Ihre Geduld.&lt;/p></content></item><item><title>Schullogin: Störung Anmeldungen via VIDIS (bettermarks, beste.schule, HubbS, Meta-Videoportal)</title><link>https://Schullogin.github.io/issues/2025-10-01t0800--schullogin_stoerung_anmeldungen_via_vidis_bettermarks_beste.schule_hubbs_meta-videoportal/</link><pubDate>Wed, 01 Oct 2025 08:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2025-10-01t0800--schullogin_stoerung_anmeldungen_via_vidis_bettermarks_beste.schule_hubbs_meta-videoportal/</guid><category/><description>7.10.2025 - 16:00 Uhr Problem wurde auf einen Timeout in der Kommunikation VIDIS -&amp;gt; Schullogin eingegrenzt Maßnahmen wurden ergriffen, um das eingegrenzte Problem zu umgehen, sodass das Login via Schullogin an VIDIS wieder funktioniert - es kann jedoch länger als gewöhnlich dauern An der Analyse der Problemursache und der Beschleunigung des Logins wird mit Hochdruck gearbeitet 02.10.2025 – 11:05 Uhr Information an FWU/Dienstleister zu den beobachteten Auffälligkeiten 02.10.2025 – 07:00 Uhr Analyse des Routing VIDIS -&amp;gt; Schullogin: Auffälligkeiten festgestellt.</description><content type="html">&lt;h2 id="7102025---1600-uhr">7.10.2025 - 16:00 Uhr&lt;/h2>
+&lt;p>Vielen Dank für Ihre Geduld.&lt;/p></content></item><item><title>[Gelöst] Schullogin: Störung Anmeldungen via VIDIS (bettermarks, beste.schule, HubbS, Meta-Videoportal)</title><link>https://Schullogin.github.io/issues/2025-10-01t0800--schullogin_stoerung_anmeldungen_via_vidis_bettermarks_beste.schule_hubbs_meta-videoportal/</link><pubDate>Wed, 01 Oct 2025 08:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2025-10-01t0800--schullogin_stoerung_anmeldungen_via_vidis_bettermarks_beste.schule_hubbs_meta-videoportal/</guid><category>2025-11-13T08:00:00</category><description>13.11.2025 Login-Dauer hat sich weiter verkürzt: Störung ist als behoben angesehen fortdauernde Beobachtung und Optimierung der am Login beteiligten Prozesse es wird ein Post Mortem erstellt 21.10.2025 Anmeldungen wieder etwas schneller Arbeiten zur Optimierung dauern an, um Login weiter zu beschleunigen 7.10.2025 - 16:00 Uhr Problem wurde auf einen Timeout in der Kommunikation VIDIS -&amp;gt; Schullogin eingegrenzt Maßnahmen wurden ergriffen, um das eingegrenzte Problem zu umgehen, sodass das Login via Schullogin an VIDIS wieder funktioniert - es kann jedoch länger als gewöhnlich dauern An der Analyse der Problemursache und der Beschleunigung des Logins wird mit Hochdruck gearbeitet 02.</description><content type="html">&lt;h2 id="13112025">13.11.2025&lt;/h2>
+&lt;ul>
+&lt;li>Login-Dauer hat sich weiter verkürzt: Störung ist als behoben angesehen&lt;/li>
+&lt;li>fortdauernde Beobachtung und Optimierung der am Login beteiligten Prozesse&lt;/li>
+&lt;li>es wird ein Post Mortem erstellt&lt;/li>
+&lt;/ul>
+&lt;h2 id="21102025">21.10.2025&lt;/h2>
+&lt;ul>
+&lt;li>Anmeldungen wieder etwas schneller&lt;/li>
+&lt;li>Arbeiten zur Optimierung dauern an, um Login weiter zu beschleunigen&lt;/li>
+&lt;/ul>
+&lt;h2 id="7102025---1600-uhr">7.10.2025 - 16:00 Uhr&lt;/h2>
 &lt;ul>
 &lt;li>Problem wurde auf einen Timeout in der Kommunikation VIDIS -&amp;gt; Schullogin eingegrenzt&lt;/li>
 &lt;li>Maßnahmen wurden ergriffen, um das eingegrenzte Problem zu umgehen, sodass das Login via Schullogin an VIDIS wieder funktioniert - es kann jedoch länger als gewöhnlich dauern&lt;/li>
