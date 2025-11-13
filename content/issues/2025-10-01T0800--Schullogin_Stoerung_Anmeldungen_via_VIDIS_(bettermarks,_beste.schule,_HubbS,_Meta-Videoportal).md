@@ -1,8 +1,8 @@
 ---
 title: "Schullogin: Störung Anmeldungen via VIDIS (bettermarks, beste.schule, HubbS, Meta-Videoportal)"
 date: 2025-10-01T08:00:00
-resolved: false # Resolving: set to true
-# resolvedWhen: 2025-10-01T08:00:00 # Resolving: remove comment, set correct end datetime
+resolved: true # Resolving: set to true
+resolvedWhen: 2025-11-13T08:00:00 # Resolving: remove comment, set correct end datetime
 severity: disrupted
 # informational: true # field makes issue look more like a blog post and removes any references to downtime length
 pin: false # Resolving: set to false
@@ -10,6 +10,17 @@ affected:
 - Schnittstellen
 section: issue
 ---
+
+## 13.11.2025
+
+- Login-Dauer hat sich weiter verkürzt: Störung ist als behoben angesehen
+- fortdauernde Beobachtung und Optimierung der am Login beteiligten Prozesse
+- es wird ein Post Mortem erstellt
+
+## 21.10.2025
+
+- Anmeldungen wieder etwas schneller
+- Arbeiten zur Optimierung dauern an, um Login weiter zu beschleunigen
 
 ## 7.10.2025 - 16:00 Uhr
 
