@@ -1,5 +1,5 @@
 ---
-title: "Schullogin: Abschaltung für Wartung (18.12.2025, 16:00 Uhr - 19.12.2025, 06:00 Uhr)"
+title: "Schullogin: Abschaltung für Wartung (18.12.2025, 16:00 Uhr)"
 date: 2025-12-18T16:00:00
 # resolved: true # field not needed for maintenance informational
 # resolvedWhen: 2025-12-19T06:00:00 # field not needed for maintenance informational
