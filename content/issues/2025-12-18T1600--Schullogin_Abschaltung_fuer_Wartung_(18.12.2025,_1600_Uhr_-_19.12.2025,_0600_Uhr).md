@@ -19,6 +19,6 @@ affected:
 section: issue
 ---
 
-Vom 18.12.2025, 16:00 Uhr bis maximal 19.12.2025, 6:00 Uhr wird Schullogin nicht erreichbar sein. 
+Am 18.12.2025, 16:00 Uhr wird Schullogin aufgrund von Wartungsmaßnahmen nicht erreichbar sein. 
 
-Grund sind Wartungsmaßnahmen.
+Der Ausfall beträgt voraussichtlich nur wenige Minuten, vorbehaltlich unvorhersehbarer Ereignisse. Spätestens ab 19.12.2025, 6:00 Uhr ist Schullogin wieder erreichbar.
