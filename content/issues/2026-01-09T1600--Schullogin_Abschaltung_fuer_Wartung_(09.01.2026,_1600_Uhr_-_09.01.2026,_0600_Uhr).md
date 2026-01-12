@@ -5,7 +5,7 @@ date: 2026-01-09T16:00:00
 # resolvedWhen: 2026-01-10T06:00:00 # field not needed for maintenance informational
 # severity: down # field not needed for maintenance informational
 informational: true # field makes issue look more like a blog post and removes any references to downtime length
-pin: true # Resolving: set to false
+pin: false # Resolving: set to false
 affected:
 - Nachrichten
 - Dateiablage
