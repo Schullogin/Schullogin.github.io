@@ -2,7 +2,7 @@
 title: "OPAL Schule: Fehlerhafte Benachrichtigungen (14.01., 4:30 Uhr bis 15.01., 13:54 Uhr)"
 date: 2026-01-14T04:30:00
 resolved: true # Resolving: set to true
-# resolvedWhen: 2026-01-14T04:30:00 # Resolving: remove comment, set correct end datetime
+resolvedWhen: 2026-01-15T13:54:00 # Resolving: remove comment, set correct end datetime
 severity: disrupted
 # informational: true # field makes issue look more like a blog post and removes any references to downtime length
 pin: false
