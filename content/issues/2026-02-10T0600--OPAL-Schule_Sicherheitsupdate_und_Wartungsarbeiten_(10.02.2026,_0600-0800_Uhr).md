@@ -5,7 +5,7 @@ date: 2026-02-10T06:00:00
 # resolvedWhen: 2026-02-10T06:00:00 # field not needed for maintenance informational
 # severity: down # field not needed for maintenance informational
 informational: true # field makes issue look more like a blog post and removes any references to downtime length
-pin: true # Resolving: set to false
+pin: false # Resolving: set to false
 affected:
 - OPAL Schule
 section: issue
@@ -16,3 +16,9 @@ Aktualisierung des Online-Konferenz-Tools BigBlueButton (BBB), welches an den Ku
 Wartungsarbeiten am Dienstag, den 10.02.2026,  in der Zeit von 06:00 - 08:00 Uhr. In dieser Zeit wird BigBlueButton und somit der Kursbaustein "Virtuelles Klassenzimmer" nicht verfügbar sein. Bitte informieren Sie nach Möglichkeit Ihre Anwender*innen.
 
 Bei Fragen erreichen Sie unseren Support per E-Mail unter support@bps-system.de oder per Telefon unter +49 (0)371 666 27396.
+
+## 06.02.2026
+
+Die Wartung wurde abgesagt.  Es kommt somit zu keiner Einschränkung oder Unterbrechung innerhalb des Betriebs der Lernplattform OPAL Schule.
+
+Wir bitten die fehlerhafte Information zu entschuldigen und danken Ihnen für Ihr Verständnis.
