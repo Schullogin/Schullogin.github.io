@@ -1,11 +1,11 @@
 ---
 title: "OPAL Schule: Betriebsbehindernde Störung, ONYX Editor (11.03.2026, 15:00)"
 date: 2026-03-11T15:00:00
-resolved: false # Resolving: set to true
-# resolvedWhen: 2026-03-11T15:00:00 # Resolving: remove comment, set correct end datetime
+resolved: true # Resolving: set to true
+resolvedWhen: 2026-03-12T13:50:00 # Resolving: remove comment, set correct end datetime
 severity: disrupted
 # informational: true # field makes issue look more like a blog post and removes any references to downtime length
-pin: true # Resolving: set to false
+pin: false # Resolving: set to false
 affected:
 - OPAL Schule
 section: issue
