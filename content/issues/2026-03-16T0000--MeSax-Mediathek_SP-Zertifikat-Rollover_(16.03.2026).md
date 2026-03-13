@@ -14,6 +14,4 @@ section: issue
 ---
 
 Technische Änderung an der SSO-Infrastruktur von MeSax.
-Am 2026-03-16 um 10:00 CET wird das X.509-Zertifikat des SAML Service Providers (SP) erneuert.
-Die SP-Metadaten enthalten bereits beide Zertifikate (alt und neu). 
-Am 2026-03-16 um 10:00 CET wird das alte Zertifikat deaktiviert. Ab diesem Zeitpunkt ist nur noch das neue Zertifikat gültig. Der Rollover erfolgt koordiniert und ohne geplante Downtime.
+Am 2026-03-16 um 10:00 CET wird das Zertifikat des SAML Service Providers (SP) erneuert und das alte Zertifikat wird deaktiviert. Der Rollover erfolgt koordiniert und ohne geplante Downtime. Sollte es durch die Änderung an der Single Sign-On-Infrastruktur von MeSax Probleme beim Zugang zu MeSax via Schullogin geben, kontaktieren Sie uns bitte.
