@@ -12,3 +12,4 @@ section: issue
 ---
 
 Aktuell ist der Zugriff auf Moodle via Schullogin nicht möglich.
+Wir arbeiten an einer Lösung.
