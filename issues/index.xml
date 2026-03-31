@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><link rel="alternate" type="text/html" href="https://Schullogin.github.io"/><title>Issues on Verfügbarkeit digitaler Dienste für Schulen in Sachsen</title><link>https://Schullogin.github.io/issues/</link><description>Ereignishistorie</description><generator>github.com/cstate</generator><language>de</language><lastBuildDate>2026-03-30T16:20:00+00:00</lastBuildDate><updated>2026-03-30T16:20:00+00:00</updated><atom:link href="https://Schullogin.github.io/issues/index.xml" rel="self" type="application/rss+xml"/><item><title>[Gelöst] Dateiablage: DNS Problem, Ende wahrscheinlich 17:40</title><link>https://Schullogin.github.io/issues/2026-03-30t1620--dateiablage_dns_problem_ende_wahrscheinlich_1740/</link><pubDate>Mon, 30 Mar 2026 16:20:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2026-03-30t1620--dateiablage_dns_problem_ende_wahrscheinlich_1740/</guid><category>2026-03-30T17:20:00</category><description>Durch eine Änderung in der DNS Konfiguration kommt es teilweise zu einer nicht Erreichbarkeit der Dateiablage. Da die TTL bei 1h liegt, ist diese ggf. bis 17:40 für einige Nutzer nicht erreichbar.</description><content type="html">&lt;p>Durch eine Änderung in der DNS Konfiguration kommt es teilweise zu einer nicht Erreichbarkeit der Dateiablage. Da die TTL bei 1h liegt, ist diese ggf. bis 17:40 für einige Nutzer nicht erreichbar.&lt;/p></content></item><item><title>Etherpad: Wartung Server (30.03.2026, 16:00 – 18:00 Uhr)</title><link>https://Schullogin.github.io/issues/2026-03-30t1600--etherpad_wartung_server_30.03.2026_1600__1800_uhr/</link><pubDate>Mon, 30 Mar 2026 16:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2026-03-30t1600--etherpad_wartung_server_30.03.2026_1600__1800_uhr/</guid><category/><description>Der Etherpad-Server erhält ein Update.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><link rel="alternate" type="text/html" href="https://Schullogin.github.io"/><title>Issues on Verfügbarkeit digitaler Dienste für Schulen in Sachsen</title><link>https://Schullogin.github.io/issues/</link><description>Ereignishistorie</description><generator>github.com/cstate</generator><language>de</language><lastBuildDate>2026-03-31T08:35:00+00:00</lastBuildDate><updated>2026-03-31T08:35:00+00:00</updated><atom:link href="https://Schullogin.github.io/issues/index.xml" rel="self" type="application/rss+xml"/><item><title>Moodle: Aktuell nicht erreichbar via Schullogin (31.03.2026, 08:35 Uhr)</title><link>https://Schullogin.github.io/issues/2026-03-31t0835--moodle_aktuell_nicht_erreichbar_via_schullogin_31.03.2026_0835_uhr/</link><pubDate>Tue, 31 Mar 2026 08:35:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2026-03-31t0835--moodle_aktuell_nicht_erreichbar_via_schullogin_31.03.2026_0835_uhr/</guid><category/><description>Aktuell ist der Zugriff auf Moodle via Schullogin nicht möglich.</description><content type="html">&lt;p>Aktuell ist der Zugriff auf Moodle via Schullogin nicht möglich.&lt;/p></content></item><item><title>[Gelöst] Dateiablage: DNS Problem, Ende wahrscheinlich 17:40</title><link>https://Schullogin.github.io/issues/2026-03-30t1620--dateiablage_dns_problem_ende_wahrscheinlich_1740/</link><pubDate>Mon, 30 Mar 2026 16:20:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2026-03-30t1620--dateiablage_dns_problem_ende_wahrscheinlich_1740/</guid><category>2026-03-30T17:20:00</category><description>Durch eine Änderung in der DNS Konfiguration kommt es teilweise zu einer nicht Erreichbarkeit der Dateiablage. Da die TTL bei 1h liegt, ist diese ggf. bis 17:40 für einige Nutzer nicht erreichbar.</description><content type="html">&lt;p>Durch eine Änderung in der DNS Konfiguration kommt es teilweise zu einer nicht Erreichbarkeit der Dateiablage. Da die TTL bei 1h liegt, ist diese ggf. bis 17:40 für einige Nutzer nicht erreichbar.&lt;/p></content></item><item><title>Etherpad: Wartung Server (30.03.2026, 16:00 – 18:00 Uhr)</title><link>https://Schullogin.github.io/issues/2026-03-30t1600--etherpad_wartung_server_30.03.2026_1600__1800_uhr/</link><pubDate>Mon, 30 Mar 2026 16:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2026-03-30t1600--etherpad_wartung_server_30.03.2026_1600__1800_uhr/</guid><category/><description>Der Etherpad-Server erhält ein Update.
 Aus diesem Grund wird der Dienst Etherpad am 30.03.2026 in der Zeit zwischen 16:00 und 18:00 Uhr für einen kurzen Zeitraum nicht erreichbar sein.</description><content type="html">&lt;p>Der Etherpad-Server erhält ein Update.&lt;/p>
 &lt;p>Aus diesem Grund wird der Dienst Etherpad am 30.03.2026 in der Zeit zwischen 16:00 und 18:00 Uhr für einen kurzen Zeitraum nicht erreichbar sein.&lt;/p></content></item><item><title>[Gelöst] Nachrichten: Probleme bei der Zustellung von Schullogin-Mails an Externe (27.02.2026)</title><link>https://Schullogin.github.io/issues/2026-03-27t0800--nachrichten_probleme_bei_der_zustellung_von_schullogin-mails_an_externe_27.02.2026/</link><pubDate>Fri, 27 Mar 2026 08:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2026-03-27t0800--nachrichten_probleme_bei_der_zustellung_von_schullogin-mails_an_externe_27.02.2026/</guid><category>2026-03-30T12:05:00</category><description>Derzeit kommt es vermehrt zu Problemen bei der Übermittlung von Schullogin-Nachrichten an Externe Mailadressen. Nutzende erhalten eine Info, dass die Nachricht nicht zugestellt werden konnte. Wir informieren Sie, wenn es Neuigkeiten zur Störung gibt oder diese behoben ist. Bis dahin bitten wir um Verständnis und Geduld.
 Update 30.03.2026, 12:00 Uhr
@@ -93,51 +93,4 @@ bestehen bleibt und werden Sie bei Veränderungen umgehend informieren.&lt;/p>
 &lt;h2 id="12112025">12.11.2025&lt;/h2>
 &lt;p>LernSax ist aufgrund von Wartungsarbeiten vorübergehend offline. Während dieses Zeitraums arbeiten wir abschließend an der Fehlerbehebung des Mailservice, um LernSax wieder vollständig verfügbar zu machen.&lt;/p>
 &lt;p>Bitte haben Sie Verständnis dafür, dass LernSax heute, 12.11.2025, von 20:00 Uhr bis in die frühen Morgenstunden nicht erreichbar ist.&lt;/p>
-&lt;p>Vielen Dank für Ihre Geduld.&lt;/p></content></item><item><title>[Gelöst] Schullogin: Störung Anmeldungen via VIDIS (bettermarks, beste.schule, HubbS, Meta-Videoportal)</title><link>https://Schullogin.github.io/issues/2025-10-01t0800--schullogin_stoerung_anmeldungen_via_vidis_bettermarks_beste.schule_hubbs_meta-videoportal/</link><pubDate>Wed, 01 Oct 2025 08:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2025-10-01t0800--schullogin_stoerung_anmeldungen_via_vidis_bettermarks_beste.schule_hubbs_meta-videoportal/</guid><category>2025-11-13T08:00:00</category><description>13.11.2025 Login-Dauer hat sich weiter verkürzt: Störung ist als behoben angesehen fortdauernde Beobachtung und Optimierung der am Login beteiligten Prozesse es wird ein Post Mortem erstellt 21.10.2025 Anmeldungen wieder etwas schneller Arbeiten zur Optimierung dauern an, um Login weiter zu beschleunigen 7.10.2025 - 16:00 Uhr Problem wurde auf einen Timeout in der Kommunikation VIDIS -&amp;gt; Schullogin eingegrenzt Maßnahmen wurden ergriffen, um das eingegrenzte Problem zu umgehen, sodass das Login via Schullogin an VIDIS wieder funktioniert - es kann jedoch länger als gewöhnlich dauern An der Analyse der Problemursache und der Beschleunigung des Logins wird mit Hochdruck gearbeitet 02.</description><content type="html">&lt;h2 id="13112025">13.11.2025&lt;/h2>
-&lt;ul>
-&lt;li>Login-Dauer hat sich weiter verkürzt: Störung ist als behoben angesehen&lt;/li>
-&lt;li>fortdauernde Beobachtung und Optimierung der am Login beteiligten Prozesse&lt;/li>
-&lt;li>es wird ein Post Mortem erstellt&lt;/li>
-&lt;/ul>
-&lt;h2 id="21102025">21.10.2025&lt;/h2>
-&lt;ul>
-&lt;li>Anmeldungen wieder etwas schneller&lt;/li>
-&lt;li>Arbeiten zur Optimierung dauern an, um Login weiter zu beschleunigen&lt;/li>
-&lt;/ul>
-&lt;h2 id="7102025---1600-uhr">7.10.2025 - 16:00 Uhr&lt;/h2>
-&lt;ul>
-&lt;li>Problem wurde auf einen Timeout in der Kommunikation VIDIS -&amp;gt; Schullogin eingegrenzt&lt;/li>
-&lt;li>Maßnahmen wurden ergriffen, um das eingegrenzte Problem zu umgehen, sodass das Login via Schullogin an VIDIS wieder funktioniert - es kann jedoch länger als gewöhnlich dauern&lt;/li>
-&lt;li>An der Analyse der Problemursache und der Beschleunigung des Logins wird mit Hochdruck gearbeitet&lt;/li>
-&lt;/ul>
-&lt;h2 id="02102025--1105-uhr">02.10.2025 – 11:05 Uhr&lt;/h2>
-&lt;ul>
-&lt;li>Information an FWU/Dienstleister zu den beobachteten Auffälligkeiten&lt;/li>
-&lt;/ul>
-&lt;h2 id="02102025--0700-uhr">02.10.2025 – 07:00 Uhr&lt;/h2>
-&lt;ul>
-&lt;li>Analyse des Routing VIDIS -&amp;gt; Schullogin: Auffälligkeiten festgestellt.&lt;/li>
-&lt;li>Anfrage ans Netzwerkteam ZIH zur Verifikation der Analyseergebnisse (zweite Meinung)&lt;/li>
-&lt;/ul>
-&lt;h2 id="01102025--1800-uhr">01.10.2025 – 18:00 Uhr&lt;/h2>
-&lt;p>Information zu Routing von FWU Dienstleister liegen nun vor.&lt;/p>
-&lt;h2 id="01102025---1700">01.10.2025 - 17:00&lt;/h2>
-&lt;p>Krisengespräch mit ZIH der TU Dresden: Getroffene Maßnahmen geprüft und mit dem aktuellen Wissenstand für erschöpfend befunden.
-Routing von Schullogin nach VIDIS ist fehlerfrei.&lt;/p>
-&lt;p>Erneute Nachfrage bei Dienstleister VIDIS nach Routing-Informationen, um das Problem aus Richtung VIDIS nach Schullogin analysieren zu können.&lt;/p>
-&lt;h2 id="01102025---1528">01.10.2025 - 15:28&lt;/h2>
-&lt;p>Firewallregeln der meisten beteiligten Firewalls wurden geprüft, keine Sperrregeln gefunden.
-Weitere Prüfung durch Netzwerkbetreiber und FWU läuft.&lt;/p>
-&lt;p>Parallel lief die Formale Prüfung unserer Infrastruktur bzgl. der userInfo Endpunkte.
-Eine Auffälligkeit konnte nicht festgestellt werden.
-Andere Dienste, die via OIDC angebunden sind, funktionieren.&lt;/p>
-&lt;h2 id="01102025---1144">01.10.2025 - 11:44&lt;/h2>
-&lt;p>Kontakt mit FWU und deren Dienstleister ist hergestellt. Prüfung läuft.&lt;/p>
-&lt;h2 id="01102025---1052">01.10.2025 - 10:52&lt;/h2>
-&lt;p>Derzeit ist der Übergang von Schullogin zu VIDIS gestört.
-Wir arbeiten an einer Lösung. Über die Dauer kann noch keine Angabe gemacht werden.&lt;/p>
-&lt;p>FWU (Betreiber) ist informiert und wir untersuchen unsere Logfiles, wir hoffen auf eine zeitnahe Rückmeldung.&lt;/p>
-&lt;h2 id="01102025---0800">01.10.2025 - 08:00&lt;/h2>
-&lt;p>Es besteht eine Störung bei der Anmeldung an Dienste über den VIDIS-Vermittlungsdienst.&lt;/p>
-&lt;p>Wir sind, gemeinsam mit den Betreibern von VIDIS, auf der Suche nach der Ursache des Problems und informieren hier über nähere Erkenntnisse, sobald diese vorliegen.&lt;/p>
-&lt;p>Die Störung betrifft nicht alle Nutzenden, und nicht alle Anmeldevorgänge: In einzelnen Fällen funktioniert eine Anmeldung zu einem späteren Zeitpunkt.&lt;/p></content></item></channel></rss>
+&lt;p>Vielen Dank für Ihre Geduld.&lt;/p></content></item></channel></rss>
