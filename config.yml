@@ -172,7 +172,7 @@ params:
     # Dienste in Schullogin
     - name: Nachrichten
       category: Dienste in Schullogin
-      link: https://schullogin.de/p/sbs.singlesignon/application/startapplication?applicationName=emailrainloop
+      link: https://schullogin.de/p/sbs.singlesignon/application/startapplication?applicationName=emailroundcube
     - name: Dateiablage
       category: Dienste in Schullogin
       link: https://schullogin.de/p/sbs.singlesignon/application/startapplication?applicationName=nextcloud
@@ -185,7 +185,7 @@ params:
       link: https://schullogin.de/p/sbs.singlesignon/application/startapplication?applicationName=LernSaxOauth
     - name: OPAL Schule
       category: Dienste in Schullogin
-      link: https://schullogin.de/p/sbs.singlesignon/application/startapplication?applicationName=SchulOpal
+      link: https://schullogin.de/p/sbs.singlesignon/application/startapplication?applicationName=schul-opal
     - name: MeSax Schullogin
       displayName: MeSax-Mediathek
       category: Dienste in Schullogin
