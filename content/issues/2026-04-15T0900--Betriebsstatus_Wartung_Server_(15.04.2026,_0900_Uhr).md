@@ -1,5 +1,5 @@
 ---
-title: "Status-Meldungen: Wartung Server (15.04.2026, 09:00 Uhr)"
+title: "Betriebsstatus: Wartung Server (15.04.2026, 09:00 Uhr)"
 date: 2026-04-15T09:00:00
 # resolved: true # field not needed for maintenance informational
 # resolvedWhen: 2026-04-15T09:00:00 # field not needed for maintenance informational
@@ -7,7 +7,7 @@ date: 2026-04-15T09:00:00
 informational: true # field makes issue look more like a blog post and removes any references to downtime length
 pin: true # Resolving: set to false
 affected:
-- Status-Meldungen
+- Betriebsstatus
 section: issue
 ---
 

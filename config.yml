@@ -168,7 +168,7 @@ params:
     - name: Schnittstellen
       category: Schullogin
       link: https://schullogin.de/
-    - name: Status-Meldungen
+    - name: Betriebsstatus
       category: Schullogin
       link: https://status.schullogin.de/
 
