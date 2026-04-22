@@ -2,7 +2,7 @@
 title: "Störung bei OnlyOffice"
 date: 2026-04-22T15:30:00
 resolved: true
-resolvedWhen: 2023-10-12T17:00:00
+resolvedWhen: 2026-04-22T17:00:00
 severity: disrupted
 # informational: true
 pin: false
