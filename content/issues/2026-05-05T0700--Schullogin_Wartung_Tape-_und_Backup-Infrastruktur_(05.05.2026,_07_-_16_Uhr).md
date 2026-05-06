@@ -1,11 +1,11 @@
 ---
 title: "Schullogin: Wartung Tape- und Backup-Infrastruktur (05.05.2026, 07 - 16 Uhr)"
 date: 2026-05-05T07:00:00
-# resolved: true # field not needed for maintenance informational
-# resolvedWhen: 2026-05-05T07:00:00 # field not needed for maintenance informational
+resolved: true # field not needed for maintenance informational
+resolvedWhen: 2026-05-05T16:00:00 # field not needed for maintenance informational
 # severity: down # field not needed for maintenance informational
 informational: true # field makes issue look more like a blog post and removes any references to downtime length
-pin: true
+pin: false
 affected:
 - Anmeldung
 section: issue
