@@ -1,7 +1,7 @@
 ---
 title: "Eingeschränkte Erreichbarkeit durch zentrale DNS-Störung der .de-Zone"
 date: 2026-05-05T23:30:00
-resolved: false # Resolving: set to true
+resolved: true # Resolving: set to true
 resolvedWhen: 2026-05-06T02:00:00 # Resolving: remove comment, set correct end datetime
 severity: disrupted
 # informational: true # field makes issue look more like a blog post and removes any references to downtime length
