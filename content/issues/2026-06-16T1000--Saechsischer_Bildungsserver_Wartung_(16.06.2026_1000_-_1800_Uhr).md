@@ -7,6 +7,18 @@ date: 2026-06-16T10:00:00
 informational: true # field makes issue look more like a blog post and removes any references to downtime length
 pin: true # Resolving: set to false
 affected:
+- Anmeldung
+- Support
+- Schnittstellen
+- Betriebsstatus
+- Nachrichten
+- Dateiablage
+- Videokonferenz
+- LernSax Schullogin
+- OPAL Schule
+- MeSax Schullogin
+- Etherpad
+- LernSax
 - Assistent KAI
 - Redaktionssystem
 - SchulCMS
