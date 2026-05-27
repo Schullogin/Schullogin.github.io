@@ -24,7 +24,7 @@ Von LernSax:
 > Wir sind mit unserem Hosting-Dienstleister im Austausch und haben eine
 > mögliche Lösung, wie wir die Spam-Problematieken einschränken können.
 
-# Update 26.05.2027
+## Update 26.05.2027
 
 > Einschränkung im Werkzeug "E-Mail"
 > 
