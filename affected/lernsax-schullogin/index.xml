@@ -8,7 +8,9 @@ Ausfällen der Internetanbindung.&lt;/p>
 Bildungsservers (incl. Pressestelle SMK und Schullogin).&lt;/p></content></item><item><title>LernSax: Mails werden als Spam eingestuft (25.05.2026)</title><link>https://Schullogin.github.io/issues/2026-05-26t1500--lernsax_mails_werden_als_spam_eingestuft_25.05.2026/</link><pubDate>Tue, 26 May 2026 15:00:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2026-05-26t1500--lernsax_mails_werden_als_spam_eingestuft_25.05.2026/</guid><category/><description>Von LernSax:
 Sehr geehrte Damen und Herren,
 Aktuell gibt es auf Lernsax leider ein erhöhtes Spam-Aufkommen. Leider führt dies dazu, das Lernsax unregelmäßig auf verschiedenen Spam-Blocklisten landet.
-Wir sind mit unserem Hosting-Dienstleister im Austausch und haben eine mögliche Lösung, wie wir die Spam-Problematieken einschränken können.</description><content type="html">&lt;p>Von LernSax:&lt;/p>
+Wir sind mit unserem Hosting-Dienstleister im Austausch und haben eine mögliche Lösung, wie wir die Spam-Problematieken einschränken können.
+Update 26.05.2027 Einschränkung im Werkzeug &amp;ldquo;E-Mail&amp;rdquo;
+Aktuell kommt es aufgrund eines erhöhten Spamaufkommens vereinzelt zu Einschränkungen beim Versand von E-Mails über unsere Plattform. Unsere Sicherheitsmaßnahmen greifen bereits und wir arbeiten daran, die Störungen schnellstmöglich vollständig zu beheben.</description><content type="html">&lt;p>Von LernSax:&lt;/p>
 &lt;blockquote>
 &lt;p>Sehr geehrte Damen und Herren,&lt;/p>
 &lt;p>Aktuell gibt es auf Lernsax leider ein erhöhtes Spam-Aufkommen. Leider
@@ -16,6 +18,12 @@ führt dies dazu, das Lernsax unregelmäßig auf verschiedenen
 Spam-Blocklisten landet.&lt;/p>
 &lt;p>Wir sind mit unserem Hosting-Dienstleister im Austausch und haben eine
 mögliche Lösung, wie wir die Spam-Problematieken einschränken können.&lt;/p>
+&lt;/blockquote>
+&lt;h1 id="update-26052027">Update 26.05.2027&lt;/h1>
+&lt;blockquote>
+&lt;p>Einschränkung im Werkzeug &amp;ldquo;E-Mail&amp;rdquo;&lt;/p>
+&lt;p>Aktuell kommt es aufgrund eines erhöhten Spamaufkommens vereinzelt zu Einschränkungen beim Versand von E-Mails über unsere Plattform. Unsere Sicherheitsmaßnahmen greifen bereits und wir arbeiten daran, die Störungen schnellstmöglich vollständig zu beheben. Vielen Dank für Ihr Verständnis.&lt;/p>
+&lt;p>Bitte achten Sie in dieser Zeit besonders auf verdächtige E-Mails und gehen Sie umsichtig mit enthaltenen Links um. Geben Sie Ihre LernSax-Zugangsdaten niemals auf externen Webseiten ein. LernSax wird Sie hierzu niemals auffordern. Prüfen Sie außerdem sorgfältig die Echtheit von Absendern und Nachrichten. Vielen Dank für Ihre Aufmerksamkeit.&lt;/p>
 &lt;/blockquote></content></item><item><title>[Gelöst] Eingeschränkte Erreichbarkeit durch zentrale DNS-Störung der .de-Zone</title><link>https://Schullogin.github.io/issues/2026-05-05t2330--eingeschraenkte_erreichbarkeit_durch_zentrale_dns-stoerung_der_.de-zone/</link><pubDate>Tue, 05 May 2026 23:30:00 +0000</pubDate><guid>https://Schullogin.github.io/issues/2026-05-05t2330--eingeschraenkte_erreichbarkeit_durch_zentrale_dns-stoerung_der_.de-zone/</guid><category>2026-05-06T02:00:00</category><description>Status: ✅ Behoben – Ursache extern (DENIC) Zeitraum: 05.05.2026, 21:50 Uhr – 06.05.2026, ca. 02:00 Uhr
 06.05.2026, 02:00 Uhr – Behoben Die DENIC hat die fehlerhafte DNSSEC-Signatur der .de-Zone korrigiert. Die DNS-Auflösung für schullogin.de und alle anderen .de-Domains funktioniert wieder regulär. Eventuell noch zwischengespeicherte Fehler in einzelnen Resolvern oder Endgeräten lösen sich nach Ablauf der TTL automatisch auf; ein Neustart des Routers oder das Leeren des DNS-Caches kann den Vorgang beschleunigen.</description><content type="html">&lt;p>&lt;strong>Status:&lt;/strong> ✅ Behoben – Ursache extern (DENIC)
 &lt;strong>Zeitraum:&lt;/strong> 05.05.2026, 21:50 Uhr – 06.05.2026, ca. 02:00 Uhr&lt;/p>
