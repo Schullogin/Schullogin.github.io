@@ -12,6 +12,7 @@ affected:
 section: issue
 ---
 
+
 Von LernSax:
 
 > Sehr geehrte Damen und Herren,
@@ -22,3 +23,12 @@ Von LernSax:
 >
 > Wir sind mit unserem Hosting-Dienstleister im Austausch und haben eine
 > mögliche Lösung, wie wir die Spam-Problematieken einschränken können.
+
+# Update 26.05.2027
+
+> Einschränkung im Werkzeug "E-Mail"
+> 
+> Aktuell kommt es aufgrund eines erhöhten Spamaufkommens vereinzelt zu Einschränkungen beim Versand von E-Mails über unsere Plattform. Unsere Sicherheitsmaßnahmen greifen bereits und wir arbeiten daran, die Störungen schnellstmöglich vollständig zu beheben. Vielen Dank für Ihr Verständnis.
+> 
+> 
+> Bitte achten Sie in dieser Zeit besonders auf verdächtige E-Mails und gehen Sie umsichtig mit enthaltenen Links um. Geben Sie Ihre LernSax-Zugangsdaten niemals auf externen Webseiten ein. LernSax wird Sie hierzu niemals auffordern. Prüfen Sie außerdem sorgfältig die Echtheit von Absendern und Nachrichten. Vielen Dank für Ihre Aufmerksamkeit.
