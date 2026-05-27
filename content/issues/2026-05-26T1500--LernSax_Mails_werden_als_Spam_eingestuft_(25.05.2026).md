@@ -1,5 +1,5 @@
 ---
-title: "LernSax: Mails werden als Spam eingestuft (25.05.2026)"
+title: "LernSax: Einschränkung im Werkzeug \"E-Mail\" (25.05.2026)"
 date: 2026-05-26T15:00:00
 resolved: false # Resolving: set to true
 # resolvedWhen: 2026-05-26T15:00:00 # Resolving: remove comment, set correct end datetime
