@@ -11,4 +11,4 @@ affected:
 section: issue
 ---
 
-Am 27.02.2026 traten in der Zeit von 14:30 bis 15:10 Uhr in OPAL Schule längere Ladezeiten der Startseite auf. OPAL Schule steht durch einen vollständigen System-Neustart wieder vollumfänglich und ohne Einschränkungen zur Verfügung.
+Am 27.02.2026 traten in der Zeit von 14:30 bis 15:10 Uhr in OPAL Schule längere Ladezeiten der Startseite auf. OPAL Schule steht durch einen vollständigen System-Neustart wieder vollumfänglich und ohne Einschränkungen zur Verfügung. 
