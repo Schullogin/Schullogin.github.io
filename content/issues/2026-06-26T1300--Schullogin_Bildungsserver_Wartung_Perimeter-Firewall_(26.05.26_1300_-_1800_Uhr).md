@@ -1,11 +1,11 @@
 ---
 title: "Schullogin/Bildungsserver: Wartung Perimeter-Firewall (26.05.26 13:00 - 18:00 Uhr)"
-date: 2026-06-26T13:00:00
+date: 2026-05-26T13:00:00
 # resolved: true # field not needed for maintenance informational
 # resolvedWhen: 2026-06-26T13:00:00 # field not needed for maintenance informational
 # severity: down # field not needed for maintenance informational
 informational: true # field makes issue look more like a blog post and removes any references to downtime length
-pin: true # Resolving: set to false
+pin: false # Resolving: set to false
 affected:
 - Anmeldung
 - Support
