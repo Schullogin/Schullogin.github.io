@@ -38,7 +38,29 @@ affected:
 - GitLab
 section: issue
 ---
+# Update 18.06.2026 / 17:03 Uhr
 
+Durch ein Rollback der Firewall konnte der Fehler behoben werden.
+Erste Tests haben gezeigt, dass die betroffenen Server und Dienste wieder funktionieren.
+
+
+# Update 18.06.2026 / 16:04 Uhr
+
+Im Kontext mit dem Wechsel der Firewall des SBS treten derzeit Verbindungsprobleme mit einigen Servern des SBS-Clusters auf. 
+
+Betroffen sind u.a. folgende Server:
+
+* cms.sachsen.schule
+* service.sachsen.schule
+* ticket.sachsen.schule
+* wolke.schullogin.de
+* notes.schullogin.de
+* status.schullogin.de
+* www.smk.sachsen.de
+* bildung.sachsen.de
+
+
+# Ursprüngliche Meldung:
 Am Dienstag, dem 16.06.2026, erfolgt von 10:00 - 18:00 Uhr der Austausch
 der zentralen Firewall des Sächsischen Bildungsservers.
 
