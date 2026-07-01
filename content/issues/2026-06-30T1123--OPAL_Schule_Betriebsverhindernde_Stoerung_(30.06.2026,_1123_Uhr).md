@@ -1,11 +1,11 @@
 ---
 title: "OPAL Schule: Betriebsverhindernde Störung (30.06.2026, 11:23 Uhr)"
 date: 2026-06-30T11:23:00
-resolved: false # Resolving: set to true
-# resolvedWhen: 2026-06-30T11:23:00 # Resolving: remove comment, set correct end datetime
+resolved: true # Resolving: set to true
+resolvedWhen: 2026-07-01T07:55:00 # Resolving: remove comment, set correct end datetime
 severity: disrupted
 # informational: true # field makes issue look more like a blog post and removes any references to downtime length
-pin: true # Resolving: set to false
+pin: false # Resolving: set to false
 affected:
 - OPAL Schule
 section: issue
