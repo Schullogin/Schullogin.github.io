@@ -46,3 +46,7 @@ Dieser geplante Ausfall betrifft sämtliche Dienste des Sächsischen Bildungsser
 
 
 Vielen Dank für Ihr Verständnis.
+
+# Update vom 08.07.2026
+
+Der Tausch der Firewall ist erfolgreich abgeschlossen. Schullogin sowie alle Dienste des SBS waren am 07.07.2026 im Zeitfenster 10:45 Uhr bis 16:00 Uhr von Ausfällen betroffen und stehen nun wieder zur Verfügung. Wir danken für Ihr Verständnis.
