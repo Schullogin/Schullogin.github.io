@@ -27,4 +27,10 @@ affected:
 section: issue
 ---
 
+## Update 21.07.2026
+
+Eine Übersicht über den Fortschritt der Wartungsarbeiten finden Sie unter https://service.sachsen.schule/sbs/status/
+
+## Ursprüngliche Meldung
+
 Am Mittwoch, dem 15.07.2026, werden von 09:00 bis 16:00 Uhr neue Server für den Sächsischen Bildungsserver installiert und die Proxmox-Virtualisierung in Betrieb genommen. Der Umzug der virtuellen Maschinen (VMs) auf die neuen Server beginnt am Donnerstag, dem 16.07.2026, und wird in den folgenden zwei Wochen schrittweise durchgeführt. Es kann in diesem Zusammenhang zu verlängerten Ladezeiten sowie Ausfällen von bis zu mehreren Stunden kommen. Sie werden im Falle einer Nicht-Verfügbarkeit durch eine Meldung auf der Website informiert. Vielen Dank für Ihr Verständnis!
