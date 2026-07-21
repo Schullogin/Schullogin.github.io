@@ -2,10 +2,10 @@
 title: "Schullogin: Ausfall wegen Wartung Bildungsserver (ab 17.07.2026, 15:00)"
 date: 2026-07-17T15:00:00
 resolved: true # field not needed for maintenance informational
-resolvedWhen: 2026-07-17T15:00:00 # field not needed for maintenance informational
+resolvedWhen: 2026-07-21T11:00:00 # field not needed for maintenance informational
 # severity: down # field not needed for maintenance informational
 informational: true # field makes issue look more like a blog post and removes any references to downtime length
-pin: true
+pin: false
 affected:
 - Anmeldung
 section: issue
