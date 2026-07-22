@@ -11,6 +11,13 @@ affected:
 section: issue
 ---
 
+# Update vom 21.07.2026
+
+Seit dem 21.07.2026, 11 Uhr ist der Zugriff auf Schullogin sowie die angebundenen Dienste wieder möglich.
+
+
+# Urpsrüngliche Meldung
+
 Aufgrund der Wartungsarbeiten am Sächsischen Bildungsserver (SBS - siehe Meldung ["Sächsischer Bildungsserver: Wartung (ab 15.07.2026)"](https://status.schullogin.de/issues/2026-07-15t0900--saechsischer_bildungsserver_wartung_ab_15.07.2026/)) ist Schullogin derzeit nicht erreichbar.
 
 Eine Übersicht über den Fortschritt der Wartungsarbeiten finden Sie unter https://service.sachsen.schule/sbs/status/
