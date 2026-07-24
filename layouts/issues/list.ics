@@ -1,0 +1,23 @@
+{{- /*
+  Full calendar (.ics) export for the issues section — every issue as a
+  VEVENT in one VCALENDAR, so this can be subscribed to directly in a
+  calendar app (Google Calendar, Apple Calendar, Outlook, ...) via its
+  URL, mirroring what layouts/_default/list.xml does for RSS readers.
+
+  Reuses layouts/partials/ics-vevent.html for each individual VEVENT, the
+  same partial layouts/issues/single.ics uses for a single-issue export.
+*/ -}}
+{{- $lines := slice
+  "BEGIN:VCALENDAR"
+  "VERSION:2.0"
+  (printf "PRODID:-//%s//cState//EN" (.Site.Title | plainify))
+  "CALSCALE:GREGORIAN"
+  "METHOD:PUBLISH"
+  (printf "X-WR-CALNAME:%s" (.Title | plainify))
+  (printf "X-WR-CALDESC:%s" (T "incidentHistory"))
+-}}
+{{- range .Pages -}}
+  {{- $lines = $lines | append (partial "ics-vevent.html" .) -}}
+{{- end -}}
+{{- $lines = $lines | append "END:VCALENDAR" -}}
+{{- delimit $lines "\r\n" | safeHTML -}}

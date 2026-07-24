@@ -506,6 +506,12 @@ preserveTaxonomyNames: true
 taxonomies:
   affected: affected
 
+# Note: individual issues also get an "ics" (iCalendar)
+# output in addition to html/json, so every incident can
+# be downloaded/subscribed to as a calendar event. This is
+# turned on via the "cascade" front matter in
+# content/issues/_index.md rather than here, so that only
+# issues (and not every regular page) get a .ics file.
 outputs:
   page:
     - html
@@ -531,8 +537,16 @@ outputFormats:
 #  "2.svg":
 #    isPlainText: true
 #    mediaType: image/svg+xml
+  ics:
+    isPlainText: true
+    mediaType: text/calendar
+    baseName: index
+    rel: alternate
 
 mediaTypes:
   image/svg+xml:
     suffixes:
       - svg
+  text/calendar:
+    suffixes:
+      - ics

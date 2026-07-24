@@ -1,0 +1,70 @@
+{{- /*
+  Renders one VEVENT block (as a CRLF-joined string) for the issue page
+  passed in as context ("."). Shared by layouts/issues/single.ics (one
+  issue) and layouts/issues/list.ics (the full calendar of all issues),
+  so the escaping/date-validation logic only lives in one place.
+*/ -}}
+{{- $p := . -}}
+{{- $start := $p.Date -}}
+{{- $end := $start -}}
+{{- $hasEnd := false -}}
+{{- /* Some historic issues have typos in resolvedWhen (e.g. "24:00:00" hour,
+      a 3-digit year, or month "13"). Validate before calling `time` on it so
+      one bad incident doesn't fail the whole build — it just falls back to
+      the same "no resolvedWhen" behaviour as an unresolved issue. */ -}}
+{{- $validDate := `^[0-9]{4}-(0[1-9]|1[0-2])-(0[1-9]|[12][0-9]|3[01])[T ]([01][0-9]|2[0-3]):[0-5][0-9]:[0-5][0-9]\s*$` -}}
+{{- if $p.Params.resolved -}}
+  {{- with $p.Params.resolvedWhen -}}
+    {{- if gt (len (findRE $validDate .)) 0 -}}
+      {{- $hasEnd = true -}}
+      {{- $end = time . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $host := $p.Site.BaseURL | replaceRE "^https?://" "" | replaceRE "/$" "" -}}
+{{- $uid := printf "%s@%s" ($p.File.LogicalName | default ($p.Title | urlize)) $host -}}
+
+{{- /* RFC 5545 TEXT escaping: backslash first, then semicolon, comma, then newlines.
+      NOTE: replace's signature is replace(INPUT, OLD, NEW) — it must be called
+      directly (not piped into), since piping would put INPUT in the NEW slot. */ -}}
+{{- $summary := $p.Title | plainify | htmlUnescape -}}
+{{- $summary = replace $summary "\\" "\\\\" -}}
+{{- $summary = replace $summary ";" "\\;" -}}
+{{- $summary = replace $summary "," "\\," -}}
+{{- $summary = replace $summary "\r\n" " " -}}
+{{- $summary = replace $summary "\n" " " -}}
+
+{{- $description := $p.Plain | htmlUnescape -}}
+{{- $description = replace $description "\\" "\\\\" -}}
+{{- $description = replace $description ";" "\\;" -}}
+{{- $description = replace $description "," "\\," -}}
+{{- $description = replace $description "\r\n" "\\n" -}}
+{{- $description = replace $description "\n" "\\n" -}}
+
+{{- $status := "CONFIRMED" -}}
+{{- if not $p.Params.resolved -}}
+  {{- $status = "TENTATIVE" -}}
+{{- end -}}
+
+{{- $lines := slice
+  "BEGIN:VEVENT"
+  (printf "UID:%s" $uid)
+  (printf "DTSTAMP:%s" (now.UTC.Format "20060102T150405Z"))
+  (printf "DTSTART:%s" ($start.UTC.Format "20060102T150405Z"))
+-}}
+{{- if $hasEnd -}}
+  {{- $lines = $lines | append (printf "DTEND:%s" ($end.UTC.Format "20060102T150405Z")) -}}
+{{- else -}}
+  {{- $lines = $lines | append "DURATION:PT1H" -}}
+{{- end -}}
+{{- $lines = $lines | append (printf "SUMMARY:%s" $summary) -}}
+{{- $lines = $lines | append (printf "DESCRIPTION:%s" $description) -}}
+{{- $lines = $lines | append (printf "URL:%s" $p.Permalink) -}}
+{{- $lines = $lines | append (printf "LOCATION:%s" $p.Site.BaseURL) -}}
+{{- with $p.Params.severity -}}
+  {{- $lines = $lines | append (printf "CATEGORIES:%s" (. | upper)) -}}
+{{- end -}}
+{{- $lines = $lines | append (printf "STATUS:%s" $status) -}}
+{{- $lines = $lines | append "END:VEVENT" -}}
+{{- return (delimit $lines "\r\n") -}}

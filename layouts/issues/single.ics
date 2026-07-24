@@ -1,0 +1,20 @@
+{{- /*
+  Per-issue iCalendar (.ics) export — a calendar with just this one issue.
+  See layouts/issues/list.ics for the full calendar of all issues, and
+  layouts/partials/ics-vevent.html for the shared VEVENT-building logic.
+  Enabled only for the "issues" section via the "ics" output format cascaded
+  in content/issues/_index.md, so it shows up automatically as
+  <link rel="alternate" type="text/calendar" ...> in the page <head>
+  (layouts/partials/meta.html already loops over .AlternativeOutputFormats)
+  and can be linked to directly, e.g. https://status.example.com/my-issue/index.ics
+*/ -}}
+{{- $lines := slice
+  "BEGIN:VCALENDAR"
+  "VERSION:2.0"
+  (printf "PRODID:-//%s//cState//EN" (.Site.Title | plainify))
+  "CALSCALE:GREGORIAN"
+  "METHOD:PUBLISH"
+-}}
+{{- $lines = $lines | append (partial "ics-vevent.html" .) -}}
+{{- $lines = $lines | append "END:VCALENDAR" -}}
+{{- delimit $lines "\r\n" | safeHTML -}}

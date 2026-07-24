@@ -122,6 +122,13 @@
 - id: onlyThisFeed
   translation: nur diesen Feed
 
+- id: addToCalendar
+  translation: Kalender abonnieren
+- id: allEvents
+  translation: alle Ereignisse
+- id: onlyThisEvent
+  translation: nur dieses Ereignis
+
 ##
 ## v3
 ##
