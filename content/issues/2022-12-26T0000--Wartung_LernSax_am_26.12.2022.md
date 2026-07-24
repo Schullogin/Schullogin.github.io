@@ -2,7 +2,7 @@
 title: "Wartung LernSax am 26.12.2022"
 date: 2022-12-26T00:00:00
 resolved: true
-resolvedWhen: 2022-13-26T00:00:00
+resolvedWhen: 2022-12-27T00:00:00
 # severity: down
 informational: true
 # pin: true 
