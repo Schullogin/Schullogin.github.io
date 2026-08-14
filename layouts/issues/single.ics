@@ -1,5 +1,5 @@
 {{- /*
-  Per-issue iCalendar (.ics) export — a calendar with just this one issue.
+  Per-issue iCalendar (.ics) export — a calendar with just this one event.
   See layouts/issues/list.ics for the full calendar of all issues, and
   layouts/partials/ics-vevent.html for the shared VEVENT-building logic.
   Enabled only for the "issues" section via the "ics" output format cascaded
