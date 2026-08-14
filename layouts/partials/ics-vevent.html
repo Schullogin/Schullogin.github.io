@@ -13,12 +13,10 @@
       one bad incident doesn't fail the whole build — it just falls back to
       the same "no resolvedWhen" behaviour as an unresolved issue. */ -}}
 {{- $validDate := `^[0-9]{4}-(0[1-9]|1[0-2])-(0[1-9]|[12][0-9]|3[01])[T ]([01][0-9]|2[0-3]):[0-5][0-9]:[0-5][0-9]\s*$` -}}
-{{- if $p.Params.resolved -}}
-  {{- with $p.Params.resolvedWhen -}}
-    {{- if gt (len (findRE $validDate .)) 0 -}}
-      {{- $hasEnd = true -}}
-      {{- $end = time . -}}
-    {{- end -}}
+{{- with $p.Params.resolvedWhen -}}
+  {{- if gt (len (findRE $validDate .)) 0 -}}
+    {{- $hasEnd = true -}}
+    {{- $end = time . -}}
   {{- end -}}
 {{- end -}}
 
