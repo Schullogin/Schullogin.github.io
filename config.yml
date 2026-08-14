@@ -540,7 +540,7 @@ outputFormats:
   ics:
     isPlainText: true
     mediaType: text/calendar
-    baseName: index
+    baseName: statusmeldungen-schullogin
     rel: alternate
 
 mediaTypes:
