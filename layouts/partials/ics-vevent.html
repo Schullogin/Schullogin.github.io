@@ -35,6 +35,8 @@
 {{- $summary = replace $summary "\r\n" " " -}}
 {{- $summary = replace $summary "\n" " " -}}
 
+{{- /* "Plain" returns the rendered content of the given page, 
+      removing all HTML tags. (see https://gohugo.io/methods/page/plain/) */ -}}
 {{- $description := $p.Plain | htmlUnescape -}}
 {{- $description = replace $description "\\" "\\\\" -}}
 {{- $description = replace $description ";" "\\;" -}}
