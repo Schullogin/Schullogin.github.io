@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-03-31T0835--Moodle_Aktuell_nicht_erreichbar_via_Schullogin_(31.03.2026,_0835_Uhr).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260331T083500Z
+DTEND:20260331T093000Z
+SUMMARY:Moodle: Aktuell nicht erreichbar via Schullogin (31.03.2026\, 08:35 Uhr)
+DESCRIPTION:Aktuell ist der Zugriff auf Moodle via Schullogin nicht möglich. Wir arbeiten an einer Lösung.\n
+URL:https://Schullogin.github.io/issues/2026-03-31t0835--moodle_aktuell_nicht_erreichbar_via_schullogin_31.03.2026_0835_uhr/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DISRUPTED
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

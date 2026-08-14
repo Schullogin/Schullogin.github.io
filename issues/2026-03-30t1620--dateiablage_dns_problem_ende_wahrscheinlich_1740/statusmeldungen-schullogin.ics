@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-03-30T1620--Dateiablage_DNS_Problem,_Ende_wahrscheinlich_1740.md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260330T162000Z
+DTEND:20260330T172000Z
+SUMMARY:Dateiablage: DNS Problem\, Ende wahrscheinlich 17:40
+DESCRIPTION:Durch eine Änderung in der DNS Konfiguration kommt es teilweise zu einer nicht Erreichbarkeit der Dateiablage. Da die TTL bei 1h liegt\, ist diese ggf. bis 17:40 für einige Nutzer nicht erreichbar.\n
+URL:https://Schullogin.github.io/issues/2026-03-30t1620--dateiablage_dns_problem_ende_wahrscheinlich_1740/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DOWN
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

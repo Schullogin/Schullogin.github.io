@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-06-25T0800--Etherpad_Ausfall_(25.06.2026).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260625T080000Z
+DTEND:20260625T102000Z
+SUMMARY:Etherpad: Ausfall (25.06.2026)
+DESCRIPTION:Der Dienst Etherpad verzeichnet gerade einen Ausfall.\nWir arbeiten an einer Lösung.\nUpdate 10:20 Uhr Das Problem wurde behoben.\n
+URL:https://Schullogin.github.io/issues/2026-06-25t0800--etherpad_ausfall_25.06.2026/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DOWN
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

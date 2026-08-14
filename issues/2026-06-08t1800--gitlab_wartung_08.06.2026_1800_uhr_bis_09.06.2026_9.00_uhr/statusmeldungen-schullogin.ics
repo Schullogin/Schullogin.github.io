@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-06-08T1800--GitLab_Wartung_(08.06.2026,_1800_Uhr_bis_09.06.2026,_9.00_Uhr).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260608T180000Z
+DURATION:PT1H
+SUMMARY:GitLab: Wartung (08.06.2026\, 18:00 Uhr bis 09.06.2026\, 9.00 Uhr)
+DESCRIPTION:Im Zuge eines Updates des GitLab-Servers wird es\nam Montag\, den 08.06.2026 zwischen 18.00 - 18.30 Uhr sowie am Folgetag\, Dienstag den 09.06.2026\, zwischen 8.00 und 9.00 Uhr zu je einem kurzen Ausfall des Servers für wenige Minuten kommen.\nIn der Zeit zwischen diesen Ausfällen kann maximal lesend auf die GitLab-Daten zugegriffen werden\, aber keine neuen Daten angelegt werden.\n
+URL:https://Schullogin.github.io/issues/2026-06-08t1800--gitlab_wartung_08.06.2026_1800_uhr_bis_09.06.2026_9.00_uhr/
+LOCATION:https://Schullogin.github.io
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

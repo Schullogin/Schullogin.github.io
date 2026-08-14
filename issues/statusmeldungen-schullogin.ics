@@ -1,0 +1,507 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Verfügbarkeit digitaler Dienste für Schulen in Sachsen
+NAME:Verfügbarkeit digitaler Dienste für Schulen in Sachsen
+X-WR-CALDESC:Ereignishistorie
+DESCRIPTION:Ereignishistorie
+BEGIN:VEVENT
+UID:2026-08-11T0700--Schullogin_Bildungsserver_Wartung_Backup-System_(11.08.2026_0700_-_1600_Uhr).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260811T070000Z
+DURATION:PT1H
+SUMMARY:Schullogin/Bildungsserver: Wartung Backup-System (11.08.2026 07:00 - 16:00 Uhr)
+DESCRIPTION:Am 11.08.2026 ist zwischen 07:00 - 16:00 Uhr eine Wartung des Backup-Systems der TU Dresden geplant.\nDies wird keine Auswirkungen auf die Verfügbarkeit der Dienste von Schullogin und Bildungsserver haben\, vorbehaltich unverhersehbarer Ereignisse.\n
+URL:https://Schullogin.github.io/issues/2026-08-11t0700--schullogin_bildungsserver_wartung_backup-system_11.08.2026_0700_-_1600_uhr/
+LOCATION:https://Schullogin.github.io
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-08-10T1000--LernSax_E-Mail-Versand_an_externe_Adressen_gestoert_(10.08.2026).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260810T100000Z
+DTEND:20260810T120000Z
+SUMMARY:LernSax: E-Mail-Versand an externe Adressen gestört (10.08.2026)
+DESCRIPTION:Zurzeit kommt es aufgrund einer Störung zu Einschränkungen beim E-Mail-Versand von LernSax an externe E-Mail-Adressen.\n
+URL:https://Schullogin.github.io/issues/2026-08-10t1000--lernsax_e-mail-versand_an_externe_adressen_gestoert_10.08.2026/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DISRUPTED
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-31T0800--OPAL_Schule,_Moodle,_MeSax_eingeschraenkte_Verfuegbarkeit_(31.07.2026).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260731T080000Z
+DTEND:20260805T080000Z
+SUMMARY:OPAL Schule\, Moodle\, MeSax: eingeschränkte Verfügbarkeit (31.07.2026)
+DESCRIPTION:Nach einem umfangreichen Schullogin-Update ist die Verbindung zu den Diensten OPAL Schule\, Moodle und MeSax derzeit gestört. An einer Wiederherstellung der Verfügbarkeit wird bereits gearbeitet.\n
+URL:https://Schullogin.github.io/issues/2026-07-31t0800--opal_schule_moodle_mesax_eingeschraenkte_verfuegbarkeit_31.07.2026/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DISRUPTED
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-27T1300--Schullogin_Bildungsserver_Wartung_Perimeter-Firewall_(27.07.26_1300_-_1800_Uhr).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260727T130000Z
+DURATION:PT1H
+SUMMARY:Schullogin/Bildungsserver: Wartung Perimeter-Firewall (27.07.26 13:00 - 18:00 Uhr)
+DESCRIPTION:Am Mo. 27.07.2026 13:00 - 18:00 Uhr erfolgen Software-Updates an der Perimeter-Firewall der TU Dresden. Aufgrund der Redundanz sollte es - vorbehaltlich nicht vorhersehbarer Ereignisse - zu keinen Beeinträchtigungen kommen.\n
+URL:https://Schullogin.github.io/issues/2026-07-27t1300--schullogin_bildungsserver_wartung_perimeter-firewall_27.07.26_1300_-_1800_uhr/
+LOCATION:https://Schullogin.github.io
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-23T1600--Moodle_Bildungsserver_Wartungsarbeiten_(23.07.2026,_ab_1600).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260723T160000Z
+DTEND:20260727T170000Z
+SUMMARY:Moodle/Bildungsserver: Wartungsarbeiten (23.07.2026\, ab 16:00)
+DESCRIPTION:Derzeit finden planmäßige Wartungsarbeiten an der Moodle-Zentralinstanz des Sächsischen Bildungsservers statt. In dieser Zeit wird die Moodle-Zentralinstanz nicht erreichbar sein.\nEine Übersicht über den Fortschritt der Wartungsarbeiten finden Sie unter https://service.sachsen.schule/sbs/status/\nUpdate 27.07. Im Rahmen der Wartungsarbeiten ist Moodle momentan nicht erreichbar.\n
+URL:https://Schullogin.github.io/issues/2026-07-23t1600--moodle_bildungsserver_wartungsarbeiten_23.07.2026_ab_1600/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DOWN
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-17T1500--Schullogin_Ausfall_wegen_Wartung_Bildungsserver_(ab_17.07.2026,_15:00).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260717T150000Z
+DTEND:20260721T110000Z
+SUMMARY:Schullogin: Ausfall wegen Wartung Bildungsserver (ab 17.07.2026\, 15:00)
+DESCRIPTION:Update vom 21.07.2026 Seit dem 21.07.2026\, 11 Uhr ist der Zugriff auf Schullogin sowie die angebundenen Dienste wieder möglich.\nUrpsrüngliche Meldung Aufgrund der Wartungsarbeiten am Sächsischen Bildungsserver (SBS - siehe Meldung “Sächsischer Bildungsserver: Wartung (ab 15.07.2026)”) ist Schullogin derzeit nicht erreichbar.\nEine Übersicht über den Fortschritt der Wartungsarbeiten finden Sie unter https://service.sachsen.schule/sbs/status/\n
+URL:https://Schullogin.github.io/issues/2026-07-17t1500--schullogin_ausfall_wegen_wartung_bildungsserver_ab_17.07.2026_1500/
+LOCATION:https://Schullogin.github.io
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-15T0900--Saechsischer_Bildungsserver_Wartung_(ab_15.07.2026).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260715T090000Z
+DURATION:PT1H
+SUMMARY:Sächsischer Bildungsserver: Wartung (ab 15.07.2026)
+DESCRIPTION:Update 21.07.2026 Eine Übersicht über den Fortschritt der Wartungsarbeiten finden Sie unter https://service.sachsen.schule/sbs/status/\nUrsprüngliche Meldung Am Mittwoch\, dem 15.07.2026\, werden von 09:00 bis 16:00 Uhr neue Server für den Sächsischen Bildungsserver installiert und die Proxmox-Virtualisierung in Betrieb genommen. Der Umzug der virtuellen Maschinen (VMs) auf die neuen Server beginnt am Donnerstag\, dem 16.07.2026\, und wird in den folgenden zwei Wochen schrittweise durchgeführt. Es kann in diesem Zusammenhang zu verlängerten Ladezeiten sowie Ausfällen von bis zu mehreren Stunden kommen. Sie werden im Falle einer Nicht-Verfügbarkeit durch eine Meldung auf der Website informiert. Vielen Dank für Ihr Verständnis!\n
+URL:https://Schullogin.github.io/issues/2026-07-15t0900--saechsischer_bildungsserver_wartung_ab_15.07.2026/
+LOCATION:https://Schullogin.github.io
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-08T1600--Nachrichten_Stoerungen_bei_der_Zustellbarkeit_von_Nachrichten_(08.07.2026).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260708T160000Z
+DTEND:20260709T163000Z
+SUMMARY:Nachrichten: Störungen bei der Zustellbarkeit von Nachrichten (08.07.2026)
+DESCRIPTION:Nachrichten können derzeit nur eingeschränkt an Schullogin-Postfächer zugestellt werden. Nutzen Sie für Support-Anfragen bitte folgende Mail-Adresse: schullogin-support@tu-dresden.de. An einer Lösung wird gearbeitet. Wir bitten um Verständnis.\nUpdate vom 10.07.2026\, 09:00 Nachrichten an @schullogin-Mailadressen werden nun wieder erfolgreich zugestellt. Dies betrifft auch Nachrichten\, die sich seit dem 08.07.2026 in der Warteschleife befunden haben und bislang nicht zugestellt werden konnten. Sollten Sie erneut Probleme feststellen oder fehlende Nachrichten\, wenden Sie sich bitte an support@schullogin.de.\n
+URL:https://Schullogin.github.io/issues/2026-07-08t1600--nachrichten_stoerungen_bei_der_zustellbarkeit_von_nachrichten_08.07.2026/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DISRUPTED
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-07T0900--Bildungsserver_Schullogin_Austausch_Firewall_(07.07.2026,_0900_-_1300_Uhr).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260707T090000Z
+DURATION:PT1H
+SUMMARY:Bildungsserver/Schullogin: Austausch Firewall (07.07.2026\, 09:00 - 13:00 Uhr)
+DESCRIPTION:Am Dienstag\, dem 07.07.2026\, erfolgt von 09:00 - 13:00 Uhr der zweite Versuch zum Austausch der zentralen Firewall des Sächsischen Bildungsservers.\nDabei kommt es in der Zeit von 09:00 - 13:00 Uhr zu mehreren kurzen Ausfällen der Internetanbindung.\nDieser geplante Ausfall betrifft sämtliche Dienste des Sächsischen Bildungsservers (incl. Pressestelle SMK und Schullogin).\nVielen Dank für Ihr Verständnis.\nUpdate vom 08.07.2026 Der Tausch der Firewall ist erfolgreich abgeschlossen. Schullogin sowie alle Dienste des SBS waren am 07.07.2026 im Zeitfenster 10:45 Uhr bis 16:00 Uhr von Ausfällen betroffen und stehen nun wieder zur Verfügung. Wir danken für Ihr Verständnis.\n
+URL:https://Schullogin.github.io/issues/2026-07-07t0900--bildungsserver_schullogin_austausch_firewall_07.07.2026_0900_-_1300_uhr/
+LOCATION:https://Schullogin.github.io
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-07-07T0700--Schullogin_Bildungsserver_Wartung_Backup-System_(07.07.2026_0700_-_1600_Uhr).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260707T070000Z
+DURATION:PT1H
+SUMMARY:Schullogin/Bildungsserver: Wartung Backup-System (07.07.2026 07:00 - 16:00 Uhr)
+DESCRIPTION:Am 07.07.2026 ist zwischen 07:00 - 16:00 Uhr eine Wartung des Backup-Systems der TU Dresden geplant.\nDies wird keine Auswirkungen auf die Verfügbarkeit der Dienste von Schullogin und Bildungsserver haben\, vorbehaltich unverhersehbarer Ereignisse.\n
+URL:https://Schullogin.github.io/issues/2026-07-07t0700--schullogin_bildungsserver_wartung_backup-system_07.07.2026_0700_-_1600_uhr/
+LOCATION:https://Schullogin.github.io
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-30T1123--OPAL_Schule_Betriebsverhindernde_Stoerung_(30.06.2026,_1123_Uhr).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260630T112300Z
+DTEND:20260701T075500Z
+SUMMARY:OPAL Schule: Betriebsverhindernde Störung (30.06.2026\, 11:23 Uhr)
+DESCRIPTION:Aufgrund einer Störung sind einzelne Komponenten von OPAL Schule nicht oder nur eingeschränkt erreichbar. Betroffen ist der Mailversand. Es kommt zu Problemen bei der Mailzustellung\; teilweise werden Mails von den Empfänger-Mailservern abgewiesen. Eine umfangreiche Störungsmeldung finden Sie hier: Blog zum Betriebsstatus OPAL Schule https://help.bps-system.de/wiki/bin/view/STATOS/Betriebsstatus%20OPAL%20Schule/Blog%20zum%20Betriebsstatus%20OPAL%20Schule/. Wir entschuldigen uns für die entstandenen Unannehmlichkeiten und danken Ihnen für Ihr Verständnis. Bei Fragen wenden Sie sich bitte an: support@bps-system.de\n
+URL:https://Schullogin.github.io/issues/2026-06-30t1123--opal_schule_betriebsverhindernde_stoerung_30.06.2026_1123_uhr/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DISRUPTED
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-29T0900--Bildungsserver_Umfangreiche_Wartungsarbeiten_waehrend_der_Sommerferien.md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260629T090000Z
+DURATION:PT1H
+SUMMARY:Bildungsserver: Umfangreiche Wartungsarbeiten während der Sommerferien
+DESCRIPTION:In den kommenden Wochen werden umfangreiche Wartungsarbeiten und technische Umstellungen am Sächsischen Bildungsserver (SBS) durchgeführt. Dies umfasst unter anderem:\nEinführung neuer Sicherheits- und Serversysteme\, Umzug und Optimierung bestehender Systeme\, Konsolidierung der Infrastruktur sowie Abschlussarbeiten zur Fehlerbehebung und Stabilisierung. Während dieser Arbeiten kann es zu Einschränkungen bei angebundenen Diensten kommen. Wir bitten um Ihr Verständnis und informieren Sie bei relevanten Änderungen zeitnah.\n
+URL:https://Schullogin.github.io/issues/2026-06-29t0900--bildungsserver_umfangreiche_wartungsarbeiten_waehrend_der_sommerferien/
+LOCATION:https://Schullogin.github.io
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-25T0800--Etherpad_Ausfall_(25.06.2026).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260625T080000Z
+DTEND:20260625T102000Z
+SUMMARY:Etherpad: Ausfall (25.06.2026)
+DESCRIPTION:Der Dienst Etherpad verzeichnet gerade einen Ausfall.\nWir arbeiten an einer Lösung.\nUpdate 10:20 Uhr Das Problem wurde behoben.\n
+URL:https://Schullogin.github.io/issues/2026-06-25t0800--etherpad_ausfall_25.06.2026/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DOWN
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-17T0900--Nachrichten_Mail-Versand_und_-Empfang_gestoert_(17.06.2026).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260617T090000Z
+DTEND:20260618T170300Z
+SUMMARY:Nachrichten: Mail-Versand und -Empfang gestört (17.06.2026)
+DESCRIPTION:Es liegt aktuell eine Störung des Mail-Versands und -Empfangs vor: Nachrichten kommen nicht oder nur verzögert an. Wir arbeiten an der Behebung.\nBitte beachten Sie in diesem Zusammenhang auch die folgende Statusmeldung: https://status.schullogin.de/issues/2026-06-16t1000--saechsischer_bildungsserver_wartung_16.06.2026_1000_-_1800_uhr/\n
+URL:https://Schullogin.github.io/issues/2026-06-17t0900--nachrichten_mail-versand_und_-empfang_gestoert_17.06.2026/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DOWN
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-16T1600--Dateiablage_Ausfall_Anmeldung_ueber_Schullogin_(16.06.2026,_1600_Uhr).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260616T160000Z
+DTEND:20260617T120000Z
+SUMMARY:Dateiablage: Ausfall Anmeldung über Schullogin (16.06.2026\, 16:00 Uhr)
+DESCRIPTION:Es liegt aktuell eine Störung der Anmeldung an der Dateiablage vor. Wir arbeiten an der Behebung.\n
+URL:https://Schullogin.github.io/issues/2026-06-16t1600--dateiablage_ausfall_anmeldung_ueber_schullogin_16.06.2026_1600_uhr/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DOWN
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-16T1000--Saechsischer_Bildungsserver_Wartung_(16.06.2026_1000_-_1800_Uhr).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260616T100000Z
+DURATION:PT1H
+SUMMARY:Sächsischer Bildungsserver: Wartung (16.06.2026 10:00 - 18:00 Uhr)
+DESCRIPTION:Update 18.06.2026 / 17:03 Uhr Durch ein Rollback der Firewall konnte der Fehler behoben werden. Erste Tests haben gezeigt\, dass die betroffenen Server und Dienste wieder funktionieren.\nUpdate 18.06.2026 / 16:04 Uhr Im Kontext mit dem Wechsel der Firewall des SBS treten derzeit Verbindungsprobleme mit einigen Servern des SBS-Clusters auf.\nBetroffen sind u.a. folgende Server:\ncms.sachsen.schule service.sachsen.schule ticket.sachsen.schule wolke.schullogin.de notes.schullogin.de status.schullogin.de www.smk.sachsen.de bildung.sachsen.de Ursprüngliche Meldung: Am Dienstag\, dem 16.06.2026\, erfolgt von 10:00 - 18:00 Uhr der Austausch der zentralen Firewall des Sächsischen Bildungsservers.\nDabei kommt es in der Zeit von 12:00 - 16:00 Uhr zu mehreren kurzen Ausfällen der Internetanbindung.\nDieser geplante Ausfall betrifft sämtliche Dienste des Sächsischen Bildungsservers (incl. Pressestelle SMK und Schullogin).\n
+URL:https://Schullogin.github.io/issues/2026-06-16t1000--saechsischer_bildungsserver_wartung_16.06.2026_1000_-_1800_uhr/
+LOCATION:https://Schullogin.github.io
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-09T1800--Dateiablage_Wartung_(09.06.2026,_18.00_Uhr_bis_10.6.2026,_7.00_Uhr).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260609T180000Z
+DURATION:PT1H
+SUMMARY:Dateiablage: Wartung (09.06.2026\, 18.00 Uhr bis 10.6.2026\, 7.00 Uhr)
+DESCRIPTION:Im Zuge eines Updates des Servers der Dateiablage wird dieser zwischen\nDienstag den 09.06.2026\, ab 18.00 Uhr bis zum Folgetag\, Mittwoch den 10.6.\, 7.00 Uhr zu einem Ausfall des Servers kommen.\nIn der Zeit sind die Daten in der Dateiablage nicht über die Weboberfläche zugänglich. Bei Nutzung des Desktop-Clients können lokale Änderungen erst danach wieder synchronisiert werden.\n
+URL:https://Schullogin.github.io/issues/2026-06-09t1800--dateiablage_wartung_09.06.2026_18.00_uhr_bis_10.6.2026_7.00_uhr/
+LOCATION:https://Schullogin.github.io
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-08T1800--GitLab_Wartung_(08.06.2026,_1800_Uhr_bis_09.06.2026,_9.00_Uhr).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260608T180000Z
+DURATION:PT1H
+SUMMARY:GitLab: Wartung (08.06.2026\, 18:00 Uhr bis 09.06.2026\, 9.00 Uhr)
+DESCRIPTION:Im Zuge eines Updates des GitLab-Servers wird es\nam Montag\, den 08.06.2026 zwischen 18.00 - 18.30 Uhr sowie am Folgetag\, Dienstag den 09.06.2026\, zwischen 8.00 und 9.00 Uhr zu je einem kurzen Ausfall des Servers für wenige Minuten kommen.\nIn der Zeit zwischen diesen Ausfällen kann maximal lesend auf die GitLab-Daten zugegriffen werden\, aber keine neuen Daten angelegt werden.\n
+URL:https://Schullogin.github.io/issues/2026-06-08t1800--gitlab_wartung_08.06.2026_1800_uhr_bis_09.06.2026_9.00_uhr/
+LOCATION:https://Schullogin.github.io
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-27T1430--Opal_Schule_Betriebsbehindernde_Stoerung_(27.05.2026,_1430_-_1510).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260527T143000Z
+DTEND:20260527T151000Z
+SUMMARY:Opal Schule: Betriebsbehindernde Störung (27.05.2026\, 14:30 - 15:10)
+DESCRIPTION:Am 27.02.2026 traten in der Zeit von 14:30 bis 15:10 Uhr in OPAL Schule längere Ladezeiten der Startseite auf. OPAL Schule steht durch einen vollständigen System-Neustart wieder vollumfänglich und ohne Einschränkungen zur Verfügung.\n
+URL:https://Schullogin.github.io/issues/2026-05-27t1430--opal_schule_betriebsbehindernde_stoerung_27.05.2026_1430_-_1510/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DISRUPTED
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-26T1500--LernSax_Mails_werden_als_Spam_eingestuft_(25.05.2026).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260526T150000Z
+DTEND:20260602T180000Z
+SUMMARY:LernSax: Einschränkung im Werkzeug E-Mail (25.05.2026)
+DESCRIPTION:Von LernSax:\nSehr geehrte Damen und Herren\,\nAktuell gibt es auf Lernsax leider ein erhöhtes Spam-Aufkommen. Leider führt dies dazu\, das Lernsax unregelmäßig auf verschiedenen Spam-Blocklisten landet.\nWir sind mit unserem Hosting-Dienstleister im Austausch und haben eine mögliche Lösung\, wie wir die Spam-Problematieken einschränken können.\nUpdate 27.05.2027 Einschränkung im Werkzeug “E-Mail”\nAktuell kommt es aufgrund eines erhöhten Spamaufkommens vereinzelt zu Einschränkungen beim Versand von E-Mails über unsere Plattform. Unsere Sicherheitsmaßnahmen greifen bereits und wir arbeiten daran\, die Störungen schnellstmöglich vollständig zu beheben. Vielen Dank für Ihr Verständnis.\nBitte achten Sie in dieser Zeit besonders auf verdächtige E-Mails und gehen Sie umsichtig mit enthaltenen Links um. Geben Sie Ihre LernSax-Zugangsdaten niemals auf externen Webseiten ein. LernSax wird Sie hierzu niemals auffordern. Prüfen Sie außerdem sorgfältig die Echtheit von Absendern und Nachrichten. Vielen Dank für Ihre Aufmerksamkeit.\n
+URL:https://Schullogin.github.io/issues/2026-05-26t1500--lernsax_mails_werden_als_spam_eingestuft_25.05.2026/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DISRUPTED
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-06-26T1300--Schullogin_Bildungsserver_Wartung_Perimeter-Firewall_(26.05.26_1300_-_1800_Uhr).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260526T130000Z
+DURATION:PT1H
+SUMMARY:Schullogin/Bildungsserver: Wartung Perimeter-Firewall (26.05.26 13:00 - 18:00 Uhr)
+DESCRIPTION:Am Dienstag\, den 26.05.26\, 13:00 - 18:00 Uhr\, erfolgen Software-Updates an der Perimeter-Firewall der TU Dresden.\nAufgrund der Redundanz sollte es - vorbehaltlich nicht vorhersehbarer Ereignisse - zu keinen Beeinträchtigungen kommen.\n
+URL:https://Schullogin.github.io/issues/2026-06-26t1300--schullogin_bildungsserver_wartung_perimeter-firewall_26.05.26_1300_-_1800_uhr/
+LOCATION:https://Schullogin.github.io
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-18T0700--Videokonferenz_Ausfall.md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260518T070000Z
+DTEND:20260518T103000Z
+SUMMARY:Videokonferenz: Ausfall
+DESCRIPTION:Der Zugang zum Videokonferenzdienst via Greenlight ist derzeit gestört\, der Zugang über LernSax und andere Anbieter funktioniert.\n
+URL:https://Schullogin.github.io/issues/2026-05-18t0700--videokonferenz_ausfall/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DOWN
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-05T2330--Eingeschraenkte_Erreichbarkeit_durch_zentrale_DNS-Stoerung_der_.de-Zone.md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260505T233000Z
+DTEND:20260506T020000Z
+SUMMARY:Eingeschränkte Erreichbarkeit durch zentrale DNS-Störung der .de-Zone
+DESCRIPTION:Status: ✅ Behoben – Ursache extern (DENIC) Zeitraum: 05.05.2026\, 21:50 Uhr – 06.05.2026\, ca. 02:00 Uhr\n06.05.2026\, 02:00 Uhr – Behoben Die DENIC hat die fehlerhafte DNSSEC-Signatur der .de-Zone korrigiert. Die DNS-Auflösung für schullogin.de und alle anderen .de-Domains funktioniert wieder regulär. Eventuell noch zwischengespeicherte Fehler in einzelnen Resolvern oder Endgeräten lösen sich nach Ablauf der TTL automatisch auf\; ein Neustart des Routers oder das Leeren des DNS-Caches kann den Vorgang beschleunigen.\nSollten Sie weiterhin Probleme beim Zugriff auf Schullogin haben\, wenden Sie sich gern an unseren Support.\n05.05.2026\, 23:30 Uhr – Ursache identifiziert Die DENIC bestätigt den Vorfall auf status.denic.de als „Partial Service Disruption". Ursache ist eine fehlerhafte kryptografische Signatur (DNSSEC/RRSIG) für den SOA-Eintrag der gesamten .de-Zone. Sicherheitsprüfende DNS-Resolver verwerfen daraufhin alle Antworten für .de-Domains und geben den Fehler NXDOMAIN zurück – so\, als würde die Domain nicht existieren. Der Fehler tritt unabhängig vom verwendeten DNS-Anbieter auf (Provider-DNS\, Google 8.8.8.8\, Cloudflare 1.1.1.1).\nSchullogin selbst ist technisch verfügbar – unsere Server\, Anwendungen und Datenbanken laufen einwandfrei. Da die Adresse schullogin.de aber zunächst über das DNS in eine IP-Adresse übersetzt werden muss und genau dieser Schritt aktuell fehlschlägt\, kommen viele Anfragen nicht bei uns an.\nMögliche Auswirkungen:\nAnmeldung an Schullogin schlägt fehl oder dauert sehr lange Verbundene Dienste sind nicht oder nur teilweise erreichbar E-Mails an @schullogin.de-Adressen können verzögert zugestellt werden 05.05.2026\, 22:30 Uhr – Hintergrund: Wie funktioniert DNS? Das Domain Name System ist das „Telefonbuch des Internets". Menschen merken sich Namen wie schullogin.de\, Computer kommunizieren aber über IP-Adressen wie 192.0.2.42. Das DNS übersetzt zwischen beiden Welten.\nDie Auflösung läuft hierarchisch in drei Schritten:\nRoot-Server verweisen an die zuständige Top-Level-Domain – in unserem Fall .de. Die .de-Zone\, betrieben von der DENIC\, verweist auf die für schullogin.de autoritativen Nameserver. Unsere Nameserver liefern schließlich die konkrete IP-Adresse zurück. Damit niemand auf diesem Weg gefälschte Antworten einschleusen kann (DNS-Spoofing)\, werden die Antworten mit DNSSEC digital signiert. Resolver prüfen diese Signatur und akzeptieren die Antwort nur\, wenn sie gültig ist. Während der Störung war die Signatur der gesamten .de-Zone ungültig – deshalb verwarfen Resolver bundesweit korrekt arbeitend alle Antworten und lieferten NXDOMAIN. Aus Sicherheitssicht ist das das richtige Verhalten\, führte hier aber dazu\, dass deutsche Domains scheinbar verschwunden waren.\n05.05.2026\, 22:00 Uhr – Störung erkannt Erste Meldungen über nicht erreichbare .de-Domains erreichen uns. Schullogin und verbundene Dienste sind über den regulären Domainnamen nicht oder nur eingeschränkt erreichbar. Die Server selbst sind unauffällig\; die Ursache wird im DNS vermutet. Untersuchung läuft.\n
+URL:https://Schullogin.github.io/issues/2026-05-05t2330--eingeschraenkte_erreichbarkeit_durch_zentrale_dns-stoerung_der_.de-zone/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DISRUPTED
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-05T0700--Schullogin_Wartung_Tape-_und_Backup-Infrastruktur_(05.05.2026,_07_-_16_Uhr).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260505T070000Z
+DTEND:20260505T160000Z
+SUMMARY:Schullogin: Wartung Tape- und Backup-Infrastruktur (05.05.2026\, 07 - 16 Uhr)
+DESCRIPTION:Am Dienstag\, den 05.05.2026\, erfolgt von 07:00 - 16:00 Uhr eine Wartung der Backup- und Tape-Infrastruktur. Vorbehaltlich unvorhersehbarer Ereignisse ist nicht mit Ausfällen der Systeme zu rechnen. Weitere Informationen entnehmen Sie bitte der nachstehend verlinkten Statusseite:\nhttps://betriebsstatus.tu-dresden.de/issues/2026-05-05-wartung_tape-_und_backup-infrastruktur_05-05-2026_07-16_uhr/\n
+URL:https://Schullogin.github.io/issues/2026-05-05t0700--schullogin_wartung_tape-_und_backup-infrastruktur_05.05.2026_07_-_16_uhr/
+LOCATION:https://Schullogin.github.io
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-05-04T1000--Nachrichten_Stoerungen_bei_der_Zustellbarkeit_von_Nachrichten_(04.05.2026).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260504T100000Z
+DTEND:20260505T160000Z
+SUMMARY:Nachrichten: Störungen bei der Zustellbarkeit von Nachrichten (04.05.2026)
+DESCRIPTION:Es treten Störungen bei der Zustellung von Nachrichten auf. Dies betrifft bspw. das Versenden von Mails von @schullogin.de an @sachsen.schule. Wir arbeiten an einer Lösung.\n
+URL:https://Schullogin.github.io/issues/2026-05-04t1000--nachrichten_stoerungen_bei_der_zustellbarkeit_von_nachrichten_04.05.2026/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DISRUPTED
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-22T1600--Moodle_Update_(22.04.2026,_1600_-_2200_Uhr).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260422T160000Z
+DURATION:PT1H
+SUMMARY:Moodle: Update (22.04.2026\, 16:00 - 22:00 Uhr)
+DESCRIPTION:Am Mittwoch\, dem 22.04.2026\, erfolgt von 16:00 - 22:00 Uhr ein Update der Moodle-Zentralinstanz auf dem Sächsischen Bildungsserver.\nIn dieser Zeit wird die Moodle-Zentralinstanz nicht erreichbar sein.\n
+URL:https://Schullogin.github.io/issues/2026-04-22t1600--moodle_update_22.04.2026_1600_-_2200_uhr/
+LOCATION:https://Schullogin.github.io
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-22T1530--Stoerung_bei_OnlyOffice.md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260422T153000Z
+DTEND:20260422T170000Z
+SUMMARY:Störung bei OnlyOffice
+DESCRIPTION:Derzeit kommt es zu einer Störung\, aufgrund derer sich OnlyOffice bei vielen Nutzern nicht öffnen lässt. IBH wurde bereits informiert und arbeitet an einer Lösung des Problems.\n
+URL:https://Schullogin.github.io/issues/2026-04-22t1530--stoerung_bei_onlyoffice/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DISRUPTED
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-22T0900--Assistent_KAI_Derzeit_nicht_erreichbar_(22.04.2026,_0900).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260422T090000Z
+DTEND:20260422T102500Z
+SUMMARY:Assistent KAI: Derzeit nicht erreichbar (22.04.2026\, 09:00)
+DESCRIPTION:Assistent KAI ist derzeit nicht via Schullogin erreicbar. Nutzende erhalten eine Fehlermeldung „https://ai.sachsen.schule nicht erreichbar" Es wird an einer Lösung gearbeitet.\n
+URL:https://Schullogin.github.io/issues/2026-04-22t0900--assistent_kai_derzeit_nicht_erreichbar_22.04.2026_0900/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DISRUPTED
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-21T0700--Moodle_Zugriff_auf_Moodle-Instanzen_gestoert_(21.04.2026,_0700_Uhr).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260421T070000Z
+DTEND:20260421T080000Z
+SUMMARY:Moodle: Zugriff auf Moodle-Instanzen gestört (21.04.2026\, 07:00 Uhr)
+DESCRIPTION:Der Zugriff auf schuleigene Moodle-Instanzen ist derzeit gestört. Nutzende erhalten eine Fehlermeldung „Es gab ein Problem beim Start der Anwendung". Wir arbeiten an einer Lösung. Voraussichtlich sind die Moodle-Instanzen in Kürze wieder erreichbar.\n
+URL:https://Schullogin.github.io/issues/2026-04-21t0700--moodle_zugriff_auf_moodle-instanzen_gestoert_21.04.2026_0700_uhr/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DISRUPTED
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-16T1600--Dateiablage_Wartung_Server_(16.04.2026,_1600_Uhr).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260416T160000Z
+DURATION:PT1H
+SUMMARY:Dateiablage: Wartung Server (16.04.2026\, 16:00 Uhr)
+DESCRIPTION:Am 16.04.2026\, ab 16:00 Uhr führen wir eine Wartung der Konfiguration des Servers durch.\nEs kann dabei zu kurzzeitigen Verbindungsproblemen kommen\, in diesem Fall ist ggf. auch ein (mehrfaches) Neuladen der Webseite notwendig.\n
+URL:https://Schullogin.github.io/issues/2026-04-16t1600--dateiablage_wartung_server_16.04.2026_1600_uhr/
+LOCATION:https://Schullogin.github.io
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-15T0900--Betriebsstatus_Wartung_Server_(15.04.2026,_0900_Uhr).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260415T090000Z
+DURATION:PT1H
+SUMMARY:Betriebsstatus: Wartung Server (15.04.2026\, 09:00 Uhr)
+DESCRIPTION:Am 15.04.2026\, ab 15:00 Uhr führen wir eine Wartung der Konfiguration des Servers dieser Status-Seite (https://status.schullogin.de) durch.\nEs kann dabei zu kurzzeitigen Verbindungsproblemen kommen\, in diesem Fall ist ggf. auch ein (mehrfaches) Neuladen der Webseite notwendig.\n
+URL:https://Schullogin.github.io/issues/2026-04-15t0900--betriebsstatus_wartung_server_15.04.2026_0900_uhr/
+LOCATION:https://Schullogin.github.io
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-13T1800--OPAL_Schule_Wartung_(13.04.2026,_18-20_Uhr).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260413T180000Z
+DTEND:20260413T200000Z
+SUMMARY:OPAL Schule: Wartung (13.04.2026\, 18-20 Uhr)
+DESCRIPTION:Am Montag\, dem 13.04.2026\, ist OPAL Schule im Zeitraum von 18:00 – 20:00 Uhr aufgrund von außerordentlichen externen Wartungsarbeiten nicht oder nur eingeschränkt erreichbar sein. Wir bitten Sie\, Ihre Arbeiten entsprechend einzuplanen und wichtige Inhalte vorab zu speichern.\nWir entschuldigen uns für die entstandenen Unannehmlichkeiten und danken Ihnen für Ihr Verständnis. Bei Fragen wenden Sie sich bitte an: support@bps-system.de\n
+URL:https://Schullogin.github.io/issues/2026-04-13t1800--opal_schule_wartung_13.04.2026_18-20_uhr/
+LOCATION:https://Schullogin.github.io
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-31T0835--Moodle_Aktuell_nicht_erreichbar_via_Schullogin_(31.03.2026,_0835_Uhr).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260331T083500Z
+DTEND:20260331T093000Z
+SUMMARY:Moodle: Aktuell nicht erreichbar via Schullogin (31.03.2026\, 08:35 Uhr)
+DESCRIPTION:Aktuell ist der Zugriff auf Moodle via Schullogin nicht möglich. Wir arbeiten an einer Lösung.\n
+URL:https://Schullogin.github.io/issues/2026-03-31t0835--moodle_aktuell_nicht_erreichbar_via_schullogin_31.03.2026_0835_uhr/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DISRUPTED
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-30T1620--Dateiablage_DNS_Problem,_Ende_wahrscheinlich_1740.md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260330T162000Z
+DTEND:20260330T172000Z
+SUMMARY:Dateiablage: DNS Problem\, Ende wahrscheinlich 17:40
+DESCRIPTION:Durch eine Änderung in der DNS Konfiguration kommt es teilweise zu einer nicht Erreichbarkeit der Dateiablage. Da die TTL bei 1h liegt\, ist diese ggf. bis 17:40 für einige Nutzer nicht erreichbar.\n
+URL:https://Schullogin.github.io/issues/2026-03-30t1620--dateiablage_dns_problem_ende_wahrscheinlich_1740/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DOWN
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-30T1600--Etherpad_Wartung_Server_(30.03.2026,_1600_–_1800_Uhr).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260330T160000Z
+DURATION:PT1H
+SUMMARY:Etherpad: Wartung Server (30.03.2026\, 16:00 – 18:00 Uhr)
+DESCRIPTION:Der Etherpad-Server erhält ein Update.\nAus diesem Grund wird der Dienst Etherpad am 30.03.2026 in der Zeit zwischen 16:00 und 18:00 Uhr für einen kurzen Zeitraum nicht erreichbar sein.\n
+URL:https://Schullogin.github.io/issues/2026-03-30t1600--etherpad_wartung_server_30.03.2026_1600__1800_uhr/
+LOCATION:https://Schullogin.github.io
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-27T0800--Nachrichten_Probleme_bei_der_Zustellung_von_Schullogin-Mails_an_Externe_(27.02.2026).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260327T080000Z
+DTEND:20260330T120500Z
+SUMMARY:Nachrichten: Probleme bei der Zustellung von Schullogin-Mails an Externe (27.02.2026)
+DESCRIPTION:Derzeit kommt es vermehrt zu Problemen bei der Übermittlung von Schullogin-Nachrichten an Externe Mailadressen. Nutzende erhalten eine Info\, dass die Nachricht nicht zugestellt werden konnte. Wir informieren Sie\, wenn es Neuigkeiten zur Störung gibt oder diese behoben ist. Bis dahin bitten wir um Verständnis und Geduld.\nUpdate 30.03.2026\, 12:00 Uhr\nEs wurden Anpassungen vorgenommen\, sodass der Mailversand nun wieder problemlos funktionieren sollte. Bitte wenden Sie sich an support@schullogin.de\, sollten Sie dennoch Störungen im Mailversand verzeichnen.\n
+URL:https://Schullogin.github.io/issues/2026-03-27t0800--nachrichten_probleme_bei_der_zustellung_von_schullogin-mails_an_externe_27.02.2026/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DISRUPTED
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-16T0000--MeSax-Mediathek_SP-Zertifikat-Rollover_(16.03.2026).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260316T000000Z
+DURATION:PT1H
+SUMMARY:MeSax-Mediathek: SP-Zertifikat-Rollover (16.03.2026)
+DESCRIPTION:Technische Änderung an der SSO-Infrastruktur von MeSax. Am 2026-03-16 um 10:00 CET wird das Zertifikat des SAML Service Providers (SP) erneuert und das alte Zertifikat wird deaktiviert. Der Rollover erfolgt koordiniert und ohne geplante Downtime. Sollte es durch die Änderung an der Single Sign-On-Infrastruktur von MeSax Probleme beim Zugang zu MeSax via Schullogin geben\, kontaktieren Sie uns bitte.\n
+URL:https://Schullogin.github.io/issues/2026-03-16t0000--mesax-mediathek_sp-zertifikat-rollover_16.03.2026/
+LOCATION:https://Schullogin.github.io
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-11T1500--OPAL_Schule_Betriebsbehindernde_Stoerung,_ONYX_Editor_(11.03.2026,_1500).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260311T150000Z
+DTEND:20260312T135000Z
+SUMMARY:OPAL Schule: Betriebsbehindernde Störung\, ONYX Editor (11.03.2026\, 15:00)
+DESCRIPTION:Derzeit liegt für ONYX aufgrund eines Softwarefehlers eine Störung in der Systemkomponente MAXIMA vor. Diese hat funktionell Auswirkungen auf die Aufgabentypen Berechnung und Formelvergleich sowie auf allgemeine Variablenberechnungen.\nDie Meldung zur Störung finden Sie auch hier: https://help.bps-system.de/wiki/bin/view/STATOS/Betriebsstatus%20OPAL%20Schule/Blog%20zum%20Betriebsstatus%20OPAL%20Schule/ONYX%20-%2011.03.2026%20-%20ANDAUERND%20-%20St%C3%B6rung%20bei%20Systemkomponente%20MAXIMA\n
+URL:https://Schullogin.github.io/issues/2026-03-11t1500--opal_schule_betriebsbehindernde_stoerung_onyx_editor_11.03.2026_1500/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DISRUPTED
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-27T0000--LernSax_Blockierung_des_LernSax-Mailservices_(27.02.2026).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260227T000000Z
+DTEND:20260227T093000Z
+SUMMARY:LernSax: Blockierung des LernSax-Mailservices (27.02.2026)
+DESCRIPTION:Leider ist Lernsax auf der Spam-Blockliste von Spamhaus gelandet\, die von vielen deutschen Anbietern\, z. B. web.de und gmx verwendet wird. IBH hat als Betreiber des Mail-Gateways bereits mit Spamhaus Kontakt aufgenommen\, es kann aber bis zu 48 Stunden dauern\, bis eine Änderung eintritt.\n
+URL:https://Schullogin.github.io/issues/2026-02-27t0000--lernsax_blockierung_des_lernsax-mailservices_27.02.2026/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DISRUPTED
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-25T0000--Dateiablage_Vereinzelt_Probleme_beim_Oeffnen_von_Dokumenten_(25.02.2026).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260225T000000Z
+DTEND:20260304T000000Z
+SUMMARY:Dateiablage: Vereinzelt Probleme beim Öffnen von Dokumenten (25.02.2026)
+DESCRIPTION:Vereinzelt können Dateien in der Dateiablage derzeit nicht geöffnet werden. Es erscheint folgende Fehlermeldung: “Beim Öffnen der Datei ist ein Fehler aufgetreten. Drücken Sie OK um den Editor zu schließen.” Dies betrifft sowohl das Öffnen von Dateien via öffentlichem oder internem Link als auch direkt aus der Dateiablage heraus. Hierbei lässt sich bislang kein reproduzierbares Muster erkennen\, wann welche Dateien betroffen sind.\nSo können Sie wieder auf die Datei zugreifen: Laden Sie die Datei herunter und laden Sie anschließend exakt die gleiche Datei wieder hoch. Hierdurch ist der Zugriff und das Bearbeiten wieder möglich\, ohne dass hierbei bspw. der Freigabelink verändert wird.\nWir befinden uns im Klärungsprozess.\n
+URL:https://Schullogin.github.io/issues/2026-02-25t0000--dateiablage_vereinzelt_probleme_beim_oeffnen_von_dokumenten_25.02.2026/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DISRUPTED
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-17T0800--Assistent_KAI_und_Moodle_Wartung_Saechsischer_Bildungsserver_(17.02.2026,_0800_-_1300_Uhr).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260217T080000Z
+DURATION:PT1H
+SUMMARY:Assistent KAI und Moodle: Wartung Sächsischer Bildungsserver (17.02.2026\, 08:00 - 13:00 Uhr)
+DESCRIPTION:Am Dienstag\, dem 17.02.2026\, erfolgt von 08:00 - 13:00 Uhr ein Betriebssystem-Update der Dienste KAI und Moodle für den Sächsischen Bildungsserver.\nIn dieser Zeit werden die oben genannten Dienste mehrfach jeweils für mehrere Minuten nicht erreichbar sein.\nDie anderen Dienste des Sächsischen Bildungsservers sind nicht betroffen.\n
+URL:https://Schullogin.github.io/issues/2026-02-17t0800--assistent_kai_und_moodle_wartung_saechsischer_bildungsserver_17.02.2026_0800_-_1300_uhr/
+LOCATION:https://Schullogin.github.io
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-17T0000--Dateiablage_LernSax_Moodle_Stoerung_OnlyOffice_(17.02.2026).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260217T000000Z
+DTEND:20260218T092000Z
+SUMMARY:Dateiablage/LernSax/Moodle: Störung OnlyOffice (17.02.2026)
+DESCRIPTION:18.02.2026 09:20 Uhr Die Störung wurde behoben.\n17.02.2026 OnlyOffice ist die Online-Office-Suite\, auf der die Dokumentbearbeitung in LernSax\, Moodle und der Schullogin-Dateiablage (Nextcloud) basiert.\nAm 17.02.2026 kam es hier zu einer Störung\, die die Nutzung von OnlyOffice beeinträchtigt.\n
+URL:https://Schullogin.github.io/issues/2026-02-17t0000--dateiablage_lernsax_moodle_stoerung_onlyoffice_17.02.2026/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DISRUPTED
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-16T1706--Videokonferenz_Ausfall_wegen_Update,_16.02.2026.md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260216T170600Z
+DTEND:20260217T074000Z
+SUMMARY:Videokonferenz: Ausfall wegen Update\, 16.02.2026
+DESCRIPTION:17.02.2026 - 07:40 System wieder erreichbar (ursächliche fehlerhafte Konfiguration wurde ersetzt)\n16.02.2026 - 17:00 System nicht erreichbar\n
+URL:https://Schullogin.github.io/issues/2026-02-16t1706--videokonferenz_ausfall_wegen_update_16.02.2026/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DOWN
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

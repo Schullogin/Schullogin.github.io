@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-06-17T0900--Nachrichten_Mail-Versand_und_-Empfang_gestoert_(17.06.2026).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260617T090000Z
+DTEND:20260618T170300Z
+SUMMARY:Nachrichten: Mail-Versand und -Empfang gestört (17.06.2026)
+DESCRIPTION:Es liegt aktuell eine Störung des Mail-Versands und -Empfangs vor: Nachrichten kommen nicht oder nur verzögert an. Wir arbeiten an der Behebung.\nBitte beachten Sie in diesem Zusammenhang auch die folgende Statusmeldung: https://status.schullogin.de/issues/2026-06-16t1000--saechsischer_bildungsserver_wartung_16.06.2026_1000_-_1800_uhr/\n
+URL:https://Schullogin.github.io/issues/2026-06-17t0900--nachrichten_mail-versand_und_-empfang_gestoert_17.06.2026/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DOWN
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

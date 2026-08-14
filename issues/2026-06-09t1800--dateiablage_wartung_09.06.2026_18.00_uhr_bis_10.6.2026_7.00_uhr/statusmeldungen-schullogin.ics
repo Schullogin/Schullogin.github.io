@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-06-09T1800--Dateiablage_Wartung_(09.06.2026,_18.00_Uhr_bis_10.6.2026,_7.00_Uhr).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260609T180000Z
+DURATION:PT1H
+SUMMARY:Dateiablage: Wartung (09.06.2026\, 18.00 Uhr bis 10.6.2026\, 7.00 Uhr)
+DESCRIPTION:Im Zuge eines Updates des Servers der Dateiablage wird dieser zwischen\nDienstag den 09.06.2026\, ab 18.00 Uhr bis zum Folgetag\, Mittwoch den 10.6.\, 7.00 Uhr zu einem Ausfall des Servers kommen.\nIn der Zeit sind die Daten in der Dateiablage nicht über die Weboberfläche zugänglich. Bei Nutzung des Desktop-Clients können lokale Änderungen erst danach wieder synchronisiert werden.\n
+URL:https://Schullogin.github.io/issues/2026-06-09t1800--dateiablage_wartung_09.06.2026_18.00_uhr_bis_10.6.2026_7.00_uhr/
+LOCATION:https://Schullogin.github.io
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

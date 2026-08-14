@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-05-26T1500--LernSax_Mails_werden_als_Spam_eingestuft_(25.05.2026).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260526T150000Z
+DTEND:20260602T180000Z
+SUMMARY:LernSax: Einschränkung im Werkzeug E-Mail (25.05.2026)
+DESCRIPTION:Von LernSax:\nSehr geehrte Damen und Herren\,\nAktuell gibt es auf Lernsax leider ein erhöhtes Spam-Aufkommen. Leider führt dies dazu\, das Lernsax unregelmäßig auf verschiedenen Spam-Blocklisten landet.\nWir sind mit unserem Hosting-Dienstleister im Austausch und haben eine mögliche Lösung\, wie wir die Spam-Problematieken einschränken können.\nUpdate 27.05.2027 Einschränkung im Werkzeug “E-Mail”\nAktuell kommt es aufgrund eines erhöhten Spamaufkommens vereinzelt zu Einschränkungen beim Versand von E-Mails über unsere Plattform. Unsere Sicherheitsmaßnahmen greifen bereits und wir arbeiten daran\, die Störungen schnellstmöglich vollständig zu beheben. Vielen Dank für Ihr Verständnis.\nBitte achten Sie in dieser Zeit besonders auf verdächtige E-Mails und gehen Sie umsichtig mit enthaltenen Links um. Geben Sie Ihre LernSax-Zugangsdaten niemals auf externen Webseiten ein. LernSax wird Sie hierzu niemals auffordern. Prüfen Sie außerdem sorgfältig die Echtheit von Absendern und Nachrichten. Vielen Dank für Ihre Aufmerksamkeit.\n
+URL:https://Schullogin.github.io/issues/2026-05-26t1500--lernsax_mails_werden_als_spam_eingestuft_25.05.2026/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DISRUPTED
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

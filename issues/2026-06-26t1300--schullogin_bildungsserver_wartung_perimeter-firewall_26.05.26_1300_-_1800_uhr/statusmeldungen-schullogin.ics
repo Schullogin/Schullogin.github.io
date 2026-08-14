@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-06-26T1300--Schullogin_Bildungsserver_Wartung_Perimeter-Firewall_(26.05.26_1300_-_1800_Uhr).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260526T130000Z
+DURATION:PT1H
+SUMMARY:Schullogin/Bildungsserver: Wartung Perimeter-Firewall (26.05.26 13:00 - 18:00 Uhr)
+DESCRIPTION:Am Dienstag\, den 26.05.26\, 13:00 - 18:00 Uhr\, erfolgen Software-Updates an der Perimeter-Firewall der TU Dresden.\nAufgrund der Redundanz sollte es - vorbehaltlich nicht vorhersehbarer Ereignisse - zu keinen Beeinträchtigungen kommen.\n
+URL:https://Schullogin.github.io/issues/2026-06-26t1300--schullogin_bildungsserver_wartung_perimeter-firewall_26.05.26_1300_-_1800_uhr/
+LOCATION:https://Schullogin.github.io
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

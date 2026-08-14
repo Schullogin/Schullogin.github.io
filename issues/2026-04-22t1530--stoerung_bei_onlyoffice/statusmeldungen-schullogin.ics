@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-04-22T1530--Stoerung_bei_OnlyOffice.md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260422T153000Z
+DTEND:20260422T170000Z
+SUMMARY:Störung bei OnlyOffice
+DESCRIPTION:Derzeit kommt es zu einer Störung\, aufgrund derer sich OnlyOffice bei vielen Nutzern nicht öffnen lässt. IBH wurde bereits informiert und arbeitet an einer Lösung des Problems.\n
+URL:https://Schullogin.github.io/issues/2026-04-22t1530--stoerung_bei_onlyoffice/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DISRUPTED
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

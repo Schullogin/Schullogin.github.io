@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-07-17T1500--Schullogin_Ausfall_wegen_Wartung_Bildungsserver_(ab_17.07.2026,_15:00).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260717T150000Z
+DTEND:20260721T110000Z
+SUMMARY:Schullogin: Ausfall wegen Wartung Bildungsserver (ab 17.07.2026\, 15:00)
+DESCRIPTION:Update vom 21.07.2026 Seit dem 21.07.2026\, 11 Uhr ist der Zugriff auf Schullogin sowie die angebundenen Dienste wieder möglich.\nUrpsrüngliche Meldung Aufgrund der Wartungsarbeiten am Sächsischen Bildungsserver (SBS - siehe Meldung “Sächsischer Bildungsserver: Wartung (ab 15.07.2026)”) ist Schullogin derzeit nicht erreichbar.\nEine Übersicht über den Fortschritt der Wartungsarbeiten finden Sie unter https://service.sachsen.schule/sbs/status/\n
+URL:https://Schullogin.github.io/issues/2026-07-17t1500--schullogin_ausfall_wegen_wartung_bildungsserver_ab_17.07.2026_1500/
+LOCATION:https://Schullogin.github.io
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

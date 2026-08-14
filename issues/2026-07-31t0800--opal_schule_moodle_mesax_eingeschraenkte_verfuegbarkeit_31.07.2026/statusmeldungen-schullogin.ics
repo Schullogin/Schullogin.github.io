@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-07-31T0800--OPAL_Schule,_Moodle,_MeSax_eingeschraenkte_Verfuegbarkeit_(31.07.2026).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260731T080000Z
+DTEND:20260805T080000Z
+SUMMARY:OPAL Schule\, Moodle\, MeSax: eingeschränkte Verfügbarkeit (31.07.2026)
+DESCRIPTION:Nach einem umfangreichen Schullogin-Update ist die Verbindung zu den Diensten OPAL Schule\, Moodle und MeSax derzeit gestört. An einer Wiederherstellung der Verfügbarkeit wird bereits gearbeitet.\n
+URL:https://Schullogin.github.io/issues/2026-07-31t0800--opal_schule_moodle_mesax_eingeschraenkte_verfuegbarkeit_31.07.2026/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DISRUPTED
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

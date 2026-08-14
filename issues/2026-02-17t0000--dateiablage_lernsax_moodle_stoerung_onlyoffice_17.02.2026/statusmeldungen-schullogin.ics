@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-02-17T0000--Dateiablage_LernSax_Moodle_Stoerung_OnlyOffice_(17.02.2026).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260217T000000Z
+DTEND:20260218T092000Z
+SUMMARY:Dateiablage/LernSax/Moodle: Störung OnlyOffice (17.02.2026)
+DESCRIPTION:18.02.2026 09:20 Uhr Die Störung wurde behoben.\n17.02.2026 OnlyOffice ist die Online-Office-Suite\, auf der die Dokumentbearbeitung in LernSax\, Moodle und der Schullogin-Dateiablage (Nextcloud) basiert.\nAm 17.02.2026 kam es hier zu einer Störung\, die die Nutzung von OnlyOffice beeinträchtigt.\n
+URL:https://Schullogin.github.io/issues/2026-02-17t0000--dateiablage_lernsax_moodle_stoerung_onlyoffice_17.02.2026/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DISRUPTED
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

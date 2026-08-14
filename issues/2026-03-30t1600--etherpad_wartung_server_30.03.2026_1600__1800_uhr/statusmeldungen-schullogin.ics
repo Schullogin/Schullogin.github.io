@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-03-30T1600--Etherpad_Wartung_Server_(30.03.2026,_1600_–_1800_Uhr).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260330T160000Z
+DURATION:PT1H
+SUMMARY:Etherpad: Wartung Server (30.03.2026\, 16:00 – 18:00 Uhr)
+DESCRIPTION:Der Etherpad-Server erhält ein Update.\nAus diesem Grund wird der Dienst Etherpad am 30.03.2026 in der Zeit zwischen 16:00 und 18:00 Uhr für einen kurzen Zeitraum nicht erreichbar sein.\n
+URL:https://Schullogin.github.io/issues/2026-03-30t1600--etherpad_wartung_server_30.03.2026_1600__1800_uhr/
+LOCATION:https://Schullogin.github.io
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

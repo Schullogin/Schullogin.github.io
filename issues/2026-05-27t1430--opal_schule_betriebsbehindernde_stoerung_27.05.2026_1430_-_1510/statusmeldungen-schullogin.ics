@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-05-27T1430--Opal_Schule_Betriebsbehindernde_Stoerung_(27.05.2026,_1430_-_1510).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260527T143000Z
+DTEND:20260527T151000Z
+SUMMARY:Opal Schule: Betriebsbehindernde Störung (27.05.2026\, 14:30 - 15:10)
+DESCRIPTION:Am 27.02.2026 traten in der Zeit von 14:30 bis 15:10 Uhr in OPAL Schule längere Ladezeiten der Startseite auf. OPAL Schule steht durch einen vollständigen System-Neustart wieder vollumfänglich und ohne Einschränkungen zur Verfügung.\n
+URL:https://Schullogin.github.io/issues/2026-05-27t1430--opal_schule_betriebsbehindernde_stoerung_27.05.2026_1430_-_1510/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DISRUPTED
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

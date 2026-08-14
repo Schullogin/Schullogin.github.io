@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-06-29T0900--Bildungsserver_Umfangreiche_Wartungsarbeiten_waehrend_der_Sommerferien.md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260629T090000Z
+DURATION:PT1H
+SUMMARY:Bildungsserver: Umfangreiche Wartungsarbeiten während der Sommerferien
+DESCRIPTION:In den kommenden Wochen werden umfangreiche Wartungsarbeiten und technische Umstellungen am Sächsischen Bildungsserver (SBS) durchgeführt. Dies umfasst unter anderem:\nEinführung neuer Sicherheits- und Serversysteme\, Umzug und Optimierung bestehender Systeme\, Konsolidierung der Infrastruktur sowie Abschlussarbeiten zur Fehlerbehebung und Stabilisierung. Während dieser Arbeiten kann es zu Einschränkungen bei angebundenen Diensten kommen. Wir bitten um Ihr Verständnis und informieren Sie bei relevanten Änderungen zeitnah.\n
+URL:https://Schullogin.github.io/issues/2026-06-29t0900--bildungsserver_umfangreiche_wartungsarbeiten_waehrend_der_sommerferien/
+LOCATION:https://Schullogin.github.io
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

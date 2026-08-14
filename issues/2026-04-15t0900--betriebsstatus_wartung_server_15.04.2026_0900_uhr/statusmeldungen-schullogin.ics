@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-04-15T0900--Betriebsstatus_Wartung_Server_(15.04.2026,_0900_Uhr).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260415T090000Z
+DURATION:PT1H
+SUMMARY:Betriebsstatus: Wartung Server (15.04.2026\, 09:00 Uhr)
+DESCRIPTION:Am 15.04.2026\, ab 15:00 Uhr führen wir eine Wartung der Konfiguration des Servers dieser Status-Seite (https://status.schullogin.de) durch.\nEs kann dabei zu kurzzeitigen Verbindungsproblemen kommen\, in diesem Fall ist ggf. auch ein (mehrfaches) Neuladen der Webseite notwendig.\n
+URL:https://Schullogin.github.io/issues/2026-04-15t0900--betriebsstatus_wartung_server_15.04.2026_0900_uhr/
+LOCATION:https://Schullogin.github.io
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

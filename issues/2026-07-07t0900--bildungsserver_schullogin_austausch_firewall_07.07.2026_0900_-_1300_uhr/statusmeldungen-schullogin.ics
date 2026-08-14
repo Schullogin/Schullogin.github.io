@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-07-07T0900--Bildungsserver_Schullogin_Austausch_Firewall_(07.07.2026,_0900_-_1300_Uhr).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260707T090000Z
+DURATION:PT1H
+SUMMARY:Bildungsserver/Schullogin: Austausch Firewall (07.07.2026\, 09:00 - 13:00 Uhr)
+DESCRIPTION:Am Dienstag\, dem 07.07.2026\, erfolgt von 09:00 - 13:00 Uhr der zweite Versuch zum Austausch der zentralen Firewall des Sächsischen Bildungsservers.\nDabei kommt es in der Zeit von 09:00 - 13:00 Uhr zu mehreren kurzen Ausfällen der Internetanbindung.\nDieser geplante Ausfall betrifft sämtliche Dienste des Sächsischen Bildungsservers (incl. Pressestelle SMK und Schullogin).\nVielen Dank für Ihr Verständnis.\nUpdate vom 08.07.2026 Der Tausch der Firewall ist erfolgreich abgeschlossen. Schullogin sowie alle Dienste des SBS waren am 07.07.2026 im Zeitfenster 10:45 Uhr bis 16:00 Uhr von Ausfällen betroffen und stehen nun wieder zur Verfügung. Wir danken für Ihr Verständnis.\n
+URL:https://Schullogin.github.io/issues/2026-07-07t0900--bildungsserver_schullogin_austausch_firewall_07.07.2026_0900_-_1300_uhr/
+LOCATION:https://Schullogin.github.io
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

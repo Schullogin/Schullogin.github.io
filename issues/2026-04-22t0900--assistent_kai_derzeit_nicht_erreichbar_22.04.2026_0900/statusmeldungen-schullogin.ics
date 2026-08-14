@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-04-22T0900--Assistent_KAI_Derzeit_nicht_erreichbar_(22.04.2026,_0900).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260422T090000Z
+DTEND:20260422T102500Z
+SUMMARY:Assistent KAI: Derzeit nicht erreichbar (22.04.2026\, 09:00)
+DESCRIPTION:Assistent KAI ist derzeit nicht via Schullogin erreicbar. Nutzende erhalten eine Fehlermeldung „https://ai.sachsen.schule nicht erreichbar" Es wird an einer Lösung gearbeitet.\n
+URL:https://Schullogin.github.io/issues/2026-04-22t0900--assistent_kai_derzeit_nicht_erreichbar_22.04.2026_0900/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DISRUPTED
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-05-18T0700--Videokonferenz_Ausfall.md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260518T070000Z
+DTEND:20260518T103000Z
+SUMMARY:Videokonferenz: Ausfall
+DESCRIPTION:Der Zugang zum Videokonferenzdienst via Greenlight ist derzeit gestört\, der Zugang über LernSax und andere Anbieter funktioniert.\n
+URL:https://Schullogin.github.io/issues/2026-05-18t0700--videokonferenz_ausfall/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DOWN
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

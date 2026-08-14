@@ -125,9 +125,7 @@ collections:
             options:
             - { label: "🇺🇸 English (default)", value: "en" }
             - { label: "🇱🇹 Lietuviškai (official)", value: "lt" }
-            - { label: "🇪🇸 Spanish", value: "es" }
             - { label: "🇹🇷 Turkish", value: "tr" }
-            - { label: "🇧🇩 Bangla", value: "bn" }
             - { label: "🇩🇪 Deutsch", value: "de" }
             - { label: "🇳🇱 Dutch", value: "nl" }
             - { label: "🇫🇷 French", value: "fr" }
@@ -135,12 +133,6 @@ collections:
             - { label: "🇧🇷 Portuguese", value: "pt"}
             - { label: "🇲🇰 Македонски", value: "mk" }
             - { label: "🏳️ Tagalog", value: "tl" }
-            - { label: "🇯🇵 Japanese", value: "ja" }
-            - { label: "🇺🇦 Ukrainian", value: "uk" }
-            - { label: "🇸🇪 Swedish", value: "se" }
-            - { label: "🇮🇩 Indonesian", value: "id" }
-            - { label: "🇵🇱 Polska", value: "pl" }
-            - { label: "🇷🇺 Русский", value: "ru" }
           - label: 'Site language in code for html[lang]'
             hint: 'Use the ISO 639-1 defined abbreviations. Examples: en, lt, de. Fully explained here: https://github.com/cstate/cstate/wiki/Customization#changing-site-language'
             name: 'languageCode'
@@ -248,7 +240,7 @@ collections:
               - label: 'Show last modified date at bottom of issues'
                 name: 'enableLastMod'
                 widget: 'boolean'
-                hint: 'Experimental feature shows when changes occurred based on Git info. Read the wiki for more: https://github.com/cstate/cstate/wiki/Customization#time'
+                hint: 'Experimental feature shows when changes occured based on Git info. Read the wiki for more: https://github.com/cstate/cstate/wiki/Customization#time'
                 required: false
                 default: false
               - label: 'Use relative time (issue began x min ago)'
@@ -295,7 +287,7 @@ collections:
                 required: false
                 default: true
               - label: 'Disable dark mode'
-                hint: 'If your OS and browser supports prefers-color-scheme and the user opted into a dark mode, the status page will be darker. Some color choices may be overridden.'
+                hint: 'If your OS and browser supports prefers-color-scheme and the user opted into a dark mode, the status page will be darker. Some color choices may be overriden.'
                 name: 'disableDarkMode'
                 widget: 'boolean'
                 required: false

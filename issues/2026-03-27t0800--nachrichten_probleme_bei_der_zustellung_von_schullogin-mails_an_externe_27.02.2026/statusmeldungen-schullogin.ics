@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-03-27T0800--Nachrichten_Probleme_bei_der_Zustellung_von_Schullogin-Mails_an_Externe_(27.02.2026).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260327T080000Z
+DTEND:20260330T120500Z
+SUMMARY:Nachrichten: Probleme bei der Zustellung von Schullogin-Mails an Externe (27.02.2026)
+DESCRIPTION:Derzeit kommt es vermehrt zu Problemen bei der Übermittlung von Schullogin-Nachrichten an Externe Mailadressen. Nutzende erhalten eine Info\, dass die Nachricht nicht zugestellt werden konnte. Wir informieren Sie\, wenn es Neuigkeiten zur Störung gibt oder diese behoben ist. Bis dahin bitten wir um Verständnis und Geduld.\nUpdate 30.03.2026\, 12:00 Uhr\nEs wurden Anpassungen vorgenommen\, sodass der Mailversand nun wieder problemlos funktionieren sollte. Bitte wenden Sie sich an support@schullogin.de\, sollten Sie dennoch Störungen im Mailversand verzeichnen.\n
+URL:https://Schullogin.github.io/issues/2026-03-27t0800--nachrichten_probleme_bei_der_zustellung_von_schullogin-mails_an_externe_27.02.2026/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DISRUPTED
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

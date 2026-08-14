@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-04-13T1800--OPAL_Schule_Wartung_(13.04.2026,_18-20_Uhr).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260413T180000Z
+DTEND:20260413T200000Z
+SUMMARY:OPAL Schule: Wartung (13.04.2026\, 18-20 Uhr)
+DESCRIPTION:Am Montag\, dem 13.04.2026\, ist OPAL Schule im Zeitraum von 18:00 – 20:00 Uhr aufgrund von außerordentlichen externen Wartungsarbeiten nicht oder nur eingeschränkt erreichbar sein. Wir bitten Sie\, Ihre Arbeiten entsprechend einzuplanen und wichtige Inhalte vorab zu speichern.\nWir entschuldigen uns für die entstandenen Unannehmlichkeiten und danken Ihnen für Ihr Verständnis. Bei Fragen wenden Sie sich bitte an: support@bps-system.de\n
+URL:https://Schullogin.github.io/issues/2026-04-13t1800--opal_schule_wartung_13.04.2026_18-20_uhr/
+LOCATION:https://Schullogin.github.io
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

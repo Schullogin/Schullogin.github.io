@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-02-16T1706--Videokonferenz_Ausfall_wegen_Update,_16.02.2026.md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260216T170600Z
+DTEND:20260217T074000Z
+SUMMARY:Videokonferenz: Ausfall wegen Update\, 16.02.2026
+DESCRIPTION:17.02.2026 - 07:40 System wieder erreichbar (ursächliche fehlerhafte Konfiguration wurde ersetzt)\n16.02.2026 - 17:00 System nicht erreichbar\n
+URL:https://Schullogin.github.io/issues/2026-02-16t1706--videokonferenz_ausfall_wegen_update_16.02.2026/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DOWN
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

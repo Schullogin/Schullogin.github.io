@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-08-10T1000--LernSax_E-Mail-Versand_an_externe_Adressen_gestoert_(10.08.2026).md@Schullogin.github.io
+DTSTAMP:20260814T141908Z
+DTSTART:20260810T100000Z
+DTEND:20260810T120000Z
+SUMMARY:LernSax: E-Mail-Versand an externe Adressen gestört (10.08.2026)
+DESCRIPTION:Zurzeit kommt es aufgrund einer Störung zu Einschränkungen beim E-Mail-Versand von LernSax an externe E-Mail-Adressen.\n
+URL:https://Schullogin.github.io/issues/2026-08-10t1000--lernsax_e-mail-versand_an_externe_adressen_gestoert_10.08.2026/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DISRUPTED
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
