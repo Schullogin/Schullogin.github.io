@@ -118,7 +118,7 @@
 - id: toAllUpdates
   translation: alle Updates
 - id: or
-  translation: or
+  translation: oder
 - id: onlyThisFeed
   translation: nur diesen Feed
 
