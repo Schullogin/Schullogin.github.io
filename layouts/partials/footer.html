@@ -41,7 +41,7 @@
             <a href="{{ .Permalink }}" class="no-underline">{{ T "allEvents" }}</a>
             {{ if and (not $.IsHome) (eq $.Kind "page") }}
             {{ with $.OutputFormats.Get "ics" }}
-              {{ T "or" }} <a href="{{ .Permalink }}" class="no-underline">{{ T "onlyThisEvent" }} ({{ $.Title }})</a>
+              {{ T "or" }} <a href="{{ .Permalink }}" class="no-underline">{{ T "onlyThisEvent" }}</a>
             {{ end }}
             {{ end }}
           </small>
