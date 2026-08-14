@@ -13,8 +13,10 @@
   (printf "PRODID:-//%s//cState//EN" (.Site.Title | plainify))
   "CALSCALE:GREGORIAN"
   "METHOD:PUBLISH"
-  (printf "X-WR-CALNAME:%s" (.Title | plainify))
+  (printf "X-WR-CALNAME:%s" (.Site.Title  | plainify))
+  (printf "NAME:%s" (.Site.Title  | plainify))
   (printf "X-WR-CALDESC:%s" (T "incidentHistory"))
+  (printf "DESCRIPTION:%s" (T "incidentHistory"))
 -}}
 {{- range .Pages -}}
   {{- $lines = $lines | append (partial "ics-vevent.html" .) -}}
