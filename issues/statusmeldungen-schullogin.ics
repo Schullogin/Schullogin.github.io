@@ -8,8 +8,20 @@ NAME:Verfügbarkeit digitaler Dienste für Schulen in Sachsen
 X-WR-CALDESC:Ereignishistorie
 DESCRIPTION:Ereignishistorie
 BEGIN:VEVENT
+UID:2026-08-27T0830--Schullogin_Login-Einschraenkungen_(27.08.2026).md@Schullogin.github.io
+DTSTAMP:20260827T093418Z
+DTSTART:20260827T083000Z
+DURATION:PT1H
+SUMMARY:Schullogin: Login-Einschränkungen (27.08.2026)
+DESCRIPTION:Aufgrund eines technischen Fehlers können sich derzeit einige Nutzerinnen und Nutzer nicht in Schullogin anmelden. Stattdessen wird beim Login-Versuch eine Fehlermeldung angezeigt. Wir befinden uns bereits in der Fehleranalyse und arbeiten an einer Lösung.\n
+URL:https://Schullogin.github.io/issues/2026-08-27t0830--schullogin_login-einschraenkungen_27.08.2026/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DISRUPTED
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:2026-08-18T1137--Etherpad_Ausfall_(18.08.2026).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260818T113700Z
 DURATION:PT1H
 SUMMARY:Etherpad: Ausfall (18.08.2026)
@@ -21,7 +33,7 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-11T0700--Schullogin_Bildungsserver_Wartung_Backup-System_(11.08.2026_0700_-_1600_Uhr).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260811T070000Z
 DURATION:PT1H
 SUMMARY:Schullogin/Bildungsserver: Wartung Backup-System (11.08.2026 07:00 - 16:00 Uhr)
@@ -32,7 +44,7 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-08-10T1000--LernSax_E-Mail-Versand_an_externe_Adressen_gestoert_(10.08.2026).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260810T100000Z
 DTEND:20260810T120000Z
 SUMMARY:LernSax: E-Mail-Versand an externe Adressen gestört (10.08.2026)
@@ -44,7 +56,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-31T0800--OPAL_Schule,_Moodle,_MeSax_eingeschraenkte_Verfuegbarkeit_(31.07.2026).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260731T080000Z
 DTEND:20260805T080000Z
 SUMMARY:OPAL Schule\, Moodle\, MeSax: eingeschränkte Verfügbarkeit (31.07.2026)
@@ -56,7 +68,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-27T1300--Schullogin_Bildungsserver_Wartung_Perimeter-Firewall_(27.07.26_1300_-_1800_Uhr).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260727T130000Z
 DURATION:PT1H
 SUMMARY:Schullogin/Bildungsserver: Wartung Perimeter-Firewall (27.07.26 13:00 - 18:00 Uhr)
@@ -67,7 +79,7 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-23T1600--Moodle_Bildungsserver_Wartungsarbeiten_(23.07.2026,_ab_1600).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260723T160000Z
 DTEND:20260727T170000Z
 SUMMARY:Moodle/Bildungsserver: Wartungsarbeiten (23.07.2026\, ab 16:00)
@@ -79,7 +91,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-17T1500--Schullogin_Ausfall_wegen_Wartung_Bildungsserver_(ab_17.07.2026,_15:00).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260717T150000Z
 DTEND:20260721T110000Z
 SUMMARY:Schullogin: Ausfall wegen Wartung Bildungsserver (ab 17.07.2026\, 15:00)
@@ -90,7 +102,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-15T0900--Saechsischer_Bildungsserver_Wartung_(ab_15.07.2026).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260715T090000Z
 DURATION:PT1H
 SUMMARY:Sächsischer Bildungsserver: Wartung (ab 15.07.2026)
@@ -101,7 +113,7 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-08T1600--Nachrichten_Stoerungen_bei_der_Zustellbarkeit_von_Nachrichten_(08.07.2026).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260708T160000Z
 DTEND:20260709T163000Z
 SUMMARY:Nachrichten: Störungen bei der Zustellbarkeit von Nachrichten (08.07.2026)
@@ -113,7 +125,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-07T0900--Bildungsserver_Schullogin_Austausch_Firewall_(07.07.2026,_0900_-_1300_Uhr).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260707T090000Z
 DURATION:PT1H
 SUMMARY:Bildungsserver/Schullogin: Austausch Firewall (07.07.2026\, 09:00 - 13:00 Uhr)
@@ -124,7 +136,7 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-07-07T0700--Schullogin_Bildungsserver_Wartung_Backup-System_(07.07.2026_0700_-_1600_Uhr).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260707T070000Z
 DURATION:PT1H
 SUMMARY:Schullogin/Bildungsserver: Wartung Backup-System (07.07.2026 07:00 - 16:00 Uhr)
@@ -135,7 +147,7 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-30T1123--OPAL_Schule_Betriebsverhindernde_Stoerung_(30.06.2026,_1123_Uhr).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260630T112300Z
 DTEND:20260701T075500Z
 SUMMARY:OPAL Schule: Betriebsverhindernde Störung (30.06.2026\, 11:23 Uhr)
@@ -147,7 +159,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-29T0900--Bildungsserver_Umfangreiche_Wartungsarbeiten_waehrend_der_Sommerferien.md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260629T090000Z
 DURATION:PT1H
 SUMMARY:Bildungsserver: Umfangreiche Wartungsarbeiten während der Sommerferien
@@ -158,7 +170,7 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-25T0800--Etherpad_Ausfall_(25.06.2026).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260625T080000Z
 DTEND:20260625T102000Z
 SUMMARY:Etherpad: Ausfall (25.06.2026)
@@ -170,7 +182,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-17T0900--Nachrichten_Mail-Versand_und_-Empfang_gestoert_(17.06.2026).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260617T090000Z
 DTEND:20260618T170300Z
 SUMMARY:Nachrichten: Mail-Versand und -Empfang gestört (17.06.2026)
@@ -182,7 +194,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-16T1600--Dateiablage_Ausfall_Anmeldung_ueber_Schullogin_(16.06.2026,_1600_Uhr).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260616T160000Z
 DTEND:20260617T120000Z
 SUMMARY:Dateiablage: Ausfall Anmeldung über Schullogin (16.06.2026\, 16:00 Uhr)
@@ -194,7 +206,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-16T1000--Saechsischer_Bildungsserver_Wartung_(16.06.2026_1000_-_1800_Uhr).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260616T100000Z
 DURATION:PT1H
 SUMMARY:Sächsischer Bildungsserver: Wartung (16.06.2026 10:00 - 18:00 Uhr)
@@ -205,7 +217,7 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-09T1800--Dateiablage_Wartung_(09.06.2026,_18.00_Uhr_bis_10.6.2026,_7.00_Uhr).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260609T180000Z
 DURATION:PT1H
 SUMMARY:Dateiablage: Wartung (09.06.2026\, 18.00 Uhr bis 10.6.2026\, 7.00 Uhr)
@@ -216,7 +228,7 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-08T1800--GitLab_Wartung_(08.06.2026,_1800_Uhr_bis_09.06.2026,_9.00_Uhr).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260608T180000Z
 DURATION:PT1H
 SUMMARY:GitLab: Wartung (08.06.2026\, 18:00 Uhr bis 09.06.2026\, 9.00 Uhr)
@@ -227,7 +239,7 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-27T1430--Opal_Schule_Betriebsbehindernde_Stoerung_(27.05.2026,_1430_-_1510).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260527T143000Z
 DTEND:20260527T151000Z
 SUMMARY:Opal Schule: Betriebsbehindernde Störung (27.05.2026\, 14:30 - 15:10)
@@ -239,7 +251,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-26T1500--LernSax_Mails_werden_als_Spam_eingestuft_(25.05.2026).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260526T150000Z
 DTEND:20260602T180000Z
 SUMMARY:LernSax: Einschränkung im Werkzeug E-Mail (25.05.2026)
@@ -251,7 +263,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-06-26T1300--Schullogin_Bildungsserver_Wartung_Perimeter-Firewall_(26.05.26_1300_-_1800_Uhr).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260526T130000Z
 DURATION:PT1H
 SUMMARY:Schullogin/Bildungsserver: Wartung Perimeter-Firewall (26.05.26 13:00 - 18:00 Uhr)
@@ -262,7 +274,7 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-18T0700--Videokonferenz_Ausfall.md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260518T070000Z
 DTEND:20260518T103000Z
 SUMMARY:Videokonferenz: Ausfall
@@ -274,7 +286,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-05T2330--Eingeschraenkte_Erreichbarkeit_durch_zentrale_DNS-Stoerung_der_.de-Zone.md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260505T233000Z
 DTEND:20260506T020000Z
 SUMMARY:Eingeschränkte Erreichbarkeit durch zentrale DNS-Störung der .de-Zone
@@ -286,7 +298,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-05T0700--Schullogin_Wartung_Tape-_und_Backup-Infrastruktur_(05.05.2026,_07_-_16_Uhr).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260505T070000Z
 DTEND:20260505T160000Z
 SUMMARY:Schullogin: Wartung Tape- und Backup-Infrastruktur (05.05.2026\, 07 - 16 Uhr)
@@ -297,7 +309,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-04T1000--Nachrichten_Stoerungen_bei_der_Zustellbarkeit_von_Nachrichten_(04.05.2026).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260504T100000Z
 DTEND:20260505T160000Z
 SUMMARY:Nachrichten: Störungen bei der Zustellbarkeit von Nachrichten (04.05.2026)
@@ -309,7 +321,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-22T1600--Moodle_Update_(22.04.2026,_1600_-_2200_Uhr).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260422T160000Z
 DURATION:PT1H
 SUMMARY:Moodle: Update (22.04.2026\, 16:00 - 22:00 Uhr)
@@ -320,7 +332,7 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-22T1530--Stoerung_bei_OnlyOffice.md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260422T153000Z
 DTEND:20260422T170000Z
 SUMMARY:Störung bei OnlyOffice
@@ -332,7 +344,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-22T0900--Assistent_KAI_Derzeit_nicht_erreichbar_(22.04.2026,_0900).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260422T090000Z
 DTEND:20260422T102500Z
 SUMMARY:Assistent KAI: Derzeit nicht erreichbar (22.04.2026\, 09:00)
@@ -344,7 +356,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-21T0700--Moodle_Zugriff_auf_Moodle-Instanzen_gestoert_(21.04.2026,_0700_Uhr).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260421T070000Z
 DTEND:20260421T080000Z
 SUMMARY:Moodle: Zugriff auf Moodle-Instanzen gestört (21.04.2026\, 07:00 Uhr)
@@ -356,7 +368,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-16T1600--Dateiablage_Wartung_Server_(16.04.2026,_1600_Uhr).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260416T160000Z
 DURATION:PT1H
 SUMMARY:Dateiablage: Wartung Server (16.04.2026\, 16:00 Uhr)
@@ -367,7 +379,7 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-15T0900--Betriebsstatus_Wartung_Server_(15.04.2026,_0900_Uhr).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260415T090000Z
 DURATION:PT1H
 SUMMARY:Betriebsstatus: Wartung Server (15.04.2026\, 09:00 Uhr)
@@ -378,7 +390,7 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-13T1800--OPAL_Schule_Wartung_(13.04.2026,_18-20_Uhr).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260413T180000Z
 DTEND:20260413T200000Z
 SUMMARY:OPAL Schule: Wartung (13.04.2026\, 18-20 Uhr)
@@ -389,7 +401,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-31T0835--Moodle_Aktuell_nicht_erreichbar_via_Schullogin_(31.03.2026,_0835_Uhr).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260331T083500Z
 DTEND:20260331T093000Z
 SUMMARY:Moodle: Aktuell nicht erreichbar via Schullogin (31.03.2026\, 08:35 Uhr)
@@ -401,7 +413,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-30T1620--Dateiablage_DNS_Problem,_Ende_wahrscheinlich_1740.md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260330T162000Z
 DTEND:20260330T172000Z
 SUMMARY:Dateiablage: DNS Problem\, Ende wahrscheinlich 17:40
@@ -413,7 +425,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-30T1600--Etherpad_Wartung_Server_(30.03.2026,_1600_–_1800_Uhr).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260330T160000Z
 DURATION:PT1H
 SUMMARY:Etherpad: Wartung Server (30.03.2026\, 16:00 – 18:00 Uhr)
@@ -424,7 +436,7 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-27T0800--Nachrichten_Probleme_bei_der_Zustellung_von_Schullogin-Mails_an_Externe_(27.02.2026).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260327T080000Z
 DTEND:20260330T120500Z
 SUMMARY:Nachrichten: Probleme bei der Zustellung von Schullogin-Mails an Externe (27.02.2026)
@@ -436,7 +448,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-16T0000--MeSax-Mediathek_SP-Zertifikat-Rollover_(16.03.2026).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260316T000000Z
 DURATION:PT1H
 SUMMARY:MeSax-Mediathek: SP-Zertifikat-Rollover (16.03.2026)
@@ -447,36 +459,12 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-11T1500--OPAL_Schule_Betriebsbehindernde_Stoerung,_ONYX_Editor_(11.03.2026,_1500).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260311T150000Z
 DTEND:20260312T135000Z
 SUMMARY:OPAL Schule: Betriebsbehindernde Störung\, ONYX Editor (11.03.2026\, 15:00)
 DESCRIPTION:Derzeit liegt für ONYX aufgrund eines Softwarefehlers eine Störung in der Systemkomponente MAXIMA vor. Diese hat funktionell Auswirkungen auf die Aufgabentypen Berechnung und Formelvergleich sowie auf allgemeine Variablenberechnungen.\nDie Meldung zur Störung finden Sie auch hier: https://help.bps-system.de/wiki/bin/view/STATOS/Betriebsstatus%20OPAL%20Schule/Blog%20zum%20Betriebsstatus%20OPAL%20Schule/ONYX%20-%2011.03.2026%20-%20ANDAUERND%20-%20St%C3%B6rung%20bei%20Systemkomponente%20MAXIMA\n
 URL:https://Schullogin.github.io/issues/2026-03-11t1500--opal_schule_betriebsbehindernde_stoerung_onyx_editor_11.03.2026_1500/
-LOCATION:https://Schullogin.github.io
-CATEGORIES:DISRUPTED
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-02-27T0000--LernSax_Blockierung_des_LernSax-Mailservices_(27.02.2026).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
-DTSTART:20260227T000000Z
-DTEND:20260227T093000Z
-SUMMARY:LernSax: Blockierung des LernSax-Mailservices (27.02.2026)
-DESCRIPTION:Leider ist Lernsax auf der Spam-Blockliste von Spamhaus gelandet\, die von vielen deutschen Anbietern\, z. B. web.de und gmx verwendet wird. IBH hat als Betreiber des Mail-Gateways bereits mit Spamhaus Kontakt aufgenommen\, es kann aber bis zu 48 Stunden dauern\, bis eine Änderung eintritt.\n
-URL:https://Schullogin.github.io/issues/2026-02-27t0000--lernsax_blockierung_des_lernsax-mailservices_27.02.2026/
-LOCATION:https://Schullogin.github.io
-CATEGORIES:DISRUPTED
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2026-02-25T0000--Dateiablage_Vereinzelt_Probleme_beim_Oeffnen_von_Dokumenten_(25.02.2026).md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
-DTSTART:20260225T000000Z
-DTEND:20260304T000000Z
-SUMMARY:Dateiablage: Vereinzelt Probleme beim Öffnen von Dokumenten (25.02.2026)
-DESCRIPTION:Vereinzelt können Dateien in der Dateiablage derzeit nicht geöffnet werden. Es erscheint folgende Fehlermeldung: “Beim Öffnen der Datei ist ein Fehler aufgetreten. Drücken Sie OK um den Editor zu schließen.” Dies betrifft sowohl das Öffnen von Dateien via öffentlichem oder internem Link als auch direkt aus der Dateiablage heraus. Hierbei lässt sich bislang kein reproduzierbares Muster erkennen\, wann welche Dateien betroffen sind.\nSo können Sie wieder auf die Datei zugreifen: Laden Sie die Datei herunter und laden Sie anschließend exakt die gleiche Datei wieder hoch. Hierdurch ist der Zugriff und das Bearbeiten wieder möglich\, ohne dass hierbei bspw. der Freigabelink verändert wird.\nWir befinden uns im Klärungsprozess.\n
-URL:https://Schullogin.github.io/issues/2026-02-25t0000--dateiablage_vereinzelt_probleme_beim_oeffnen_von_dokumenten_25.02.2026/
 LOCATION:https://Schullogin.github.io
 CATEGORIES:DISRUPTED
 STATUS:CONFIRMED

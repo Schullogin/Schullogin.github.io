@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:2026-05-05T2330--Eingeschraenkte_Erreichbarkeit_durch_zentrale_DNS-Stoerung_der_.de-Zone.md@Schullogin.github.io
-DTSTAMP:20260824T132151Z
+DTSTAMP:20260827T093418Z
 DTSTART:20260505T233000Z
 DTEND:20260506T020000Z
 SUMMARY:Eingeschränkte Erreichbarkeit durch zentrale DNS-Störung der .de-Zone
