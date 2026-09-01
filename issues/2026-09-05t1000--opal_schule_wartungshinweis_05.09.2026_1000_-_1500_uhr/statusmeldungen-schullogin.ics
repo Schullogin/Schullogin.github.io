@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-09-05T1000--OPAL_Schule_Wartungshinweis_(05.09.2026,_1000_-_1500_Uhr).md@Schullogin.github.io
+DTSTAMP:20260901T105829Z
+DTSTART:20260905T100000Z
+DURATION:PT1H
+SUMMARY:OPAL Schule: Wartungshinweis (05.09.2026\, 10:00 - 15:00 Uhr)
+DESCRIPTION:Am Samstag\, dem 05.09.2026\, ist OPAL Schule bzw. können einzelne Komponenten des Systems im Zeitraum von 10:00 – 15:00 Uhr aufgrund von Wartungsarbeiten nicht oder nur eingeschränkt erreichbar sein. Wir bitten Sie\, Ihre Arbeiten entsprechend einzuplanen und wichtige Inhalte vorab zu speichern. Wir entschuldigen uns für die entstandenen Unannehmlichkeiten und danken Ihnen für Ihr Verständnis. Bei Fragen wenden Sie sich bitte an: support@bps-system.de.\n
+URL:https://Schullogin.github.io/issues/2026-09-05t1000--opal_schule_wartungshinweis_05.09.2026_1000_-_1500_uhr/
+LOCATION:https://Schullogin.github.io
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR
