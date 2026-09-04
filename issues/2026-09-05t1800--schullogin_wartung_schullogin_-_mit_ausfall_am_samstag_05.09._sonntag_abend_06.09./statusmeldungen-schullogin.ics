@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-09-05T1800--Schullogin_Wartung_Schullogin_-_mit_Ausfall_am_Samstag_05.09._Sonntag_Abend_06.09..md@Schullogin.github.io
+DTSTAMP:20260904T084211Z
+DTSTART:20260905T180000Z
+DURATION:PT1H
+SUMMARY:Schullogin: Wartung Schullogin - mit Ausfall am Samstag 05.09. / Sonntag Abend 06.09.
+DESCRIPTION:Wegen Wartungsarbeiten am Datenbankserver von Schullogin kommt es am Abend des 05.09. und des 06.09. zu Ausfällen.\n
+URL:https://Schullogin.github.io/issues/2026-09-05t1800--schullogin_wartung_schullogin_-_mit_ausfall_am_samstag_05.09._sonntag_abend_06.09./
+LOCATION:https://Schullogin.github.io
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR
