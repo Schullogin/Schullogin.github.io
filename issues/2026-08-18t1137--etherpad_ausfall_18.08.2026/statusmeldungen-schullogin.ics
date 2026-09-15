@@ -5,14 +5,14 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:2026-08-18T1137--Etherpad_Ausfall_(18.08.2026).md@Schullogin.github.io
-DTSTAMP:20260914T075637Z
+DTSTAMP:20260915T112545Z
 DTSTART:20260818T113700Z
-DURATION:PT1H
+DTEND:20260901T060000Z
 SUMMARY:Etherpad: Ausfall (18.08.2026)
 DESCRIPTION:Etherpad ist zurzeit wegen der Überprüfung einer potenziellen Sicherheitslücke vorübergehend nicht verfügbar. Voraussichtlich wird der Dienst Ende der Woche wieder verfügbar sein.\n
 URL:https://Schullogin.github.io/issues/2026-08-18t1137--etherpad_ausfall_18.08.2026/
 LOCATION:https://Schullogin.github.io
 CATEGORIES:DOWN
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
