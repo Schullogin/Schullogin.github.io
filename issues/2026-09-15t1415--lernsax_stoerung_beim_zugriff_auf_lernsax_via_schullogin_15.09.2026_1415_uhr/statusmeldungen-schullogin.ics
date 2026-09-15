@@ -5,10 +5,10 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:2026-09-15T1415--LernSax_Stoerung_beim_Zugriff_auf_lernSax_via_Schullogin_(15.09.2026,_1415_Uhr).md@Schullogin.github.io
-DTSTAMP:20260915T125046Z
+DTSTAMP:20260915T125148Z
 DTSTART:20260915T141500Z
 DURATION:PT1H
-SUMMARY:LernSax: Störung beim Zugriff auf lernSax via Schullogin (15.09.2026\, 14:15 Uhr)
+SUMMARY:LernSax: Störung beim Zugriff auf LernSax via Schullogin (15.09.2026\, 14:15 Uhr)
 DESCRIPTION:Aktuell funktioniert der Zugriff auf LernSax via Schullogin nicht. Nutzende erhalten „500 Internal Server Error“. Wir arbeiten mit Hochdruck an einer Lösung und bitten um Geduld.\n
 URL:https://Schullogin.github.io/issues/2026-09-15t1415--lernsax_stoerung_beim_zugriff_auf_lernsax_via_schullogin_15.09.2026_1415_uhr/
 LOCATION:https://Schullogin.github.io
