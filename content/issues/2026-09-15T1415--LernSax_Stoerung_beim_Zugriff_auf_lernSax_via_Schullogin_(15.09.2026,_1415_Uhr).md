@@ -1,5 +1,5 @@
 ---
-title: "LernSax: Störung beim Zugriff auf lernSax via Schullogin (15.09.2026, 14:15 Uhr)"
+title: "LernSax: Störung beim Zugriff auf LernSax via Schullogin (15.09.2026, 14:15 Uhr)"
 date: 2026-09-15T14:15:00
 resolved: false # Resolving: set to true
 # resolvedWhen: 2026-09-15T14:15:00 # Resolving: remove comment, set correct end datetime
