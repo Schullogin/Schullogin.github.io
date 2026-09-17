@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:2026-09-05T1800--Schullogin_Wartung_Schullogin_-_mit_Ausfall_am_Samstag_05.09._Sonntag_Abend_06.09..md@Schullogin.github.io
-DTSTAMP:20260917T080614Z
+DTSTAMP:20260917T081316Z
 DTSTART:20260905T180000Z
 DURATION:PT1H
 SUMMARY:Schullogin: Wartung Schullogin - mit Ausfall am Samstag 05.09. / Sonntag Abend 06.09.
