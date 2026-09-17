@@ -40,4 +40,4 @@ section: issue
 
 Am 23.09.2026 ab 09:00 bis 15.00 Uhr findet eine größere Wartung der USV-Anlage in der TU Dresden statt.
 Während der Wartung erfolgt die Stromversorgung durch Umschaltung auf einen externen Bypass.
-Mit Ausfällen an den Systemen des Sächsischen Bildungsservers rechnen wir nicht.
+Ausfälle an den Systemen des Sächsischen Bildungsservers sind nicht zu erwarten.
