@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-09-18T2132--SaxSVS-BBS-SchulloginVereinzelt_Probleme_bei_der_Datenuebermittlung_(18.09.2026).md@Schullogin.github.io
+DTSTAMP:20260918T193621Z
+DTSTART:20260918T213200Z
+DURATION:PT1H
+SUMMARY:SaxSVS-BBS-Schullogin:Vereinzelt Probleme bei der Datenübermittlung (18.09.2026)
+DESCRIPTION:Bei der Übermittlung der Daten einzelner Nutzenden von SaxSVS-BBS zu Schullogin kann es derzeit zu Problemen kommen. An einer Lösung des Problems wird gearbeitet. In den letzten Wochen fanden bereits zahlreiche Anpassungen statt.\n
+URL:https://Schullogin.github.io/issues/2026-09-18t2132--saxsvs-bbs-schulloginvereinzelt_probleme_bei_der_datenuebermittlung_18.09.2026/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DISRUPTED
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR
