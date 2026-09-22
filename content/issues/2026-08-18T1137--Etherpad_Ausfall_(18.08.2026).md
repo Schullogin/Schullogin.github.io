@@ -11,4 +11,4 @@ affected:
 section: issue
 ---
 
-Etherpad ist zurzeit wegen der Überprüfung einer potenziellen Sicherheitslücke vorübergehend nicht verfügbar. Voraussichtlich wird der Dienst Ende der Woche wieder verfügbar sein.
+Etherpad ist zurzeit wegen der Überprüfung einer potenziellen Sicherheitslücke vorübergehend nicht verfügbar.
