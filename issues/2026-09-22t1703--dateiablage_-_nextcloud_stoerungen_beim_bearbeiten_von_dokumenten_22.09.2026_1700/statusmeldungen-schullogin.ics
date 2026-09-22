@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-09-22T1703--Dateiablage_-_Nextcloud_Stoerungen_beim_Bearbeiten_von_Dokumenten_(22.09.2026,_1700).md@Schullogin.github.io
+DTSTAMP:20260922T153448Z
+DTSTART:20260922T170300Z
+DURATION:PT1H
+SUMMARY:Dateiablage - Nextcloud: Störungen beim Bearbeiten von Dokumenten (22.09.2026\, 17:00)
+DESCRIPTION:Derzeit bestehen Probleme beim Bearbeiten von Dokumenten in der Dateiablage (Nextcloud) mit OnlyOffice. Betroffen sind insbesondere Textdokumente. Wir arbeiten an einer Lösung.\n
+URL:https://Schullogin.github.io/issues/2026-09-22t1703--dateiablage_-_nextcloud_stoerungen_beim_bearbeiten_von_dokumenten_22.09.2026_1700/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DISRUPTED
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR
