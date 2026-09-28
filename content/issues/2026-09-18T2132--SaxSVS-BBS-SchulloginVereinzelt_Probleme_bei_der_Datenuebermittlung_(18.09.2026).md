@@ -1,11 +1,11 @@
 ---
 title: "SaxSVS-BBS-Schullogin:Vereinzelt Probleme bei der Datenübermittlung (18.09.2026)"
 date: 2026-09-18T21:32:00
-resolved: false # Resolving: set to true
-# resolvedWhen: 2026-09-18T21:32:00 # Resolving: remove comment, set correct end datetime
+resolved: true # Resolving: set to true
+resolvedWhen: 2026-09-28T09:00:00 # Resolving: remove comment, set correct end datetime
 severity: disrupted
 # informational: true # field makes issue look more like a blog post and removes any references to downtime length
-pin: true # Resolving: set to false
+pin: false # Resolving: set to false
 affected:
 - Anmeldung
 - Schnittstellen
