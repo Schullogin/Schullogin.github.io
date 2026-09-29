@@ -13,6 +13,7 @@ section: issue
 
 Aktuell kann es zu zeitweisen Ausfällen des VIDIS-SSO kommen. Damit sind Anmeldungen an die VIDIS-Dienste
  
+- AIS
 - beste.schule
 - bettermarks
 - HubbS
