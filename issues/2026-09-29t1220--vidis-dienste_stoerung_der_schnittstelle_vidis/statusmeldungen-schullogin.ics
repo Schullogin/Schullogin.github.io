@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-09-29T1220--VIDIS-Dienste_Stoerung_der_Schnittstelle_VIDIS.md@Schullogin.github.io
+DTSTAMP:20260929T103730Z
+DTSTART:20260929T122000Z
+DURATION:PT1H
+SUMMARY:VIDIS-Dienste: Störung der Schnittstelle VIDIS
+DESCRIPTION:Aktuell kann es zu zeitweisen Ausfällen des VIDIS-SSO kommen. Damit sind Anmeldungen an die VIDIS-Dienste\nbeste.schule bettermarks HubbS Meta-Videoportal ggf. gestört\nGrund dafür ist ein aktuelles technisches Problem beim Cloud-Provider des VIDIS-Betreibers FWU\, welches Auswirkungen auf VIDIS hat.\nFWU arbeitet mit Hochdruck an einer Lösung.\n
+URL:https://Schullogin.github.io/issues/2026-09-29t1220--vidis-dienste_stoerung_der_schnittstelle_vidis/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DISRUPTED
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR
