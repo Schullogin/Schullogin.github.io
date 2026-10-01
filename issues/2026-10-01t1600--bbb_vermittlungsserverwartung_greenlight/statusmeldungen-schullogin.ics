@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-10-01T1600--BBB_Vermittlungsserverwartung_(Greenlight).md@Schullogin.github.io
+DTSTAMP:20261001T134909Z
+DTSTART:20261001T160000Z
+DURATION:PT1H
+SUMMARY:BBB Vermittlungsserverwartung (Greenlight)
+DESCRIPTION:Am Donnerstag\, dem 01.10.2026 updaten wir den Vermittlungsserver (“Greenlight”) unseres Videokonferenzdienstes BigBlueButton (BBB).\n
+URL:https://Schullogin.github.io/issues/2026-10-01t1600--bbb_vermittlungsserverwartung_greenlight/
+LOCATION:https://Schullogin.github.io
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR
