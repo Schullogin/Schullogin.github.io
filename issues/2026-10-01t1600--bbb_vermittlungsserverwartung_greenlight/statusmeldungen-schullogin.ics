@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:2026-10-01T1600--BBB_Vermittlungsserverwartung_(Greenlight).md@Schullogin.github.io
-DTSTAMP:20261001T134909Z
+DTSTAMP:20261001T143036Z
 DTSTART:20261001T160000Z
-DURATION:PT1H
+DTEND:20261001T160100Z
 SUMMARY:BBB Vermittlungsserverwartung (Greenlight)
-DESCRIPTION:Am Donnerstag\, dem 01.10.2026 updaten wir den Vermittlungsserver (“Greenlight”) unseres Videokonferenzdienstes BigBlueButton (BBB).\n
+DESCRIPTION:Am Donnerstag\, dem 01.10.2026 updaten wir den Vermittlungsserver (“Greenlight”) unseres Videokonferenzdienstes BigBlueButton (BBB).\nUpdate 16:01 Das Update wurde erfolgreich abgeschlossen. Der Vermittlungsserver (“Greenlight”) unseres Videokonferenzdienstes BigBlueButton (BBB) ist wieder betriebsbereit.\n
 URL:https://Schullogin.github.io/issues/2026-10-01t1600--bbb_vermittlungsserverwartung_greenlight/
 LOCATION:https://Schullogin.github.io
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
