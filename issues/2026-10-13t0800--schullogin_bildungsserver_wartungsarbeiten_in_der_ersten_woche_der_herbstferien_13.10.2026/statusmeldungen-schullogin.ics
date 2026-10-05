@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-10-13T0800--Schullogin_Bildungsserver_Wartungsarbeiten_in_der_ersten_Woche_der_Herbstferien_(13.10.2026).md@Schullogin.github.io
+DTSTAMP:20261005T121112Z
+DTSTART:20261013T080000Z
+DURATION:PT1H
+SUMMARY:Schullogin/Bildungsserver: Wartungsarbeiten in der ersten Woche der Herbstferien (13.10.2026)
+DESCRIPTION:Am 13.10. sind Wartungsarbeiten beim SBS geplant\, die sich ggf. für einige Tage auf die Zustellung von Mails an Schullogin-Mailadressen auswirken können. Senden Sie Support-Anfragen an schullogin-support@tu-dresden.de\, solange diese Meldung auf der Startseite und der Statusseite eingeblendet ist. Wir danken für Ihr Verständnis und wünschen schöne Ferien.\n
+URL:https://Schullogin.github.io/issues/2026-10-13t0800--schullogin_bildungsserver_wartungsarbeiten_in_der_ersten_woche_der_herbstferien_13.10.2026/
+LOCATION:https://Schullogin.github.io
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR
