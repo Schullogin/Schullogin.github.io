@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-10-08T2100--Etherpad_Update_(08.10.2026,_2100_-_2200).md@Schullogin.github.io
+DTSTAMP:20261008T104831Z
+DTSTART:20261008T210000Z
+DURATION:PT1H
+SUMMARY:Etherpad: Update (08.10.2026\, 21:00 - 22:00)
+DESCRIPTION:Am 08.10.2026 im Zeitraum zwischen 21:00 - 22:00 updaten wir Etherpad auf die neueste Version.\nHierbei wird der Zugriff auf den Dienst für voraussichtlich nur wenige Minuten unterbrochen sein.\n
+URL:https://Schullogin.github.io/issues/2026-10-08t2100--etherpad_update_08.10.2026_2100_-_2200/
+LOCATION:https://Schullogin.github.io
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR
