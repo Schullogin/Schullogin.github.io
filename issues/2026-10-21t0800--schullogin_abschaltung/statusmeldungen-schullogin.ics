@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-10-21T0800--Schullogin_Abschaltung.md@Schullogin.github.io
+DTSTAMP:20261021T122236Z
+DTSTART:20261021T142000Z
+DURATION:PT1H
+SUMMARY:Präventive Abschaltung Schullogin (CVE-2026-109618 / CVE-2026-109619)
+DESCRIPTION:Aufgrund einer Sicherheitslücke in PHP\, zu der es ab 16:00 Uhr weitere Informationen geben soll\, werden alle potentiell betroffen Dienste vorrübergehen abgeschaltet. Davon ist auch Schullogin selbst und weitere Dienste betroffen. Die Abschaltung erfolgt\, um das Risiko von Datenverlusten oder Einbrüchen bis zum Update zu reduzieren.\n
+URL:https://Schullogin.github.io/issues/2026-10-21t0800--schullogin_abschaltung/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DOWN
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR
