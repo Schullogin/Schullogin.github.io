@@ -35,4 +35,4 @@ affected:
 section: issue
 ---
 
-Aufgrund einer Sicherheitslücke in PHP, zu der es ab 16:00 Uhr weitere Informationen geben soll, werden alle potentiell betroffen Dienste vorrübergehen abgeschaltet. Davon ist auch Schullogin selbst und weitere Dienste betroffen. Die Abschaltung erfolgt, um das Risiko von Datenverlusten oder Einbrüchen bis zum Update zu reduzieren.
+Aufgrund einer Sicherheitslücke in PHP, zu der es ab 16:00 Uhr weitere Informationen geben soll, werden alle potentiell betroffenen Dienste vorrübergehend abgeschaltet. Davon ist auch Schullogin selbst und weitere Dienste betroffen. Die Abschaltung erfolgt, um das Risiko von Datenverlusten oder Einbrüchen bis zum Update zu reduzieren.
