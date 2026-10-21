@@ -5,14 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:2026-10-21T1420--Schullogin_Abschaltung.md@Schullogin.github.io
-DTSTAMP:20261021T135248Z
+DTSTAMP:20261021T175158Z
 DTSTART:20261021T142000Z
-DURATION:PT1H
+DTEND:20261021T192000Z
 SUMMARY:Präventive Abschaltung Schullogin (CVE-2026-109618 / CVE-2026-109619)
-DESCRIPTION:Aufgrund einer Sicherheitslücke in PHP\, zu der es ab 16:00 Uhr weitere Informationen geben soll\, werden alle potentiell betroffenen Dienste vorrübergehend abgeschaltet. Davon ist auch Schullogin selbst und weitere Dienste betroffen. Die Abschaltung erfolgt\, um das Risiko von Datenverlusten oder Einbrüchen bis zum Update zu reduzieren.\n
+DESCRIPTION:Aufgrund einer Sicherheitslücke in PHP\, zu der es ab 16:00 Uhr weitere Informationen geben soll\, werden alle potentiell betroffenen Dienste vorrübergehend abgeschaltet. Davon ist auch Schullogin selbst und weitere Dienste betroffen. Die Abschaltung erfolgt\, um das Risiko von Datenverlusten oder Einbrüchen bis zum Update zu reduzieren.\nUpdate 19:20 Die erforderlichen Updates wurden durchgeführt. Die Dienste stehen wieder wie gewohnt zur Verfügung.\n
 URL:https://Schullogin.github.io/issues/2026-10-21t1420--schullogin_abschaltung/
 LOCATION:https://Schullogin.github.io
-CATEGORIES:DOWN
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
