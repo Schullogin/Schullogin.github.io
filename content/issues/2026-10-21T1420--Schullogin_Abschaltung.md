@@ -1,11 +1,11 @@
 ---
 title: "Präventive Abschaltung Schullogin (CVE-2026-109618 / CVE-2026-109619)"
 date: 2026-10-21T14:20:00
-resolved: false
-# resolvedWhen: 2024-03-27T18:00:00
-severity: down
+resolved: true
+resolvedWhen: 2026-10-21T19:20:00
+# severity: down
 # informational: true
-pin: true
+pin: false
 affected:
 - Anmeldung
 - Support
@@ -36,3 +36,7 @@ section: issue
 ---
 
 Aufgrund einer Sicherheitslücke in PHP, zu der es ab 16:00 Uhr weitere Informationen geben soll, werden alle potentiell betroffenen Dienste vorrübergehend abgeschaltet. Davon ist auch Schullogin selbst und weitere Dienste betroffen. Die Abschaltung erfolgt, um das Risiko von Datenverlusten oder Einbrüchen bis zum Update zu reduzieren.
+
+## Update 19:20
+
+Die erforderlichen Updates wurden durchgeführt. Die Dienste stehen wieder wie gewohnt zur Verfügung.
