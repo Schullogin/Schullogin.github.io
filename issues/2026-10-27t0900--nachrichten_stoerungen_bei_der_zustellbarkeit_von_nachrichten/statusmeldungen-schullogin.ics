@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-10-27T0900--Nachrichten_Stoerungen_bei_der_Zustellbarkeit_von_Nachrichten.md@Schullogin.github.io
+DTSTAMP:20261027T114418Z
+DTSTART:20261027T090000Z
+DURATION:PT1H
+SUMMARY:Nachrichten: Störungen bei der Zustellbarkeit von Nachrichten
+DESCRIPTION:Derzeit liegt eine Störung vom Mailservice vor. Durch die Umstellung in den Ferien sind zum Teil E-Mails an externe Server nicht zustellbar.\n
+URL:https://Schullogin.github.io/issues/2026-10-27t0900--nachrichten_stoerungen_bei_der_zustellbarkeit_von_nachrichten/
+LOCATION:https://Schullogin.github.io
+CATEGORIES:DISRUPTED
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR
