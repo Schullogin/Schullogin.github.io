@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:2026-10-26T1300--Schullogin_Bildungsserver_[ZIH-Ankuendigung]_Software-Update_Perimeter-Firewall_(26.10.2026).md@Schullogin.github.io
-DTSTAMP:20261030T105446Z
+DTSTAMP:20261030T105645Z
 DTSTART:20261026T130000Z
 DURATION:PT1H
 SUMMARY:Schullogin/Bildungsserver: [ZIH-Ankündigung] Software-Update Perimeter-Firewall (26.10.2026)
