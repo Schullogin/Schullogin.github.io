@@ -1,11 +1,11 @@
 ---
 title: "Nachrichten: Störungen bei der Zustellbarkeit von Nachrichten"
 date: 2026-10-27T09:00:00
-resolved: false # Resolving: set to true
+resolved: true # Resolving: set to true
 # resolvedWhen: 2026-10-27T09:00:00 # Resolving: remove comment, set correct end datetime
 severity: disrupted
 # informational: true # field makes issue look more like a blog post and removes any references to downtime length
-pin: true # Resolving: set to false
+pin: false # Resolving: set to false
 affected:
 - Nachrichten
 section: issue
@@ -14,6 +14,8 @@ section: issue
 Derzeit liegt eine Störung vom Mailservice vor. Durch die Umstellung in den Ferien sind zum Teil E-Mails an externe Server nicht zustellbar.
 
 ## Verlauf
+
+### 04.11.2026 Prüfungen erfolgreich abgeschlossen, Störung behoben
 
 ### 30.10.2026 – Mögliche Einschränkungen bei T-Online
 Derzeit kann es bei der Zustellung von E-Mails an T-Online-Adressen (z. B. @t-online.de) zu Verzögerungen oder Ablehnungen kommen. Wir testen die Zustellung aktuell und informieren hier, sobald neue Erkenntnisse vorliegen.
