@@ -5,13 +5,13 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:2026-11-05T1500--Schullogin_Wartung_05.11.2026_ab_1500_Uhr.md@Schullogin.github.io
-DTSTAMP:20261102T145628Z
+DTSTAMP:20261105T151850Z
 DTSTART:20261105T150000Z
-DURATION:PT1H
+DTEND:20261105T160000Z
 SUMMARY:Schullogin: Wartung 05.11.2026 ab 15:00 Uhr
-DESCRIPTION:Das IDM wird am Donnerstag Nachmittag aktualisiert und für ca. 60 Minuten offline genommen.\n
+DESCRIPTION:Das IDM wird am Donnerstag Nachmittag aktualisiert und für ca. 60 Minuten offline genommen.\nUpdate 15:15 Das Update wurde gestartet.\nUpdate 16:00 Das Update wurde erfolgreich beendet.\n
 URL:https://Schullogin.github.io/issues/2026-11-05t1500--schullogin_wartung_05.11.2026_ab_1500_uhr/
 LOCATION:https://Schullogin.github.io
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
