@@ -5,7 +5,7 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:2026-10-27T0900--Nachrichten_Stoerungen_bei_der_Zustellbarkeit_von_Nachrichten.md@Schullogin.github.io
-DTSTAMP:20261105T151850Z
+DTSTAMP:20261116T153412Z
 DTSTART:20261027T090000Z
 DTEND:20261104T090000Z
 SUMMARY:Nachrichten: Störungen bei der Zustellbarkeit von Nachrichten

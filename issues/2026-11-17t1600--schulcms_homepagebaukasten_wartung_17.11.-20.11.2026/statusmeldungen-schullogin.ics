@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Verfügbarkeit digitaler Dienste für Schulen in Sachsen//cState//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:2026-11-17T1600--SchulCMS_Homepagebaukasten_Wartung_(17.11.-20.11.2026).md@Schullogin.github.io
+DTSTAMP:20261116T153412Z
+DTSTART:20261117T160000Z
+DURATION:PT1H
+SUMMARY:SchulCMS/Homepagebaukasten: Wartung (17.11.-20.11.2026)
+DESCRIPTION:Wegen kurzfristig notwendiger\, sicherheitsrelevanter Wartungsarbeiten ist der Homepagebaukasten (SchulCMS) vom 17.11.26 16.00 bis voraussichtlich 20.11.26 ganztägig nicht oder nur eingeschränkt erreichbar. Wir bitten um Ihr Verständnis. Gegebenenfalls weitere notwendige Informationen erhalten Sie über das Serviceportal (https://service.sachsen.schule).\n
+URL:https://Schullogin.github.io/issues/2026-11-17t1600--schulcms_homepagebaukasten_wartung_17.11.-20.11.2026/
+LOCATION:https://Schullogin.github.io
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR
