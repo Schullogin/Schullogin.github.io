@@ -11,4 +11,10 @@ affected:
 section: issue
 ---
 
+### 17.11.2026 - Update
+Wegen kurzfristig notwendiger, sicherheitsrelevanter Wartungsarbeiten ist das Backend des Homepagebaukasten (SchulCMS) vom 17.11.26 16.00 bis voraussichtlich 19.11.26 ganztägig nicht oder nur eingeschränkt erreichbar. Die Schulhomepages selbst (Frontend) sind, wenn überhaupt, nur kurzzeitig nicht verfügbar. Wir bitten um Ihr Verständnis. Gegebenenfalls weitere notwendige Informationen erhalten Sie über das Serviceportal (https://service.sachsen.schule).
+
+
+### 16.11.2026
+
 Wegen kurzfristig notwendiger, sicherheitsrelevanter Wartungsarbeiten ist der Homepagebaukasten (SchulCMS) vom 17.11.26 16.00 bis voraussichtlich 20.11.26 ganztägig nicht oder nur eingeschränkt erreichbar. Wir bitten um Ihr Verständnis. Gegebenenfalls weitere notwendige Informationen erhalten Sie über das Serviceportal (https://service.sachsen.schule).
