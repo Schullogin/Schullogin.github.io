@@ -1,17 +1,22 @@
 ---
 title: "SchulCMS/Homepagebaukasten: Wartung (17.11.-20.11.2026)"
 date: 2026-11-17T16:00:00
-# resolved: true # field not needed for maintenance informational
-# resolvedWhen: 2026-11-17T16:00:00 # field not needed for maintenance informational
+resolved: true # field not needed for maintenance informational
+resolvedWhen: 2026-11-20T14:00:00 # field not needed for maintenance informational
 # severity: down # field not needed for maintenance informational
-informational: true # field makes issue look more like a blog post and removes any references to downtime length
-pin: true # Resolving: set to false
+informational: false # field makes issue look more like a blog post and removes any references to downtime length
+pin: false # Resolving: set to false
 affected:
 - SchulCMS
 section: issue
 ---
 
+### 20.11.2026 - Update
+
+Die Patches wurden durchgeführt und das Backend-Login steht wieder zur Verfügung. Bei "versteckten" Fehlern kontaktieren Sie uns bitte. Vielen Dank für Ihre Geduld.
+
 ### 17.11.2026 - Update
+
 Wegen kurzfristig notwendiger, sicherheitsrelevanter Wartungsarbeiten ist das Backend des Homepagebaukasten (SchulCMS) vom 17.11.26 16.00 bis voraussichtlich 19.11.26 ganztägig nicht oder nur eingeschränkt erreichbar. Die Schulhomepages selbst (Frontend) sind, wenn überhaupt, nur kurzzeitig nicht verfügbar. Wir bitten um Ihr Verständnis. Gegebenenfalls weitere notwendige Informationen erhalten Sie über das Serviceportal (https://service.sachsen.schule).
 
 
