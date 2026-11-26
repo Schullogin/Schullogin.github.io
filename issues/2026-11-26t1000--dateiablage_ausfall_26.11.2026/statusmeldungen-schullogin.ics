@@ -5,11 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:2026-11-26T1000--Dateiablage_Ausfall_26.11.2026.md@Schullogin.github.io
-DTSTAMP:20261126T130851Z
+DTSTAMP:20261126T145330Z
 DTSTART:20261126T100000Z
 DURATION:PT1H
 SUMMARY:Dateiablage: Störung 26.11.2026
-DESCRIPTION:Der Zugriff auf die Dateiablage (Nextcloud) ist aktuell zeitweise gestört.\nWir arbeiten an der Analyse und Behebung des Problems.\n
+DESCRIPTION:Update 26.11.2026\, 15:00 Uhr Ursache der Störungen ist ein gestiegenes Nutzungsaufkommen.\nAls erste Maßnahmen wurde die Nextcloud-Software geupdated und Optimierungen durchgeführt.\nWir beobachten die Auslastung weiterhin.\nUrsprüngliche Nachricht Der Zugriff auf die Dateiablage (Nextcloud) ist aktuell zeitweise gestört.\nWir arbeiten an der Analyse und Behebung des Problems.\n
 URL:https://Schullogin.github.io/issues/2026-11-26t1000--dateiablage_ausfall_26.11.2026/
 LOCATION:https://Schullogin.github.io
 CATEGORIES:DISRUPTED
