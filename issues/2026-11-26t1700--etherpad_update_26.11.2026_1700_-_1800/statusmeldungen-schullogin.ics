@@ -5,9 +5,9 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:2026-11-26T1700--Etherpad_Update_(26.11.2026,_1700_-_1800).md@Schullogin.github.io
-DTSTAMP:20261126T145330Z
+DTSTAMP:20261126T163300Z
 DTSTART:20261126T170000Z
-DURATION:PT1H
+DTEND:20261126T173000Z
 SUMMARY:Etherpad: Update (26.11.2026\, 17:00 - 18:00)
 DESCRIPTION:Am 08.10.2026 im Zeitraum zwischen 17:00 - 18:00 updaten wir Etherpad auf die neueste Version.\nHierbei wird der Zugriff auf den Dienst für voraussichtlich nur wenige Minuten unterbrochen sein.\n
 URL:https://Schullogin.github.io/issues/2026-11-26t1700--etherpad_update_26.11.2026_1700_-_1800/
