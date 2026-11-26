@@ -2,10 +2,10 @@
 title: "Etherpad: Update (26.11.2026, 17:00 - 18:00)"
 date: 2026-11-26T17:00:00
 # resolved: true # field not needed for maintenance informational
-# resolvedWhen: 2026-11-26T17:00:00 # field not needed for maintenance informational
+resolvedWhen: 2026-11-26T17:30:00 # field not needed for maintenance informational
 # severity: down # field not needed for maintenance informational
 informational: true # field makes issue look more like a blog post and removes any references to downtime length
-pin: true # Resolving: set to false
+pin: false # Resolving: set to false
 affected:
 - Etherpad
 section: issue
