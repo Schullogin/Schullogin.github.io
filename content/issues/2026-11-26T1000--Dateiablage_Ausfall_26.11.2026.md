@@ -11,6 +11,17 @@ affected:
 section: issue
 ---
 
+## Update 26.11.2026, 15:00 Uhr
+
+Ursache der Störungen ist ein gestiegenes Nutzungsaufkommen.
+
+Als erste Maßnahmen wurde die Nextcloud-Software geupdated und Optimierungen durchgeführt.
+
+Wir beobachten die Auslastung weiterhin.
+
+
+## Ursprüngliche Nachricht
+
 Der Zugriff auf die Dateiablage (Nextcloud) ist aktuell zeitweise gestört.
 
 Wir arbeiten an der Analyse und Behebung des Problems.
